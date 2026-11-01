@@ -1,4 +1,4 @@
-{"title":"Jewllion — Chayei Sarah, Mighty Men and Priestly Gifts","description":"Bilingual AI draft. Open-ended banks are not exhaustive; review facts, accepted phrasings and editorial rarity estimates before use.","seconds":35,"questions":[
+{"title":"Jewllion Pack 07","description":"Bilingual AI draft. Open-ended banks are not exhaustive; review facts, accepted phrasings and editorial rarity estimates before use.","seconds":35,"questions":[
 {"id":"q1","prompt":"Name a person mentioned by name in Parshas Chayei Sarah (Genesis 23:1–25:18).","prompt_he":"ציינו אדם הנזכר בשמו בפרשת חיי שרה (בראשית כג, א–כה, יח), כולל חת ונחור, ולמעט שמות עמים ברבים.","category":"Tanakh","question_type":"attribute_or_action","difficulty":"easy","provenance":"ai_draft","answers":[
 {"text":"Sarah","tier":"surface","aliases":["שרה","Sara","Sorah","Sora","Soroh","Sarah Imeinu","שרה אמנו","שרי","Sarai"]},
 {"text":"Abraham","tier":"surface","aliases":["אברהם","Avraham","Avrohom","Avroham","Avraham Avinu","אברהם אבינו","Abram","Avram","אברם"]},
