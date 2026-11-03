@@ -1,204 +1,2318 @@
-{"title":"Jewllion Pack 07","description":"Cheshvan 21 - 5787","seconds":35,"questions":[
-{"id":"q1","prompt":"Name a person mentioned by name in Parshas Chayei Sarah (Genesis 23:1–25:18).","prompt_he":"ציינו אדם הנזכר בשמו בפרשת חיי שרה (בראשית כג, א–כה, יח), כולל חת ונחור, ולמעט שמות עמים ברבים.","category":"Tanakh","question_type":"attribute_or_action","difficulty":"easy","provenance":"ai_draft","answers":[
-{"text":"Sarah","tier":"surface","aliases":["שרה","Sara","Sorah","Sora","Soroh","Sarah Imeinu","שרה אמנו","שרי","Sarai"]},
-{"text":"Abraham","tier":"surface","aliases":["אברהם","Avraham","Avrohom","Avroham","Avraham Avinu","אברהם אבינו","Abram","Avram","אברם"]},
-{"text":"Isaac","tier":"surface","aliases":["יצחק","Yitzchak","Yitzhak","Yitshak","Yitschak","Yitzchok","Yitzhok","Itzhak","Yitzchak Avinu","יצחק אבינו"]},
-{"text":"Rebecca","tier":"surface","aliases":["רבקה","Rebekah","Rivkah","Rivka","Ribkah","Rivkoh","Rivkah Imeinu","רבקה אמנו"]},
-{"text":"Ishmael","tier":"surface","aliases":["ישמעאל","Yishmael","Yishma'el","Yishmoel","Ismael"]},
-{"text":"Ephron","tier":"familiar","aliases":["עפרון","עפרן","Efron","Ephron the Hittite","Efron HaChiti","עפרון החתי"]},
-{"text":"Heth","tier":"familiar","aliases":["חת","Chet","Cheth","Ches","Heit","Cheit","Chait","Hethite","בני חת","Bnei Chet","Bnei Heth"]},
-{"text":"Nahor","tier":"uncommon","aliases":["נחור","Nachor","Nakhor","Nahor brother of Abraham","נחור אחי אברהם"]},
-{"text":"Bethuel","tier":"familiar","aliases":["בתואל","Betuel","Besuel","Betu'el","Bethuel son of Milcah","בתואל בן מלכה"]},
-{"text":"Laban","tier":"familiar","aliases":["לבן","Lavan","Lovon","Laban the Aramean","לבן הארמי"]},
-{"text":"Keturah","tier":"familiar","aliases":["קטורה","Ketura","Qeturah","Qetura","Keturah wife of Abraham"]},
-{"text":"Midian","tier":"familiar","aliases":["מדין","מדיין","Midyan"]},
-{"text":"Hagar","tier":"familiar","aliases":["הגר","Hagar the Egyptian","הגר המצרית"]},
-{"text":"Milcah","tier":"uncommon","aliases":["מלכה","Milkah","Milca","Malkah","Malka"]},
-{"text":"Zimran","tier":"uncommon","aliases":["זמרן","Zimron"]},
-{"text":"Jokshan","tier":"uncommon","aliases":["יקשן","Yokshan","Yoqshan","Jokshan son of Keturah"]},
-{"text":"Medan","tier":"uncommon","aliases":["מדן","M'dan"]},
-{"text":"Sheba","tier":"uncommon","aliases":["שבא","Sheva","Shva","Sh'va"]},
-{"text":"Dedan","tier":"uncommon","aliases":["דדן","D'dan"]},
-{"text":"Nebaioth","tier":"uncommon","aliases":["נביות","נבית","Nevayot","Nevayos","Nebajoth","Nevaiot","Nevaioth"]},
-{"text":"Kedar","tier":"uncommon","aliases":["קדר","Qedar","Keidar"]},
-{"text":"Zohar","tier":"obscure","aliases":["צחר","צוחר","Tzochar","Tzohar","Tsochar","Tsohar","Zohar father of Ephron","צחר אבי עפרון"]},
-{"text":"Ishbak","tier":"obscure","aliases":["ישבק","Yishbak","Yishbaq"]},
-{"text":"Shuah","tier":"obscure","aliases":["שוח","Shuach","Shuakh"]},
-{"text":"Ephah","tier":"obscure","aliases":["עיפה","Eiphah","Eipha","Epha","Efaf","Efah"]},
-{"text":"Epher","tier":"obscure","aliases":["עפר","Efer","Eipher"]},
-{"text":"Hanoch","tier":"obscure","aliases":["חנך","חנוך","Chanoch","Chanokh","Hanokh","Enoch"]},
-{"text":"Abida","tier":"obscure","aliases":["אבידע","Avida","Abidah","Avidah"]},
-{"text":"Eldaah","tier":"pearl","aliases":["אלדעה","Elda'ah","Elda'a","Eldaa"],"note":"Fifth and final son of Midian (and grandson of Abraham and Keturah) listed in the genealogy of Genesis 25:4.","note_he":"הבן החמישי והאחרון של מדין (ונכדם של אברהם וקטורה) המנוי ברשימת היוחסין בבראשית כה, ד."},
-{"text":"Adbeel","tier":"obscure","aliases":["אדבאל","Adbe'el","Adbeil"]},
-{"text":"Mibsam","tier":"obscure","aliases":["מבשם","Mivsam"]},
-{"text":"Mishma","tier":"obscure","aliases":["משמע","Mishma'"]},
-{"text":"Dumah","tier":"obscure","aliases":["דומה","Duma"]},
-{"text":"Massa","tier":"obscure","aliases":["משא","Masa","Massah"]},
-{"text":"Hadad","tier":"obscure","aliases":["חדד","Chadad","Hadar"]},
-{"text":"Tema","tier":"obscure","aliases":["תימא","Teima","Teyma","Temah"]},
-{"text":"Jetur","tier":"obscure","aliases":["יטור","Yetur","Y'tur"]},
-{"text":"Naphish","tier":"obscure","aliases":["נפיש","Nafish"]},
-{"text":"Kedemah","tier":"obscure","aliases":["קדמה","Kedema","Qedemah","Kedmah","Kidmah"]}
-]},
-{"id":"q2","prompt":"Name one of King David's mighty men (Gibarei David) listed in 2 Samuel 23:8–39 (Yoav is also accepted).","prompt_he":"ציינו אחד מגיבורי דוד המנויים בשמואל ב כג, ח–לט (גם יואב מתקבל).","category":"Tanakh","question_type":"defined_group","difficulty":"medium","provenance":"ai_draft","answers":[
-{"text":"Joab","tier":"surface","aliases":["יואב","יואב בן צרויה","Yoav","Yoab","Yoav ben Tzeruyah","Yoav ben Tzruyah","Joab son of Zeruiah"]},
-{"text":"Abishai","tier":"surface","aliases":["אבישי","אבישי בן צרויה","אבישי אחי יואב","Avishai","Avishay","Avishai ben Tzeruyah","Abishai son of Zeruiah","Abishai brother of Joab"]},
-{"text":"Benaiah son of Jehoiada","tier":"surface","aliases":["בניהו בן יהוידע","בניהו","Benaiah","Benayahu","Benayahu ben Yehoyada","Benaya","Benayah","בניה"]},
-{"text":"Uriah the Hittite","tier":"surface","aliases":["אוריה החתי","אוריה","Uriah","Uriyah","Uriya","Uriyah HaChiti","Uriah HaChiti"]},
-{"text":"Asahel","tier":"surface","aliases":["עשהאל","עשהאל אחי יואב","Asa'el","Asael","Asahel brother of Joab","Asahel ben Tzeruyah","עשהאל בן צרויה"]},
-{"text":"Adino the Eznite","tier":"familiar","aliases":["עדינו העצני","יושב בשבת","יושב בשבת תחכמוני","ישב בשבת תחכמני","Adino HaEtzni","Adino Ha'etzni","Josheb-basshebeth","Yoshev Bashavet","Yoshev Bashevet","Tachkemoni","Tahchemonite"]},
-{"text":"Eleazar son of Dodo","tier":"familiar","aliases":["אלעזר בן דודו","אלעזר בן דדי","אלעזר","Eleazar","Elazar","Elazar ben Dodo","Eleazar ben Dodo","Eleazar the Ahohite","אלעזר בן אחחי"]},
-{"text":"Shammah","tier":"familiar","aliases":["שמה","שמא","שמא בן אגא","שמה בן אגא ההררי","שמה החרדי","שמה ההררי","Shama","Shammah son of Agee","Shammah the Hararite","Shammah the Harodite","Shama ben Agee"]},
-{"text":"Elhanan","tier":"familiar","aliases":["אלחנן","אלחנן בן דודו","אלחנן בן דודו בית הלחמי","Elchanan","Elchanan ben Dodo","Elhanan son of Dodo","Elhanan of Bethlehem"]},
-{"text":"Eliam son of Ahithophel","tier":"familiar","aliases":["אליעם בן אחיתופל","אליעם","אליעם בן אחיתפל הגלני","Eliam","Eli'am","Eliam ben Achitofel","Eliam the Gilonite"]},
-{"text":"Ira","tier":"uncommon","aliases":["עירא","עירא בן עקש","עירא בן עקש התקועי","עירא היתרי","Ira son of Ikkesh","Ira ben Ikesh","Ira the Tekoite","Ira the Ithrite","Ira HaYitri"]},
-{"text":"Helez the Paltite","tier":"uncommon","aliases":["חלץ הפלטי","חלץ","Helez","Cheletz","Cheletz HaPalti","Heletz"]},
-{"text":"Abiezer the Anathothite","tier":"uncommon","aliases":["אביעזר הענתותי","אביעזר הענתתי","אביעזר","Abiezer","Aviezer","Aviezer HaAnatoti","Avi'ezer"]},
-{"text":"Mebunnai the Hushathite","tier":"uncommon","aliases":["מבוני החשתי","מבני החשתי","מבוני","סבכי החשתי","סבכי","Mebunnai","Mevunai","Mevunnai","Sibbecai","Sibbechai","Sibkai"]},
-{"text":"Maharai the Netophathite","tier":"uncommon","aliases":["מהרי הנטופתי","מהרי הנטפתי","מהרי","Maharai","Maharay","Maharai HaNetofati"]},
-{"text":"Ittai son of Ribai","tier":"uncommon","aliases":["אתי בן ריבי","איתי בן ריבי","אתי","איתי","Ittai","Itai","Itay","Ittai ben Rivai"]},
-{"text":"Jonathan","tier":"uncommon","aliases":["יהונתן","בני ישן יהונתן","Yonatan","Yehonatan","Jonathan son of Jashen","Yehonatan ben Yashen","Yonasan"]},
-{"text":"Elika the Harodite","tier":"obscure","aliases":["אליקא החרדי","אליקא","Elika","Eliqa","Elika HaCharodi"]},
-{"text":"Zalmon the Ahohite","tier":"obscure","aliases":["צלמון האחוחי","צלמון האחחי","צלמון","Zalmon","Tzalmon","Tsalmon","Ilai","עילי"]},
-{"text":"Heleb son of Baanah","tier":"obscure","aliases":["חלב בן בענה","חלב בן בענה הנטפתי","חלב","חלד בן בענה","Heleb","Chelev","Chelev ben Baanah","Heled","Cheled"]},
-{"text":"Benaiah the Pirathonite","tier":"obscure","aliases":["בניהו פרעתוני","בניהו פרעתני","בניהו הפרעתוני","Benayahu Piratoni","Benayahu HaPiratoni"]},
-{"text":"Hiddai of the Brooks of Gaash","tier":"obscure","aliases":["הדי מנחלי געש","הדי","Hiddai","Hidai","Hiday","Churai","חורי"]},
-{"text":"Abi-albon the Arbathite","tier":"obscure","aliases":["אבי עלבון הערבתי","אבי עלבון","אביעלבון","Abi-albon","Avialvon","Avi Alvon","Abiel","אביאל"]},
-{"text":"Azmaveth the Barhumite","tier":"obscure","aliases":["עזמות הברחמי","עזמות","Azmaveth","Azmavet","Azmaves","Azmaveth HaBarchumi"]},
-{"text":"Eliahba the Shaalbonite","tier":"obscure","aliases":["אליחבא השעלבוני","אליחבא השעלבני","אליחבא","Eliahba","Eliachba","Eliyahba"]},
-{"text":"Jashen","tier":"obscure","aliases":["ישן","בני ישן","Yashen","Bnei Yashen","Hashem the Gizonite","השם הגזוני"]},
-{"text":"Ahiam son of Sharar","tier":"obscure","aliases":["אחיאם בן שרר","אחיאם","Achiam","Ahiam","Achiam ben Sharar","Achi'am"]},
-{"text":"Eliphelet son of Ahasbai","tier":"obscure","aliases":["אליפלט בן אחסבי","אליפלט","Eliphelet","Elifelet","Elifelet ben Achasbai"]},
-{"text":"Hezro the Carmelite","tier":"obscure","aliases":["חצרו הכרמלי","חצרי הכרמלי","חצרו","חצרי","Hezro","Chetzro","Hezrai","Chetzrai"]},
-{"text":"Paarai the Arbite","tier":"obscure","aliases":["פערי הארבי","פערי","Paarai","Pa'arai","Paaray","Naarai","נערי"]},
-{"text":"Igal son of Nathan","tier":"obscure","aliases":["יגאל בן נתן","יגאל בן נתן מצבה","יגאל","Igal","Yigal","Yig'al","Igal of Zobah"]},
-{"text":"Bani the Gadite","tier":"obscure","aliases":["בני הגדי","בני","Bani","Bani HaGadi"]},
-{"text":"Zelek the Ammonite","tier":"obscure","aliases":["צלק העמוני","צלק העמני","צלק","Zelek","Tzelek","Tselek","Tzelek HaAmoni"]},
-{"text":"Naharai the Beerothite","tier":"pearl","aliases":["נחרי הבארותי","נחרי הבארתי","נחרי","Naharai","Nacharai","Nachrai","Naharai HaBe'eroti"],"note":"Listed in 2 Samuel 23:37 among the Thirty and uniquely identified there as the armor-bearer (nosei keilim) of Joab son of Zeruiah.","note_he":"נזכר בשמואל ב כג, לז בין גיבורי השלושים, ומזוהה שם במפורש כנושא כליו של יואב בן צרויה."},
-{"text":"Gareb the Ithrite","tier":"obscure","aliases":["גרב היתרי","גרב","Gareb","Garev","Garev HaYitri"]}
-]},
-{"id":"q3","prompt":"Name a musical instrument explicitly mentioned in Sefer Tehillim (Psalms).","prompt_he":"ציינו כלי נגינה המוזכר במפורש בספר תהילים, כולל כלי נגינה הנזכרים בכותרות המזמורים. אפשר לענות בעברית, בתעתיק או באנגלית.","category":"Tanakh","question_type":"attribute_or_action","difficulty":"easy","provenance":"ai_draft","answers":[
-{"text":"Kinnor","tier":"surface","aliases":["כינור","כנור","Harp","Lyre","Kinor","Kinnorot","כנורות","כינורות"]},
-{"text":"Shofar","tier":"surface","aliases":["שופר","Ram's horn","Rams horn","Horn","Shofaros","Shofarot","שופרות"]},
-{"text":"Nevel","tier":"familiar","aliases":["נבל","נבלים","Psaltery","Lute","Nebel","Nevalim"]},
-{"text":"Tof","tier":"familiar","aliases":["תוף","תף","תופים","Timbrel","Tambourine","Drum","Hand drum","Toph","Tupim"]},
-{"text":"Chatzotzrot","tier":"familiar","aliases":["חצוצרות","חצצרות","חצוצרה","Trumpet","Trumpets","Silver trumpet","Silver trumpets","Chatzotzrah","Hatzotzrot","Chatzozrot","Chatzotzros"]},
-{"text":"Tziltzelim","tier":"uncommon","aliases":["צלצלים","צלצלי שמע","צלצלי תרועה","מצלתיים","Cymbal","Cymbals","Tziltzelei shama","Tziltzelei teruah","Tsiltzelim","Metziltayim"]},
-{"text":"Ugav","tier":"uncommon","aliases":["עוגב","עגב","Pipe","Flute","Reed pipe","Organ","Oogav","Uggav"]},
-{"text":"Minim","tier":"uncommon","aliases":["מינים","מנים","מני","Strings","Stringed instrument","Stringed instruments","Minnim"]},
-{"text":"Neginot","tier":"uncommon","aliases":["נגינות","נגינת","Neginos","Neginoth","Binginot","בנגינות"]},
-{"text":"Asor","tier":"obscure","aliases":["עשור","נבל עשור","עלי עשור","Ten-stringed instrument","Ten-stringed harp","Ten-stringed lyre","Nevel asor","Assor"]},
-{"text":"Machol","tier":"obscure","aliases":["מחול","מחולות","Dance pipe","Choral flute","Mahol","Mecholot"]},
-{"text":"Gittit","tier":"obscure","aliases":["גתית","הגתית","על הגתית","Gittith","Gitit","Gittis","Al HaGittit","HaGittit"]},
-{"text":"Sheminit","tier":"pearl","aliases":["שמינית","השמינית","על השמינית","Eight-stringed lyre","Eight-stringed harp","Shminit","Sheminith","Shminis","Al HaSheminit","HaSheminit"],"note":"Named in the superscriptions of Psalms 6:1 and 12:1 (Al HaSheminit) and identified in Talmud Arakhin 13b and Rashi as an eight-stringed lyre.","note_he":"נזכרת בכותרות תהילים ו, א ו־יב, א (״על השמינית״), ומזוהה בגמרא בערכין יג ע״ב וברש״י ככינור של שמונה נימין."},
-{"text":"Alamot","tier":"obscure","aliases":["עלמות","על עלמות","Alamos","Alamoth","Al Alamot"]},
-{"text":"Nechilot","tier":"obscure","aliases":["נחילות","הנחילות","אל הנחילות","Nechilos","Nehilot","Nehiloth","Al HaNechilot","HaNechilot"]},
-{"text":"Shoshannim","tier":"obscure","aliases":["שושנים","על שושנים","שושן עדות","Shoshanim","Shushan Edut","Shushan Edus","Al Shoshannim"]}
-]},
-{"id":"q4","prompt":"Name a person who is quoted or mentioned by name in Mishnah Berakhot.","prompt_he":"ציינו אדם המצוטט או מוזכר בשמו במשנה במסכת ברכות (כולל תנאים, חכמים קדומים, דמויות מקראיות ואנשים אחרים הנזכרים בשמם).","category":"Mishnah","question_type":"attribute_or_action","difficulty":"easy","provenance":"ai_draft","answers":[
-{"text":"Rabban Gamliel","tier":"surface","aliases":["רבן גמליאל","גמליאל","Gamliel","Gamaliel","Rabban Gamaliel"]},
-{"text":"Rabbi Eliezer","tier":"surface","aliases":["רבי אליעזר","רבי אליעזר בן הורקנוס","אליעזר","Eliezer","Rabbi Eliezer ben Hyrcanus","R. Eliezer","Rebbi Eliezer"]},
-{"text":"Rabbi Akiva","tier":"surface","aliases":["רבי עקיבא","רבי עקיבה","עקיבא","עקיבה","Akiva","Aqiva","Rabbi Akiba","Akiba","R. Akiva"]},
-{"text":"Rabbi Yehudah","tier":"surface","aliases":["רבי יהודה","רבי יהודה בר אלעאי","יהודה","Yehudah","Yehuda","Rabbi Judah","Rabbi Yehuda","Rabbi Yehudah bar Ilai","R. Yehudah"]},
-{"text":"Rabbi Meir","tier":"surface","aliases":["רבי מאיר","מאיר","Meir","Me'ir","R. Meir","Rebbi Meir"]},
-{"text":"Hillel","tier":"surface","aliases":["הלל","הלל הזקן","בית הלל","Hillel HaZaken","Hillel the Elder","Beit Hillel","Beis Hillel"]},
-{"text":"Shammai","tier":"surface","aliases":["שמאי","שמאי הזקן","בית שמאי","Shamai","Shammai HaZaken","Beit Shammai","Beis Shammai"]},
-{"text":"Rabbi Yehoshua","tier":"familiar","aliases":["רבי יהושע","רבי יהושע בן חנניה","Rabbi Joshua","Rabbi Yehoshua ben Chananyah","Rabbi Yehoshua ben Hananiah","R. Yehoshua"]},
-{"text":"Rabbi Elazar ben Azaryah","tier":"familiar","aliases":["רבי אלעזר בן עזריה","אלעזר בן עזריה","ראב״ע","Elazar ben Azaryah","Eleazar ben Azariah","Rabbi Eleazar ben Azariah","Elazar ben Azaria"]},
-{"text":"Ben Zoma","tier":"familiar","aliases":["בן זומא","שמעון בן זומא","Shimon ben Zoma","Simeon ben Zoma"]},
-{"text":"Rabbi Tarfon","tier":"familiar","aliases":["רבי טרפון","טרפון","Tarfon","Tarphon","R. Tarfon"]},
-{"text":"Rabbi Yose","tier":"familiar","aliases":["רבי יוסי","רבי יוסי בן חלפתא","יוסי","Yose","Yossi","Rabbi Yossi","Rabbi Yose ben Chalafta","R. Yose"]},
-{"text":"Rabbi Shimon","tier":"familiar","aliases":["רבי שמעון","רבי שמעון בר יוחאי","רשב״י","שמעון","Rabbi Shimon bar Yochai","Rashbi","Rabbi Simeon","Shimon bar Yochai","R. Shimon"]},
-{"text":"Rabbi Chanina ben Dosa","tier":"familiar","aliases":["רבי חנינא בן דוסא","חנינא בן דוסא","Chanina ben Dosa","Hanina ben Dosa","Rabbi Hanina ben Dosa"]},
-{"text":"Moses","tier":"familiar","aliases":["משה","משה רבנו","משה רבינו","Moshe","Moshe Rabbeinu","Moshe Rabeinu"]},
-{"text":"Tavi","tier":"decoy","aliases":["טבי","טבי עבדו","Tavi the servant","Tabi","Tavi servant of Rabban Gamliel","טבי עבד רבן גמליאל"]},
-{"text":"Choni HaMe'agel","tier":"uncommon","aliases":["חוני המעגל","חוני","Choni","Honi","Honi the Circle-Drawer","Choni HaMeagel","Honi HaMe'agel"]},
-{"text":"Rabbi Yishmael","tier":"uncommon","aliases":["רבי ישמעאל","ישמעאל","Yishmael","Rabbi Ishmael","R. Yishmael"]},
-{"text":"Rabban Shimon ben Gamliel","tier":"uncommon","aliases":["רבן שמעון בן גמליאל","רשב״ג","שמעון בן גמליאל","Shimon ben Gamliel","Rabban Simeon ben Gamaliel","Rashbag"]},
-{"text":"Rabbi Yehoshua ben Korchah","tier":"uncommon","aliases":["רבי יהושע בן קרחה","יהושע בן קרחה","Yehoshua ben Korchah","Yehoshua ben Korcha","Joshua ben Karha","Rabbi Yehoshua ben Korcha"]},
-{"text":"Rabbi Nechunya ben HaKanah","tier":"uncommon","aliases":["רבי נחוניא בן הקנה","רבי נחוניה בן הקנה","נחוניא בן הקנה","Nechunya ben HaKanah","Nehunya ben HaKanah","Rabbi Nechunia ben HaKanah","Nechunya"]},
-{"text":"Rabbi Elazar","tier":"uncommon","aliases":["רבי אלעזר","רבי אלעזר בן שמוע","אלעזר","Rabbi Eleazar","Elazar","R. Elazar","Rabbi Elazar ben Shammua"]},
-{"text":"Joshua","tier":"uncommon","aliases":["יהושע בן נון","יהושע","Yehoshua bin Nun","Yehoshua ben Nun","Joshua son of Nun"]},
-{"text":"Rabbi Yose HaGelili","tier":"obscure","aliases":["רבי יוסי הגלילי","יוסי הגלילי","Yose HaGelili","Yossi HaGelili","Rabbi Jose the Galilean","Rabbi Yossi HaGlili"]},
-{"text":"Lot","tier":"obscure","aliases":["לוט","אשת לוט","Lot's wife","Eshet Lot","Eshes Lot"]},
-{"text":"Amalek","tier":"obscure","aliases":["עמלק","Amaleq"]},
-{"text":"Boaz","tier":"pearl","aliases":["בועז","בעז","Bo'az"],"note":"Explicitly named in the final mishnah of the tractate (Mishnah Berakhot 9:5), which quotes Ruth 2:4 (\"And behold, Boaz came from Bethlehem\") to show that one greets a fellow with Hashem's Name.","note_he":"מוזכר בשמו במשנה האחרונה במסכת (ברכות ט, ה), המביאה את הפסוק ״והנה בועז בא מבית לחם״ (רות ב, ד) כראיה לשאילת שלום בשם."}
-]},
-{"id":"q5","prompt":"Name a post-biblical foreign monarch, emperor, queen, governor, or general mentioned by name in the Talmud Bavli (excluding figures who appear in Tanakh).","prompt_he":"ציינו מלך, קיסר, מלכה, נציב או מצביא נוכרי שלאחר תקופת המקרא המוזכר בשמו בתלמוד הבבלי (למעט דמויות המופיעות בתנ״ך).","category":"Gemara","question_type":"person_by_role","difficulty":"medium","provenance":"ai_draft","answers":[
-{"text":"Titus","tier":"surface","aliases":["טיטוס","טיטוס הרשע","Titus HaRasha","Emperor Titus"]},
-{"text":"Vespasian","tier":"surface","aliases":["אספסיינוס","אספסינוס","אספסיאנוס","וספסיאנוס","אספסיינוס קיסר","Aspasyanus","Aspasianus","Vespasianus","Emperor Vespasian"]},
-{"text":"Hadrian","tier":"surface","aliases":["אדריינוס","אדריאנוס","הדריאנוס","אדריינוס קיסר","Hadrianus","Adrianus","Emperor Hadrian"]},
-{"text":"Antoninus","tier":"surface","aliases":["אנטונינוס","אנטונינוס בן אסוירוס","Antoninus ben Asverus","Emperor Antoninus"]},
-{"text":"Nero","tier":"familiar","aliases":["נירון","נירון קיסר","נרון","נרון קיסר","Neron","Neron Keisar","Emperor Nero"]},
-{"text":"Alexander of Macedon","tier":"familiar","aliases":["אלכסנדרוס מוקדון","אלכסנדרוס","אלכסנדר מוקדון","Alexander the Great","Alexander","Alexandros","Alexandros Mokdon","Alexander Mukdon"]},
-{"text":"Shapur","tier":"familiar","aliases":["שבור מלכא","שבור","שאפור","Shavor Malka","Shabur Malka","Shavor","King Shapur","Shapur I","Shapur II"]},
-{"text":"Turnus Rufus","tier":"familiar","aliases":["טורנוסרופוס","טורנוס רופוס","טורנוסרופוס הרשע","Tineius Rufus","Turnusrufus","Tornosrupos","Rufus"]},
-{"text":"King Ptolemy","tier":"familiar","aliases":["תלמי המלך","תלמי","Ptolemy","Talmai","Talmai HaMelech","Ptolemy II"]},
-{"text":"Cleopatra","tier":"uncommon","aliases":["קליאופטרא","קלאופטרה","קליאופטרא מלכת אלכסנדריא","Queen Cleopatra","Kleopatra"]},
-{"text":"Queen Helena","tier":"uncommon","aliases":["הילני המלכה","הילני","הלני המלכה","Helena","Helena of Adiabene","Heleni","Heleni HaMalkah","Heleni HaMalka","Queen Heleni"]},
-{"text":"King Monobaz","tier":"uncommon","aliases":["מונבז המלך","מונבז","Monobaz","Munbaz","Monobazus","Monobaz HaMelech","Munbaz HaMelech"]},
-{"text":"Trajan","tier":"uncommon","aliases":["טרכינוס","טוריינוס","טריאנוס","טרכיינוס","Trachyanus","Turyanus","Trajanus","Emperor Trajan"]},
-{"text":"Quietus","tier":"uncommon","aliases":["קיטוס","פולמוס של קיטוס","Kitos","Lusius Quietus","Qitos"]},
-{"text":"Ifra Hormiz","tier":"obscure","aliases":["איפרא הורמיז","איפרא הורמיז אימיה דשבור מלכא","Ifra Hurmiz","Iphra Hormiz","Hormiz"]},
-{"text":"Severus","tier":"obscure","aliases":["אסוירוס","אסווירוס","Asverus","Septimius Severus","Aswerus"]},
-{"text":"Ben Netzer","tier":"obscure","aliases":["בן נצר","פפא בר נצר","Odenathus","Odaenathus","Papa bar Natzer","Pappa bar Natzer","Ben Natzer"]},
-{"text":"Peroz","tier":"obscure","aliases":["פירוז","פירוז רשיעא","King Peroz","Peroz I","Firuz","Peiroz"]},
-{"text":"Yazdegerd","tier":"pearl","aliases":["איזדגירד","איזדגירד מלכא","יזדגרד","Izdegerd","Izdegerd Malka","King Yazdegerd","Yazdegerd I"],"note":"Sasanian Persian King Yazdegerd I, named in Zevachim 19a (Izdegerd Malka), where he adjusts Rav Huna bar Nathan's belt in fulfillment of Isaiah 49:23.","note_he":"מלך פרס הסאסאני יזדגרד הראשון, הנזכר בזבחים יט ע״א (״איזדגירד מלכא״) כמי שהיטיב את חגורתו של רב הונא בר נתן לקיום הפסוק בישעיהו מט, כג."}
-]},
-{"id":"q6","prompt":"Name one of the twenty-four priestly gifts (Esrim VeArba Matnot Kehunah) given to the Kohanim, as enumerated in the Talmud (Bava Kamma 110b, Chullin 133b) and Rambam (Hilchot Bikkurim 1).","prompt_he":"ציינו אחת מעשרים וארבע מתנות כהונה הניתנות לכהנים, כפי שהן מנויות בתלמוד (בבא קמא קי ע״ב, חולין קלג ע״ב) וברמב״ם (הלכות ביכורים פרק א).","category":"Halacha","question_type":"defined_group","difficulty":"medium","provenance":"ai_draft","answers":[
-{"text":"Terumah Gedolah","tier":"surface","aliases":["תרומה גדולה","תרומה","Terumah","Trumah","Trumah Gedolah","Great Terumah","Heave-offering"]},
-{"text":"Challah","tier":"surface","aliases":["חלה","הפרשת חלה","Chalah","Hallah","Hafrashat Challah","Dough offering"]},
-{"text":"Bikkurim","tier":"surface","aliases":["ביכורים","בכורים","Bikurim","First fruits","Firstfruits"]},
-{"text":"Pidyon HaBen","tier":"surface","aliases":["פדיון הבן","פדיון בכור אדם","Redemption of the firstborn","Redemption of the firstborn son","Pidyon Haben"]},
-{"text":"Bechor","tier":"familiar","aliases":["בכור","בכור בהמה טהורה","Bekhor","Firstborn animal","Firstborn kosher animal","Bechor behemah tehorah"]},
-{"text":"Pidyon Peter Chamor","tier":"familiar","aliases":["פטר חמור","פדיון פטר חמור","Peter Chamor","Peter Hamor","Firstborn donkey","Redemption of a firstborn donkey"]},
-{"text":"Zeroa, Lechayayim, VeKevah","tier":"familiar","aliases":["הזרוע והלחיים והקיבה","זרוע לחיים וקיבה","מתנות","זרוע","לחיים","קיבה","Zeroa lechayayim vekevah","Zeroa","Foreleg cheeks and maw","Foreleg, cheeks, and stomach"]},
-{"text":"Reishit HaGez","tier":"familiar","aliases":["ראשית הגז","Reishis HaGez","Reshit HaGez","First shearings","First fleece","First wool"]},
-{"text":"Terumat Ma'aser","tier":"familiar","aliases":["תרומת מעשר","Terumas Maaser","Terumat Maaser","Trumat Maaser","Tithe of the tithe"]},
-{"text":"Lechem HaPanim","tier":"familiar","aliases":["לחם הפנים","Showbread","Shewbread","Lechem Hapanim","Bread of the Presence"]},
-{"text":"Chatat Behemah","tier":"familiar","aliases":["חטאת בהמה","חטאת","Chatat","Chattat","Chatas","Chatas Behemah","Sin offering","Animal sin offering"]},
-{"text":"Shtei HaLechem","tier":"uncommon","aliases":["שתי הלחם","Two Loaves","Two loaves of Shavuot","Shtei Halechem"]},
-{"text":"Chatat HaOf","tier":"uncommon","aliases":["חטאת העוף","Chatas HaOf","Bird sin offering","Sin offering of a bird"]},
-{"text":"Asham Vadai","tier":"uncommon","aliases":["אשם ודאי","אשם","Asham","Guilt offering","Definite guilt offering"]},
-{"text":"Asham Talui","tier":"uncommon","aliases":["אשם תלוי","Doubtful guilt offering","Suspended guilt offering"]},
-{"text":"Sheyarei Minchah","tier":"uncommon","aliases":["שירי המנחה","שירי מנחה","מנחה","מותר המנחות","Minchah","Mincha","Sheyarei HaMinchah","Remainder of meal offerings","Meal offering"]},
-{"text":"Zivchei Shalmei Tzibbur","tier":"obscure","aliases":["זבחי שלמי ציבור","שלמי ציבור","כבשי עצרת","Shalmei Tzibbur","Kivsei Atzeret","Kivsei Atzeres","Communal peace offerings","Shavuot lambs"]},
-{"text":"Log Shemen shel Metzora","tier":"obscure","aliases":["לוג שמן של מצורע","לוג שמן","Log shemen","Log of oil of a metzora","Leper's log of oil"]},
-{"text":"Motar HaOmer","tier":"obscure","aliases":["מותר העומר","שירי העומר","עומר","מנחת העומר","Sheyarei HaOmer","Remainder of the Omer","Omer offering"]},
-{"text":"Moram min HaTodah VeEil Nazir","tier":"obscure","aliases":["מורם מן התודה ומאיל נזיר","מורם מן התודה","איל נזיר","תודה","Moram min HaTodah","Eil Nazir","Portions of the Todah and Nazirite ram"]},
-{"text":"Orot Kodashim","tier":"obscure","aliases":["עורות קדשים","עורות קודשים","Oros Kodashim","Hides of holy sacrifices","Skins of sacrifices"]},
-{"text":"Sadeh Achuzah","tier":"obscure","aliases":["שדה אחוזה","שדה אחזה","Sdei Achuzah","Ancestral field","Consecrated ancestral field"]},
-{"text":"Sadeh Charamim","tier":"obscure","aliases":["שדה חרמים","חרמים","חרמי כהנים","Charamim","Cherem","Chermei Kohanim","Priestly cherem","Consecrated property"]},
-{"text":"Gezel HaGer","tier":"pearl","aliases":["גזל הגר","Gezel Hager","Robbery of a convert","Stolen property of a convert"],"note":"Property stolen from a convert who dies without heirs, which Numbers 5:8 and Bava Kamma 110b assign to the Kohanim among the ten priestly gifts in the borders.","note_he":"גזילה שנגזלה מגר שמת ואין לו יורשים, שלפי במדבר ה, ח ובבא קמא קי ע״ב ניתנת לכהנים ונמנית בין עשר מתנות כהונה שבגבולין."}
-]},
-{"id":"q7","prompt":"Name a disciple (talmid) of either the Baal Shem Tov or the Maggid of Mezritch.","prompt_he":"ציינו אחד מתלמידי הבעל שם טוב או המגיד ממזריטש.","category":"Wildcard","question_type":"relationship","difficulty":"medium","provenance":"ai_draft","answers":[
-{"text":"Maggid of Mezritch","tier":"surface","aliases":["המגיד ממזריטש","רבי דוב בער ממזריטש","דוב בער ממזריטש","המגיד","Dov Ber of Mezritch","Rabbi Dov Ber of Mezritch","Reb Dov Ber","Mezritcher Maggid"]},
-{"text":"Rabbi Schneur Zalman of Liadi","tier":"surface","aliases":["רבי שניאור זלמן מלאדי","בעל התניא","האדמו״ר הזקן","שניאור זלמן מלאדי","Baal HaTanya","Alter Rebbe","Schneur Zalman of Liadi","Shneur Zalman of Liadi","Tanya"]},
-{"text":"Rabbi Levi Yitzchak of Berditchev","tier":"surface","aliases":["רבי לוי יצחק מברדיטשוב","לוי יצחק מברדיטשוב","קדושת לוי","Levi Yitzchak of Berditchev","Levi Yitzchok of Berdichev","Berdichever","Kedushat Levi","Kedushas Levi"]},
-{"text":"Rabbi Elimelech of Lizhensk","tier":"surface","aliases":["רבי אלימלך מליז׳נסק","אלימלך מליז׳נסק","נועם אלימלך","הנועם אלימלך","Elimelech of Lizhensk","Reb Elimelech","Noam Elimelech"]},
-{"text":"Rabbi Meshullam Zusha of Anipoli","tier":"familiar","aliases":["רבי משולם זושא מאניפולי","רבי זושא מאניפולי","רבי זוסיא מאניפולי","זושא מאניפולי","Reb Zusha","Zusha of Anipoli","Zusya of Anipoli","Meshullam Zusha"]},
-{"text":"Rabbi Yaakov Yosef of Polonne","tier":"familiar","aliases":["רבי יעקב יוסף מפולנאה","יעקב יוסף מפולנאה","תולדות יעקב יוסף","התולדות","Yaakov Yosef of Polonne","Toldot Yaakov Yosef","Toldos Yaakov Yosef"]},
-{"text":"Rabbi Pinchas of Korzec","tier":"familiar","aliases":["רבי פינחס מקוריץ","רבי פנחס מקוריץ","פנחס מקוריץ","Pinchas of Koretz","Pinchas of Korzec","Phinehas of Koretz","Reb Pinchas of Koretz"]},
-{"text":"Rabbi Aharon HaGadol of Karlin","tier":"familiar","aliases":["רבי אהרן הגדול מקרליין","רבי אהרן הגדול מקרלין","אהרן מקרלין","Aharon of Karlin","Aaron of Karlin","Reb Aharon of Karlin"]},
-{"text":"Rabbi Menachem Mendel of Vitebsk","tier":"uncommon","aliases":["רבי מנחם מנדל מוויטבסק","מנחם מנדל מויטבסק","פרי הארץ","Menachem Mendel of Vitebsk","Menachem Mendel of Horodok","Pri HaAretz"]},
-{"text":"Rabbi Shmelke of Nikolsburg","tier":"uncommon","aliases":["רבי שמעלקא מניקולשבורג","רבי שמואל שמעלקא הורוויץ","שמעלקא מניקולשבורג","Shmelke of Nikolsburg","Reb Shmelke","Shmuel Shmelke Horowitz"]},
-{"text":"Rabbi Pinchas Horowitz of Frankfurt","tier":"uncommon","aliases":["רבי פנחס הורוויץ","בעל ההפלאה","ההפלאה","פנחס הלוי הורוויץ","Pinchas Horowitz","Baal HaHaflaah","Haflaah","Hafla'ah"]},
-{"text":"Rabbi Avraham HaMalach","tier":"uncommon","aliases":["רבי אברהם המלאך","אברהם המלאך","Avraham HaMalach","Abraham the Angel"]},
-{"text":"Maggid of Kozhnitz","tier":"uncommon","aliases":["המגיד מקוז׳ניץ","רבי ישראל מקוז׳ניץ","ישראל מקוז׳ניץ","Yisrael of Kozhnitz","Rabbi Yisrael Hopstein","Kozhnitzer Maggid"]},
-{"text":"Chozeh of Lublin","tier":"uncommon","aliases":["החוזה מלובלין","רבי יעקב יצחק מלובלין","יעקב יצחק הלוי הורוויץ","Yaakov Yitzchak of Lublin","Seer of Lublin","Chozeh", "Chozeh MiLublin"]},
-{"text":"Rabbi Menachem Nachum of Chernobyl","tier":"uncommon","aliases":["רבי מנחם נחום מטשרנוביל","נחום מטשרנוביל","מאור עיניים","המאור עיניים","Nachum of Chernobyl","Menachem Nachum of Chernobyl","Meor Einayim"]},
-{"text":"Rabbi Yechiel Michel of Zlotchov","tier":"uncommon","aliases":["רבי יחיאל מיכל מזלוטשוב","המגיד מזלוטשוב","יחיאל מיכל מזלוטשוב","Yechiel Michel of Zlotchov","Maggid of Zlotchov"]},
-{"text":"Rabbi Baruch of Medzhybizh","tier":"uncommon","aliases":["רבי ברוך ממז׳יבוז׳","ברוך ממז׳יבוז׳","Baruch of Medzhybizh","Boruch of Medzhibozh","Reb Boruch"]},
-{"text":"Rabbi Moshe Chaim Efraim of Sudylkov","tier":"uncommon","aliases":["רבי משה חיים אפרים מסודילקוב","דגל מחנה אפרים","הדגל מחנה אפרים","Moshe Chaim Efraim of Sudylkov","Degel Machaneh Efraim"]},
-{"text":"Rabbi Avraham of Kalisk","tier":"obscure","aliases":["רבי אברהם מקאליסק","אברהם מקאליסק","Avraham Kalisker","Abraham of Kalisk","Avraham of Kalisk"]},
-{"text":"Rabbi Zev Wolf of Zhitomir","tier":"obscure","aliases":["רבי זאב וולף מז׳יטומיר","זאב וולף מז׳יטומיר","אור המאיר","Zev Wolf of Zhitomir","Or HaMeir","Ohr HaMeir"]},
-{"text":"Rabbi Chaim Chaikel of Amdur","tier":"obscure","aliases":["רבי חיים חייקל מאמדור","חיים חייקל מאמדור","Chaim Chaikel of Amdur","Hayyim Haikel of Amdur"]},
-{"text":"Rabbi Shlomo of Karlin","tier":"obscure","aliases":["רבי שלמה מקרלין","שלמה מקרלין","Shlomo of Karlin","Solomon of Karlin"]},
-{"text":"Rabbi Shlomo of Lutsk","tier":"pearl","aliases":["רבי שלמה מלוצק","המגיד מלוצק","שלמה מלוצק","דברת שלמה","מגיד דבריו ליעקב","Shlomo of Lutsk","Maggid of Lutsk","Solomon of Lutsk","Dibrat Shlomo","Maggid Devarav L'Yaakov"],"note":"Disciple of the Maggid of Mezritch (known as the Maggid of Lutsk and author of Dibrat Shlomo) who compiled and published the Maggid's core teachings in Maggid Devarav L'Yaakov (1781).","note_he":"מתלמידי המגיד ממזריטש (הנודע כהמגיד מלוצק ומחבר ״דברת שלמה״), שרשם והוציא לאור את תורת רבו בספר היסוד ״מגיד דבריו ליעקב״ (תקמ״א)."},
-{"text":"Rabbi Avraham Gershon of Kitov","tier":"obscure","aliases":["רבי אברהם גרשון מקיטוב","רבי גרשון מקיטוב","גרשון מקיטוב","Gershon of Kitov","Avraham Gershon of Kitov"]},
-{"text":"Rabbi Nachman of Horodenka","tier":"obscure","aliases":["רבי נחמן מהורודנקא","נחמן מהורודנקא","Nachman of Horodenka","Nahman of Horodenka"]},
-{"text":"Rabbi Nachman of Kosow","tier":"obscure","aliases":["רבי נחמן מקוסוב","נחמן מקוסוב","Nachman of Kosow","Nachman of Kosov"]},
-{"text":"Rabbi Aryeh Leib of Polonne","tier":"obscure","aliases":["רבי אריה לייב מפולנאה","המוכיח מפולנאה","אריה לייב מפולנאה","Aryeh Leib of Polonne","Mochiach of Polonne"]},
-{"text":"Rabbi Uziel Meisels","tier":"obscure","aliases":["רבי עוזיאל מייזילש","עוזיאל מייזלש","תפארת עוזיאל","Uziel Meisels","Tiferet Uziel"]}
-]}
-]}
+{
+  "title": "Jewllion - Pack 08",
+  "description": "23 Cheshvan 5787",
+  "seconds": 35,
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Name a place mentioned in Parshas Chayei Sarah (Genesis 23:1–25:18).",
+      "prompt_he": "ציינו מקום המוזכר בפרשת חיי שרה (בראשית כג, א–כה, יח).",
+      "category": "Tanakh",
+      "question_type": "attribute_or_action",
+      "difficulty": "easy",
+      "provenance": "ai_draft",
+      "answers": [
+        {
+          "text": "Hebron",
+          "tier": "surface",
+          "aliases": [
+            "חברון",
+            "Chevron",
+            "Hevron",
+            "Chebron"
+          ]
+        },
+        {
+          "text": "Cave of Machpelah",
+          "tier": "surface",
+          "aliases": [
+            "מערת המכפלה",
+            "המכפלה",
+            "מכפלה",
+            "שדה המכפלה",
+            "Machpelah",
+            "Machpela",
+            "Makhpelah",
+            "Me'arat HaMachpelah",
+            "Me'aras HaMachpeilah",
+            "Mearat HaMachpelah",
+            "Mearas HaMachpelah",
+            "HaMachpelah",
+            "Sdeh HaMachpelah",
+            "Field of Machpelah",
+            "Cave of the Machpelah"
+          ]
+        },
+        {
+          "text": "Canaan",
+          "tier": "surface",
+          "aliases": [
+            "כנען",
+            "ארץ כנען",
+            "Land of Canaan",
+            "Eretz Kenaan",
+            "Eretz Kena'an",
+            "Eretz Canaan",
+            "Eretz shel Kenaan",
+            "Kenaan",
+            "Kena'an",
+            "Knaan"
+          ]
+        },
+        {
+          "text": "Kiryat Arba",
+          "tier": "familiar",
+          "aliases": [
+            "קרית ארבע",
+            "קריית ארבע",
+            "Kiryas Arba",
+            "Qiryat Arba",
+            "Kiriath-arba",
+            "Kiriath Arba",
+            "Kirjath-arba",
+            "Kirjat Arba"
+          ]
+        },
+        {
+          "text": "Aram Naharayim",
+          "tier": "familiar",
+          "aliases": [
+            "ארם נהרים",
+            "ארם נהריים",
+            "Aram Naharaim",
+            "Aram-naharaim",
+            "Aram Naharayim",
+            "Mesopotamia"
+          ]
+        },
+        {
+          "text": "Be'er Lachai Ro'i",
+          "tier": "familiar",
+          "aliases": [
+            "באר לחי ראי",
+            "באר לחי רואי",
+            "Beer Lahai Roi",
+            "Be'er Lahai Ro'i",
+            "Beer Lachai Roi",
+            "Be'er Lachai Roi",
+            "Beer-lahai-roi",
+            "Well of Lahai Roi",
+            "Be'er shel Lachai Ro'i",
+            "Be'er LaChai Ro'i"
+          ]
+        },
+        {
+          "text": "Mamre",
+          "tier": "familiar",
+          "aliases": [
+            "ממרא",
+            "Mamrei",
+            "Mamreh",
+            "Elonei Mamre"
+          ]
+        },
+        {
+          "text": "The Negev",
+          "tier": "uncommon",
+          "aliases": [
+            "ארץ הנגב",
+            "הנגב",
+            "נגב",
+            "Negev",
+            "Negeb",
+            "HaNegev",
+            "Eretz HaNegev",
+            "Land of the Negev",
+            "Southland"
+          ]
+        },
+        {
+          "text": "Egypt",
+          "tier": "uncommon",
+          "aliases": [
+            "מצרים",
+            "Mitzrayim",
+            "Mitzraim",
+            "Mitsrayim",
+            "Eretz Mitzrayim"
+          ]
+        },
+        {
+          "text": "City of Nahor",
+          "tier": "uncommon",
+          "aliases": [
+            "עיר נחור",
+            "Ir Nachor",
+            "Ir Nahor",
+            "Ir Nakhor",
+            "City of Nachor",
+            "Ir shel Nachor"
+          ]
+        },
+        {
+          "text": "Land of the East",
+          "tier": "obscure",
+          "aliases": [
+            "ארץ קדם",
+            "קדם",
+            "Eretz Kedem",
+            "Eretz Qedem",
+            "Kedem",
+            "Qedem",
+            "East country",
+            "Land of Kedem",
+            "Eretz HaKedem"
+          ]
+        },
+        {
+          "text": "Shur",
+          "tier": "obscure",
+          "aliases": [
+            "שור",
+            "Midbar Shur",
+            "Wilderness of Shur",
+            "Desert of Shur",
+            "Midbar shel Shur"
+          ]
+        },
+        {
+          "text": "Assyria",
+          "tier": "obscure",
+          "aliases": [
+            "אשור",
+            "אשורה",
+            "Ashur",
+            "Asshur",
+            "Ashurah",
+            "Asshurah"
+          ]
+        },
+        {
+          "text": "Havilah",
+          "tier": "pearl",
+          "aliases": [
+            "חוילה",
+            "חווילה",
+            "Chavilah",
+            "Chavila",
+            "Havila",
+            "Khavilah"
+          ],
+          "note": "Mentioned in the final verse of the parsha (Genesis 25:18) as the eastern boundary of Ishmael's descendants, who dwelt 'from Havilah unto Shur.'",
+          "note_he": "נזכרת בפסוק האחרון של הפרשה (בראשית כה, יח) כגבול מושבם של בני ישמעאל: ״וישכנו מחוילה עד שור״."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "prompt": "Name a word in Nach written with an unusual Masoretic letter (oversized, undersized, suspended, or swapped medial/final form).",
+      "prompt_he": "ציינו מילה בנ״ך הכתובה במסורה באות משונה (רבתי, זעירא, תלויה, או מ״ם סתומה/פתוחה).",
+      "category": "Tanakh",
+      "question_type": "attribute_or_action",
+      "difficulty": "medium",
+      "provenance": "ai_draft",
+      "answers": [
+        {
+          "text": "Menasheh",
+          "tier": "surface",
+          "aliases": [
+            "מנשה",
+            "בן מנשה",
+            "Manasseh",
+            "Menashe",
+            "M'nasheh",
+            "Moshe",
+            "Ben Menasheh",
+            "Son of Manasseh",
+            "Ben Menashe"
+          ]
+        },
+        {
+          "text": "Vaizatha",
+          "tier": "surface",
+          "aliases": [
+            "ויזתא",
+            "ואת ויזתא",
+            "Vayzata",
+            "Vaizata",
+            "Vayzatha",
+            "Wayzata",
+            "Vajezatha",
+            "Ve'et Vayzata",
+            "Veet Vayzata"
+          ]
+        },
+        {
+          "text": "Lemarbeh",
+          "tier": "surface",
+          "aliases": [
+            "למרבה",
+            "לםרבה",
+            "למרבה המשרה",
+            "L'marbeh",
+            "LeMarbeh",
+            "Lemarbe",
+            "L'marbeh HaMisrah",
+            "Lemarbeh HaMisrah",
+            "For the increase",
+            "Of the increase",
+            "Increase of the government"
+          ]
+        },
+        {
+          "text": "Sof",
+          "tier": "familiar",
+          "aliases": [
+            "סוף",
+            "סוף דבר",
+            "סוף דבר הכל נשמע",
+            "Sof davar",
+            "Sof Dovor",
+            "HaSof",
+            "End",
+            "The end of the matter",
+            "End of the matter"
+          ]
+        },
+        {
+          "text": "Adam",
+          "tier": "familiar",
+          "aliases": [
+            "אדם",
+            "אדם שת אנוש",
+            "Adam Shet Enosh",
+            "Adam Seth Enosh",
+            "HaAdam"
+          ]
+        },
+        {
+          "text": "Lini",
+          "tier": "familiar",
+          "aliases": [
+            "ליני",
+            "ליני הלילה",
+            "Lini HaLaylah",
+            "Lini Halaila",
+            "Stay the night",
+            "Lodge tonight",
+            "Tarry this night",
+            "Remain tonight"
+          ]
+        },
+        {
+          "text": "Parshandatha",
+          "tier": "familiar",
+          "aliases": [
+            "פרשנדתא",
+            "ואת פרשנדתא",
+            "Parshandata",
+            "Parshandasa",
+            "Ve'et Parshandata",
+            "Veet Parshandata"
+          ]
+        },
+        {
+          "text": "Parmashta",
+          "tier": "familiar",
+          "aliases": [
+            "פרמשתא",
+            "ואת פרמשתא",
+            "Parmashtah",
+            "Ve'et Parmashta",
+            "Veet Parmashta"
+          ]
+        },
+        {
+          "text": "Shir",
+          "tier": "familiar",
+          "aliases": [
+            "שיר",
+            "שיר השירים",
+            "Shir HaShirim",
+            "Song",
+            "Song of Songs",
+            "The Song of Songs"
+          ]
+        },
+        {
+          "text": "Mishlei",
+          "tier": "familiar",
+          "aliases": [
+            "משלי",
+            "משלי שלמה",
+            "Mishlei Shlomo",
+            "Mishle",
+            "Proverbs",
+            "Proverbs of Solomon",
+            "Mishlei shel Shlomo"
+          ]
+        },
+        {
+          "text": "Chur",
+          "tier": "familiar",
+          "aliases": [
+            "חור",
+            "חור כרפס ותכלת",
+            "Hur",
+            "Khur",
+            "Chur karpas u'techelet",
+            "White cotton",
+            "White linen",
+            "HaChur"
+          ]
+        },
+        {
+          "text": "MiYa'ar",
+          "tier": "uncommon",
+          "aliases": [
+            "מיער",
+            "יכרסמנה חזיר מיער",
+            "Miyaar",
+            "Mi-ya'ar",
+            "Miya'ar",
+            "Ya'ar",
+            "Yaar",
+            "יער",
+            "From the forest",
+            "Out of the wood",
+            "Out of the forest",
+            "MeHaYa'ar"
+          ]
+        },
+        {
+          "text": "Zichru",
+          "tier": "uncommon",
+          "aliases": [
+            "זכרו",
+            "זכרו תורת משה",
+            "Zikhru",
+            "Zichru Torat Moshe",
+            "Zichru Toras Moshe",
+            "Zichru Torat shel Moshe",
+            "Remember",
+            "Remember the Torah of Moses"
+          ]
+        },
+        {
+          "text": "Tov",
+          "tier": "uncommon",
+          "aliases": [
+            "טוב",
+            "טוב שם",
+            "טוב שם משמן טוב",
+            "Tov shem",
+            "Tob",
+            "HaTov",
+            "Good",
+            "A good name"
+          ]
+        },
+        {
+          "text": "Hem",
+          "tier": "uncommon",
+          "aliases": [
+            "הם",
+            "הם פרוצים",
+            "אשר הם פרוצים",
+            "Heim",
+            "Hem perutzim",
+            "Heim prutzim",
+            "They are breached",
+            "They are broken down"
+          ]
+        },
+        {
+          "text": "Bishfarfara",
+          "tier": "uncommon",
+          "aliases": [
+            "בשפרפרא",
+            "שפרפרא",
+            "Bishparpara",
+            "B'shfarfara",
+            "Shfarfara",
+            "Shparpara",
+            "HaShfarfara",
+            "At daybreak",
+            "At dawn",
+            "With the dawn"
+          ]
+        },
+        {
+          "text": "MiResha'im",
+          "tier": "uncommon",
+          "aliases": [
+            "מרשעים",
+            "רשעים",
+            "Meresha'im",
+            "Mireshaim",
+            "Mereshaim",
+            "Resha'im",
+            "Reshaim",
+            "R'sha'im",
+            "HaResha'im",
+            "Wicked",
+            "From the wicked"
+          ]
+        },
+        {
+          "text": "Ken",
+          "tier": "uncommon",
+          "aliases": [
+            "קן",
+            "קן לה",
+            "Qen",
+            "Kein",
+            "HaKen",
+            "Nest",
+            "A nest"
+          ]
+        },
+        {
+          "text": "VeChannah",
+          "tier": "obscure",
+          "aliases": [
+            "וכנה",
+            "כנה",
+            "Vechanah",
+            "V'channah",
+            "Vekhannah",
+            "Channah",
+            "Kannah",
+            "HaKannah",
+            "And the stock",
+            "Root",
+            "Vineyard stock"
+          ]
+        },
+        {
+          "text": "Shivto",
+          "tier": "obscure",
+          "aliases": [
+            "שבטו",
+            "Shibto",
+            "Shevet",
+            "HaShevet",
+            "His rod",
+            "His staff"
+          ]
+        },
+        {
+          "text": "Oren",
+          "tier": "obscure",
+          "aliases": [
+            "ארן",
+            "אורן",
+            "נטע ארן",
+            "HaOren",
+            "Pine",
+            "Laurel",
+            "Fir tree"
+          ]
+        },
+        {
+          "text": "Nebushazban",
+          "tier": "pearl",
+          "aliases": [
+            "נבושזבן",
+            "נבושזבן רב סריס",
+            "Nevushazban",
+            "Nevushazvan",
+            "Nebushasban",
+            "Nevushasban",
+            "Rab-saris",
+            "Rav Saris"
+          ],
+          "note": "Babylonian chief eunuch (Rab-saris) in Jeremiah 39:13 whose name Nebushazban (נבושזבן) is written in the Masoretic text with an undersized zayin (ז׳ זעירא).",
+          "note_he": "שר בבלי (רב־סריס) הנזכר בירמיהו לט, יג, ששמו ״נבושזבן״ נכתב במסורה באות זי״ן זעירא."
+        },
+        {
+          "text": "Lo",
+          "tier": "obscure",
+          "aliases": [
+            "לוא",
+            "לוא אליכם",
+            "Lo aleichem",
+            "Lo alekhem",
+            "Not to you",
+            "May it not befall you"
+          ]
+        },
+        {
+          "text": "Tav'u",
+          "tier": "obscure",
+          "aliases": [
+            "טבעו",
+            "טבעו בארץ שעריה",
+            "Tavu",
+            "Tav'u va'aretz",
+            "Sunk",
+            "Her gates have sunk"
+          ]
+        },
+        {
+          "text": "VeNirgan",
+          "tier": "obscure",
+          "aliases": [
+            "ונרגן",
+            "נרגן",
+            "Venirgan",
+            "V'nirgan",
+            "Nirgan",
+            "HaNirgan",
+            "Whisperer",
+            "Talebearer",
+            "Gossip"
+          ]
+        },
+        {
+          "text": "LaAlukah",
+          "tier": "obscure",
+          "aliases": [
+            "לעלוקה",
+            "עלוקה",
+            "La'alukah",
+            "Laalukah",
+            "Alukah",
+            "Aluqah",
+            "HaAlukah",
+            "Leech",
+            "Horseleech"
+          ]
+        },
+        {
+          "text": "Nafshi",
+          "tier": "obscure",
+          "aliases": [
+            "נפשי",
+            "נפשו",
+            "Nafsho",
+            "My soul",
+            "His soul"
+          ]
+        },
+        {
+          "text": "BeSufah",
+          "tier": "obscure",
+          "aliases": [
+            "בסופה",
+            "סופה",
+            "Besufah",
+            "B'sufah",
+            "Sufah",
+            "BaSufah",
+            "HaSufah",
+            "Whirlwind",
+            "In the whirlwind",
+            "In the storm"
+          ]
+        },
+        {
+          "text": "VeGush",
+          "tier": "obscure",
+          "aliases": [
+            "וגוש",
+            "גוש",
+            "וגוש עפר",
+            "Vegush",
+            "V'gush",
+            "Gush",
+            "Gush afar",
+            "Gush shel afar",
+            "Clod",
+            "Clods of dust"
+          ]
+        },
+        {
+          "text": "Peretz",
+          "tier": "obscure",
+          "aliases": [
+            "פרץ",
+            "פרץ על פני פרץ",
+            "Perets",
+            "Poretz",
+            "HaPeretz",
+            "Breach",
+            "Breach upon breach"
+          ]
+        },
+        {
+          "text": "BeNagha",
+          "tier": "obscure",
+          "aliases": [
+            "בנגהא",
+            "נגהא",
+            "Benagha",
+            "B'nagha",
+            "Nagha",
+            "HaNagha",
+            "Daylight",
+            "With the light"
+          ]
+        },
+        {
+          "text": "VeTihartim",
+          "tier": "obscure",
+          "aliases": [
+            "וטהרתים",
+            "Vetihartim",
+            "V'tihartim",
+            "And I cleansed them",
+            "I purified them"
+          ]
+        },
+        {
+          "text": "Kochi",
+          "tier": "obscure",
+          "aliases": [
+            "כחי",
+            "ככחי אז וככחי עתה",
+            "Kokhi",
+            "KeKochi",
+            "HaKochi",
+            "My strength"
+          ]
+        },
+        {
+          "text": "Tzofav",
+          "tier": "obscure",
+          "aliases": [
+            "צפיו",
+            "צופיו",
+            "צפיו עורים",
+            "Tsofaw",
+            "Tzofaw",
+            "Tsofayv",
+            "His watchmen"
+          ]
+        },
+        {
+          "text": "VeTzivchat",
+          "tier": "obscure",
+          "aliases": [
+            "וצוחת",
+            "צוחת",
+            "וצוחת ירושלם",
+            "Vetzivchat",
+            "V'tzivchat",
+            "Tzivchat",
+            "Cry of Jerusalem",
+            "Tzivchat shel Yerushalayim"
+          ]
+        },
+        {
+          "text": "Pad'ehu",
+          "tier": "obscure",
+          "aliases": [
+            "פדעהו",
+            "פדעהו מרדת שחת",
+            "Padehu",
+            "Ped'ehu",
+            "Redeem him",
+            "Deliver him"
+          ]
+        },
+        {
+          "text": "Vat'altzehu",
+          "tier": "obscure",
+          "aliases": [
+            "ותאלצהו",
+            "Vataltzehu",
+            "Va'taltzehu",
+            "She pressed him",
+            "And she pressed him"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "prompt": "Name one of the twelve books of Trei Asar (the Twelve Minor Prophets).",
+      "prompt_he": "ציינו אחד משנים עשר ספרי תרי עשר.",
+      "category": "Tanakh",
+      "question_type": "sefer_by_collection_or_topic",
+      "difficulty": "easy",
+      "provenance": "ai_draft",
+      "answers": [
+        {
+          "text": "Jonah",
+          "tier": "surface",
+          "aliases": [
+            "יונה",
+            "ספר יונה",
+            "Yonah",
+            "Yona",
+            "Sefer Yonah",
+            "Sefer shel Yonah",
+            "Book of Jonah"
+          ]
+        },
+        {
+          "text": "Hosea",
+          "tier": "surface",
+          "aliases": [
+            "הושע",
+            "ספר הושע",
+            "Hoshea",
+            "Hoshe'a",
+            "Sefer Hoshea",
+            "Sefer shel Hoshea",
+            "Book of Hosea"
+          ]
+        },
+        {
+          "text": "Amos",
+          "tier": "surface",
+          "aliases": [
+            "עמוס",
+            "ספר עמוס",
+            "Sefer Amos",
+            "Sefer shel Amos",
+            "Book of Amos"
+          ]
+        },
+        {
+          "text": "Malachi",
+          "tier": "surface",
+          "aliases": [
+            "מלאכי",
+            "ספר מלאכי",
+            "Malakhi",
+            "Mal'akhi",
+            "Sefer Malachi",
+            "Sefer shel Malachi",
+            "Book of Malachi"
+          ]
+        },
+        {
+          "text": "Zechariah",
+          "tier": "familiar",
+          "aliases": [
+            "זכריה",
+            "ספר זכריה",
+            "Zecharyah",
+            "Zekharyah",
+            "Zecharya",
+            "Zachariah",
+            "Sefer Zechariah",
+            "Sefer shel Zechariah",
+            "Book of Zechariah"
+          ]
+        },
+        {
+          "text": "Micah",
+          "tier": "familiar",
+          "aliases": [
+            "מיכה",
+            "ספר מיכה",
+            "Michah",
+            "Micha",
+            "Mikhah",
+            "Mikha",
+            "Sefer Michah",
+            "Sefer shel Michah",
+            "Book of Micah"
+          ]
+        },
+        {
+          "text": "Joel",
+          "tier": "familiar",
+          "aliases": [
+            "יואל",
+            "ספר יואל",
+            "Yoel",
+            "Yo'el",
+            "Sefer Yoel",
+            "Sefer shel Yoel",
+            "Book of Joel"
+          ]
+        },
+        {
+          "text": "Haggai",
+          "tier": "familiar",
+          "aliases": [
+            "חגי",
+            "ספר חגי",
+            "Chaggai",
+            "Chagai",
+            "Hagai",
+            "Khaggai",
+            "Sefer Chaggai",
+            "Sefer shel Chaggai",
+            "Book of Haggai"
+          ]
+        },
+        {
+          "text": "Habakkuk",
+          "tier": "uncommon",
+          "aliases": [
+            "חבקוק",
+            "ספר חבקוק",
+            "Chavakuk",
+            "Chavaquq",
+            "Havaquq",
+            "Havakuk",
+            "Habakuk",
+            "Sefer Chavakuk",
+            "Sefer shel Chavakuk",
+            "Book of Habakkuk"
+          ]
+        },
+        {
+          "text": "Obadiah",
+          "tier": "uncommon",
+          "aliases": [
+            "עובדיה",
+            "עבדיה",
+            "ספר עובדיה",
+            "Ovadiah",
+            "Ovadyah",
+            "Ovadia",
+            "Obadia",
+            "Sefer Ovadiah",
+            "Sefer shel Ovadiah",
+            "Book of Obadiah"
+          ]
+        },
+        {
+          "text": "Zephaniah",
+          "tier": "obscure",
+          "aliases": [
+            "צפניה",
+            "ספר צפניה",
+            "Tzefaniah",
+            "Tzefanyah",
+            "Tzefanya",
+            "Tzephaniah",
+            "Zephania",
+            "Sefer Tzefaniah",
+            "Sefer shel Tzefaniah",
+            "Book of Zephaniah"
+          ]
+        },
+        {
+          "text": "Nahum",
+          "tier": "pearl",
+          "aliases": [
+            "נחום",
+            "ספר נחום",
+            "Nachum",
+            "Nakhum",
+            "Sefer Nachum",
+            "Sefer shel Nachum",
+            "Book of Nahum"
+          ],
+          "note": "Seventh book of Trei Asar (three chapters between Micah and Habakkuk); prophesies the downfall of Nineveh, though people thinking of Nineveh almost always name Jonah first, and it is not read as a standard haftarah.",
+          "note_he": "הספר השביעי בתרי עשר (שלושה פרקים בין מיכה לחבקוק); מתנבא על מפלת נינוה, אך אינו נקרא כהפטרה שנתית קבועה במעגל השנה."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "prompt": "Name a plant, tree, fruit, grain, or vegetable mentioned in Mishnah Sukkah.",
+      "prompt_he": "ציינו צמח, עץ, פרי, דגן או ירק המוזכר במשנה במסכת סוכה.",
+      "category": "Mishnah",
+      "question_type": "attribute_or_action",
+      "difficulty": "easy",
+      "provenance": "ai_draft",
+      "answers": [
+        {
+          "text": "Etrog",
+          "tier": "surface",
+          "aliases": [
+            "אתרוג",
+            "אתרוגים",
+            "Citron",
+            "Esrog",
+            "Ethrog",
+            "HaEtrog"
+          ]
+        },
+        {
+          "text": "Lulav",
+          "tier": "surface",
+          "aliases": [
+            "לולב",
+            "דקל",
+            "חריות של דקל",
+            "ציני הר הברזל",
+            "Date palm",
+            "Palm branch",
+            "Palm tree",
+            "Dekel",
+            "Chariyot shel dekel",
+            "Tzinei Har HaBarzel"
+          ]
+        },
+        {
+          "text": "Hadas",
+          "tier": "surface",
+          "aliases": [
+            "הדס",
+            "הדסים",
+            "ענבי הדס",
+            "Myrtle",
+            "Hadass",
+            "Hadassim",
+            "Hadasim",
+            "Invei hadas"
+          ]
+        },
+        {
+          "text": "Aravah",
+          "tier": "surface",
+          "aliases": [
+            "ערבה",
+            "ערבות",
+            "מורביות של ערבה",
+            "Willow",
+            "Arava",
+            "Aravot",
+            "Aravos",
+            "Brook willow",
+            "Murbiyot shel aravah"
+          ]
+        },
+        {
+          "text": "Grapevine",
+          "tier": "familiar",
+          "aliases": [
+            "גפן",
+            "הגפן",
+            "יין",
+            "ענבים",
+            "Vine",
+            "Gefen",
+            "HaGefen",
+            "Grapes",
+            "Wine",
+            "Yayin"
+          ]
+        },
+        {
+          "text": "Gourd",
+          "tier": "familiar",
+          "aliases": [
+            "דלעת",
+            "הדלעת",
+            "Dela'at",
+            "Delaat",
+            "D'la'at",
+            "HaDela'at",
+            "Pumpkin",
+            "Squash"
+          ]
+        },
+        {
+          "text": "Reeds",
+          "tier": "familiar",
+          "aliases": [
+            "קנים",
+            "קנה",
+            "מחצלת קנים",
+            "Reed",
+            "Kanim",
+            "Kaneh",
+            "Qanim",
+            "Qaneh",
+            "Cane",
+            "Canes",
+            "Bamboo"
+          ]
+        },
+        {
+          "text": "Straw",
+          "tier": "familiar",
+          "aliases": [
+            "קש",
+            "חבילי קש",
+            "גדיש",
+            "Kash",
+            "Qash",
+            "Chavilei kash",
+            "Bundles of straw",
+            "Chavilei shel kash",
+            "Grain",
+            "Gadish"
+          ]
+        },
+        {
+          "text": "Dates",
+          "tier": "uncommon",
+          "aliases": [
+            "כותבות",
+            "שתי כותבות",
+            "תמרים",
+            "תמר",
+            "Date",
+            "Kotavot",
+            "Kotevot",
+            "Temarim",
+            "Tamar",
+            "Dried dates"
+          ]
+        },
+        {
+          "text": "Tzafzafah",
+          "tier": "uncommon",
+          "aliases": [
+            "צפצפה",
+            "הצפצפה",
+            "Poplar",
+            "Tzaftzafah",
+            "Tzaftzafa",
+            "Tzafzafa",
+            "White willow",
+            "HaTzafzafah"
+          ]
+        },
+        {
+          "text": "Walnut",
+          "tier": "uncommon",
+          "aliases": [
+            "אגוז",
+            "כאגוז",
+            "Egoz",
+            "Nut",
+            "KaEgoz",
+            "HaEgoz"
+          ]
+        },
+        {
+          "text": "Leek",
+          "tier": "obscure",
+          "aliases": [
+            "כרתי",
+            "ככרתי",
+            "ירוק ככרתי",
+            "Karti",
+            "KeKarti",
+            "Yarok keKarti",
+            "Porret",
+            "HaKarti"
+          ]
+        },
+        {
+          "text": "Shoots",
+          "tier": "obscure",
+          "aliases": [
+            "זרדין",
+            "חבילי זרדין",
+            "זרדים",
+            "Zeradin",
+            "Zradin",
+            "Zerodim",
+            "Chavilei zeradin",
+            "Twigs",
+            "Bundles of twigs",
+            "Chavilei shel zeradin"
+          ]
+        },
+        {
+          "text": "Olive",
+          "tier": "uncommon",
+          "aliases": [
+            "זית",
+            "שמן",
+            "כדים של שמן",
+            "Zayit",
+            "Zayis",
+            "Shemen",
+            "Olive oil",
+            "Shemen zayit"
+          ]
+        },
+        {
+          "text": "Wheat",
+          "tier": "uncommon",
+          "aliases": [
+            "חיטה",
+            "חיטים",
+            "חטים",
+            "לחם הפנים",
+            "מצה",
+            "חמץ",
+            "Chittah",
+            "Chittim",
+            "Chitah",
+            "Lechem HaPanim",
+            "Matzah",
+            "Chametz"
+          ]
+        },
+        {
+          "text": "Flax",
+          "tier": "obscure",
+          "aliases": [
+            "פשתן",
+            "חבילי פשתן",
+            "שש",
+            "Pishtan",
+            "Linen",
+            "Chavilei pishtan"
+          ]
+        },
+        {
+          "text": "Ivy",
+          "tier": "pearl",
+          "aliases": [
+            "קיסוס",
+            "קסוס",
+            "הקיסוס",
+            "הקסום",
+            "Kissos",
+            "Kisos",
+            "Qissos",
+            "HaKissos"
+          ],
+          "note": "Listed in Mishnah Sukkah 1:4 alongside the grapevine and gourd as one of the three climbing plants trellised over a sukkah ('הדלה עליה את הגפן ואת הדלעת ואת הקיסוס').",
+          "note_he": "נזכר במשנה סוכה א, ד לצד הגפן והדלעת כאחד משלושת הצמחים המטפסים שמדלים על גבי הסוכה: ״הדלה עליה את הגפן ואת הדלעת ואת הקיסוס״."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "prompt": "Name an Amora in the Gemara whose given name (excluding titles such as Rav, Rabbi, or Mar) begins with the letter Aleph (א).",
+      "prompt_he": "ציינו אמורא בגמרא ששמו הפרטי (ללא תואר כגון רב, רבי או מר) מתחיל באות א׳.",
+      "category": "Gemara",
+      "question_type": "starting_letter",
+      "difficulty": "easy",
+      "provenance": "ai_draft",
+      "answers": [
+        {
+          "text": "Abaye",
+          "tier": "surface",
+          "aliases": [
+            "אביי",
+            "Abayei",
+            "Abbaye",
+            "Abayye"
+          ]
+        },
+        {
+          "text": "Rav Ashi",
+          "tier": "surface",
+          "aliases": [
+            "רב אשי",
+            "אשי",
+            "Ashi",
+            "Rab Ashi"
+          ]
+        },
+        {
+          "text": "Rabbi Abbahu",
+          "tier": "surface",
+          "aliases": [
+            "רבי אבהו",
+            "אבהו",
+            "Abbahu",
+            "Abahu",
+            "Avahu",
+            "Rabbi Abahu",
+            "Rabbi Avahu"
+          ]
+        },
+        {
+          "text": "Rabbi Elazar",
+          "tier": "surface",
+          "aliases": [
+            "רבי אלעזר",
+            "רבי אלעזר בן פדת",
+            "אלעזר",
+            "אלעזר בן פדת",
+            "Elazar",
+            "Eleazar",
+            "Rabbi Elazar ben Pedat",
+            "Rabbi Eleazar ben Pedat",
+            "Elazar ben Pedat"
+          ]
+        },
+        {
+          "text": "Rav Assi",
+          "tier": "familiar",
+          "aliases": [
+            "רב אסי",
+            "רבי אסי",
+            "אסי",
+            "איסי",
+            "Assi",
+            "Asi",
+            "Rabbi Assi",
+            "Rabbi Asi",
+            "Issi"
+          ]
+        },
+        {
+          "text": "Rabbi Ammi",
+          "tier": "familiar",
+          "aliases": [
+            "רבי אמי",
+            "אמי",
+            "אימי",
+            "Ammi",
+            "Ami",
+            "Rabbi Ami",
+            "Immi"
+          ]
+        },
+        {
+          "text": "Rav Acha",
+          "tier": "familiar",
+          "aliases": [
+            "רב אחא",
+            "רב אחא בר יעקב",
+            "רב אחא מדפתי",
+            "רבי אחא",
+            "אחא",
+            "Acha",
+            "Aha",
+            "Akha",
+            "Rav Aha",
+            "Rabbi Acha",
+            "Rav Acha bar Yaakov",
+            "Rav Acha MiDifti"
+          ]
+        },
+        {
+          "text": "Rav Ada bar Ahavah",
+          "tier": "familiar",
+          "aliases": [
+            "רב אדא בר אהבה",
+            "רב אדא",
+            "אדא בר אהבה",
+            "אדא",
+            "Ada",
+            "Adda",
+            "Rav Ada",
+            "Rav Adda",
+            "Rav Adda bar Ahavah",
+            "Ada bar Ahavah"
+          ]
+        },
+        {
+          "text": "Rabbi Abba",
+          "tier": "familiar",
+          "aliases": [
+            "רבי אבא",
+            "רב אבא",
+            "אבא",
+            "Abba",
+            "Aba",
+            "Rav Abba",
+            "Rabbi Aba"
+          ]
+        },
+        {
+          "text": "Rabbi Oshaya",
+          "tier": "familiar",
+          "aliases": [
+            "רבי אושעיא",
+            "רב אושעיא",
+            "אושעיא",
+            "Oshaya",
+            "Oshaiah",
+            "Oshayah",
+            "Rav Oshaya"
+          ]
+        },
+        {
+          "text": "Rabbi Alexandri",
+          "tier": "uncommon",
+          "aliases": [
+            "רבי אלכסנדרי",
+            "אלכסנדרי",
+            "Alexandri",
+            "Aleksandri"
+          ]
+        },
+        {
+          "text": "Rav Idi bar Avin",
+          "tier": "uncommon",
+          "aliases": [
+            "רב אידי בר אבין",
+            "רב אידי",
+            "אידי",
+            "אידי בר אבין",
+            "Idi",
+            "Rav Idi",
+            "Idi bar Avin"
+          ]
+        },
+        {
+          "text": "Rabbi Avin",
+          "tier": "uncommon",
+          "aliases": [
+            "רבי אבין",
+            "רבין",
+            "רב אבין",
+            "אבין",
+            "רבי אבון",
+            "אבון",
+            "Avin",
+            "Ravin",
+            "Abun",
+            "Avun",
+            "Rabbi Abun",
+            "Rav Avin"
+          ]
+        },
+        {
+          "text": "Rav Avina",
+          "tier": "uncommon",
+          "aliases": [
+            "רב אבינא",
+            "רבינא",
+            "אבינא",
+            "Avina",
+            "Ravina",
+            "Abina"
+          ]
+        },
+        {
+          "text": "Rav Ikka bar Avin",
+          "tier": "uncommon",
+          "aliases": [
+            "רב איקא בר אבין",
+            "רב איקא",
+            "איקא",
+            "Ikka",
+            "Ika",
+            "Rav Ikka",
+            "Rav Ika",
+            "Ikka bar Avin"
+          ]
+        },
+        {
+          "text": "Rabbi Ila'a",
+          "tier": "uncommon",
+          "aliases": [
+            "רבי אילעא",
+            "רבי אילעי",
+            "אילעא",
+            "אילעי",
+            "Ila'a",
+            "Ilaa",
+            "Ilai",
+            "Ila'i",
+            "Rabbi Ilai"
+          ]
+        },
+        {
+          "text": "Avimi",
+          "tier": "uncommon",
+          "aliases": [
+            "אבימי",
+            "רב אבימי",
+            "אבימי בר פפי",
+            "Abimi",
+            "Rav Avimi",
+            "Avimi bar Papi"
+          ]
+        },
+        {
+          "text": "Rav Avira",
+          "tier": "uncommon",
+          "aliases": [
+            "רב אוירא",
+            "אוירא",
+            "Avira",
+            "Awira"
+          ]
+        },
+        {
+          "text": "Rav Avdimi",
+          "tier": "uncommon",
+          "aliases": [
+            "רב אבדימי",
+            "אבדימי",
+            "רב אבדימי דמן חיפה",
+            "אבדימי בר חמא",
+            "Avdimi",
+            "Abdimi",
+            "Rav Avdimi of Haifa",
+            "Rav Avdimi MiChaifah"
+          ]
+        },
+        {
+          "text": "Ilfa",
+          "tier": "obscure",
+          "aliases": [
+            "אילפא",
+            "Ilpha"
+          ]
+        },
+        {
+          "text": "Rav Aivu",
+          "tier": "obscure",
+          "aliases": [
+            "רב איבו",
+            "איבו",
+            "רבי איבו",
+            "Aivu",
+            "Aibu",
+            "Eivu",
+            "Rabbi Aivu"
+          ]
+        },
+        {
+          "text": "Rav Avia",
+          "tier": "obscure",
+          "aliases": [
+            "רב אויא",
+            "אויא",
+            "Avia",
+            "Avya",
+            "Rav Avya"
+          ]
+        },
+        {
+          "text": "Rav Ahadvoi",
+          "tier": "obscure",
+          "aliases": [
+            "רב אחדבוי",
+            "רב אחדיבוי",
+            "אחדבוי",
+            "אחדיבוי",
+            "Ahadvoi",
+            "Achdevoy",
+            "Achadvoi",
+            "Rav Achdevoy",
+            "Rav Achadvoi"
+          ]
+        },
+        {
+          "text": "Rav Efa",
+          "tier": "obscure",
+          "aliases": [
+            "איפא",
+            "רב איפא",
+            "אפא",
+            "Efa",
+            "Eifa",
+            "Ipha",
+            "Ifa"
+          ]
+        },
+        {
+          "text": "Rabbi Efes",
+          "tier": "obscure",
+          "aliases": [
+            "רבי אפס",
+            "אפס",
+            "Efes",
+            "Ephes"
+          ]
+        },
+        {
+          "text": "Rav Achai",
+          "tier": "uncommon",
+          "aliases": [
+            "רב אחאי",
+            "אחאי",
+            "רבי אחאי",
+            "Achai",
+            "Ahai",
+            "Akhai",
+            "Rabbi Achai"
+          ]
+        },
+        {
+          "text": "Rabbi Achava",
+          "tier": "obscure",
+          "aliases": [
+            "רבי אחוה",
+            "רבי אחוה בר זעירא",
+            "אחוה",
+            "Achava",
+            "Ahava",
+            "Rabbi Achava bar Ze'ira",
+            "Achava bar Ze'ira"
+          ]
+        },
+        {
+          "text": "Rav Ashian",
+          "tier": "obscure",
+          "aliases": [
+            "רב אשיין",
+            "רבי אשיין",
+            "אשיין",
+            "Ashian",
+            "Ashyan",
+            "Rabbi Ashian"
+          ]
+        },
+        {
+          "text": "Avtolos",
+          "tier": "obscure",
+          "aliases": [
+            "אבטולוס",
+            "Abtolos",
+            "Avtolus"
+          ]
+        },
+        {
+          "text": "Avdan",
+          "tier": "pearl",
+          "aliases": [
+            "אבדן",
+            "Abdan",
+            "Avdon"
+          ],
+          "note": "Amora and interpreter for Rabbi Yehudah HaNasi whose given name (אבדן, short for Abba Yudan) begins with Aleph in the famous academy account of Yevamot 105b.",
+          "note_he": "אמוראו ותלמידו של רבי יהודה הנשיא ששמו הפרטי (אבדן, קיצור של אבא יודן) פותח באות א׳ במעשה המפורסם בבית המדרש ביבמות קה ע״ב."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "prompt": "Name an issur punishable by Sekilah, as enumerated in Mishnah Sanhedrin 7:4.",
+      "prompt_he": "ציינו עבירה (איסור) שחייבים עליה סקילה בבית דין, מן המנויות במשנה סנהדרין ז, ד.",
+      "category": "Halacha",
+      "question_type": "defined_group",
+      "difficulty": "medium",
+      "provenance": "ai_draft",
+      "answers": [
+        {
+          "text": "Desecrating Shabbat",
+          "tier": "surface",
+          "aliases": [
+            "חילול שבת",
+            "מחלל את השבת",
+            "מחלל שבת",
+            "שבת",
+            "Chillul Shabbat",
+            "Chillul Shabbos",
+            "Hillul Shabbat",
+            "Mechalel Shabbat",
+            "HaMechalel Shabbat",
+            "Desecrating the Sabbath",
+            "Breaking Shabbat",
+            "Sabbath desecration",
+            "Shabbat"
+          ]
+        },
+        {
+          "text": "Idol worship",
+          "tier": "surface",
+          "aliases": [
+            "עבודה זרה",
+            "עובד עבודה זרה",
+            "העובד עבודה זרה",
+            "Avodah Zarah",
+            "Avoda Zara",
+            "Avodah Zara",
+            "Oved Avodah Zarah",
+            "HaOved Avodah Zarah",
+            "Idolatry",
+            "Worshipping idols"
+          ]
+        },
+        {
+          "text": "Blasphemy",
+          "tier": "surface",
+          "aliases": [
+            "מגדף",
+            "המגדף",
+            "ברכת השם",
+            "מקלל את השם",
+            "Megadef",
+            "HaMegadef",
+            "Birkat HaShem",
+            "Birkas HaShem",
+            "Cursing God",
+            "Cursing Hashem",
+            "Blasphemer"
+          ]
+        },
+        {
+          "text": "Wayward and rebellious son",
+          "tier": "surface",
+          "aliases": [
+            "בן סורר ומורה",
+            "סורר ומורה",
+            "Ben Sorer U'Moreh",
+            "Ben Sorer UMoreh",
+            "Ben Sorer",
+            "Sorer UMoreh",
+            "Rebellious son",
+            "Stubborn and rebellious son"
+          ]
+        },
+        {
+          "text": "Sorcery",
+          "tier": "familiar",
+          "aliases": [
+            "מכשף",
+            "המכשף",
+            "כישוף",
+            "כשוף",
+            "Mechashef",
+            "Mekhashef",
+            "HaMechashef",
+            "Kishuf",
+            "Witchcraft",
+            "Sorcerer",
+            "Witch",
+            "Magic"
+          ]
+        },
+        {
+          "text": "Giving one's child to Molech",
+          "tier": "familiar",
+          "aliases": [
+            "מולך",
+            "הנותן מזרעו למולך",
+            "נותן מזרעו למולך",
+            "עבודת המולך",
+            "Molech",
+            "Molekh",
+            "Moloch",
+            "Noten mizar'o laMolech",
+            "HaNoten MiZaro LaMolech",
+            "Child sacrifice to Molech",
+            "Passing a child to Molech"
+          ]
+        },
+        {
+          "text": "Enticer to idolatry",
+          "tier": "familiar",
+          "aliases": [
+            "מסית",
+            "המסית",
+            "מסית ומדיח",
+            "Mesit",
+            "Meisit",
+            "Mesis",
+            "HaMesit",
+            "Incitement to idolatry",
+            "Enticing to idol worship"
+          ]
+        },
+        {
+          "text": "Adultery with a betrothed maiden",
+          "tier": "familiar",
+          "aliases": [
+            "נערה המאורסה",
+            "הבא על נערה המאורסה",
+            "בא על נערה המאורסה",
+            "נערה מאורסה",
+            "Na'arah HaMe'orasah",
+            "Naarah HaMeorasah",
+            "Na'arah Me'orasah",
+            "Ba al Na'arah HaMe'orasah",
+            "Betrothed maiden",
+            "Relations with a betrothed maiden"
+          ]
+        },
+        {
+          "text": "Cursing a parent",
+          "tier": "familiar",
+          "aliases": [
+            "מקלל אביו ואמו",
+            "המקלל אביו ואמו",
+            "קלל אביו ואמו",
+            "Mekallel aviv ve'imo",
+            "Mekalel aviv v'imo",
+            "HaMekallel aviv ve'imo",
+            "Cursing one's father or mother",
+            "Cursing parents",
+            "Cursing father or mother"
+          ]
+        },
+        {
+          "text": "Instigator of a city to idolatry",
+          "tier": "pearl",
+          "aliases": [
+            "מדיח",
+            "המדיח",
+            "מדיח עיר הנדחת",
+            "Madiach",
+            "Madi'ach",
+            "Mediach",
+            "HaMadiach",
+            "Subverting a city to idolatry",
+            "Instigating a city to idolatry"
+          ],
+          "note": "Listed in Mishnah Sanhedrin 7:4 ('והמדיח'); while the inhabitants of a subverted city (Ir HaNidachat) are executed by the sword, the instigator (madiach) who subverted them is executed by stoning.",
+          "note_he": "מנוי במשנה סנהדרין ז, ד (״והמדיח״); בעוד שאנשי עיר הנדחת עצמם נידונים בסייף, המדיח שהדיח את העיר נידון בסקילה."
+        },
+        {
+          "text": "Medium of Ov",
+          "tier": "uncommon",
+          "aliases": [
+            "בעל אוב",
+            "אוב",
+            "מעלה באוב",
+            "Ba'al Ov",
+            "Baal Ov",
+            "Ov",
+            "HaOv",
+            "Necromancy",
+            "Necromancer",
+            "Consulting a medium"
+          ]
+        },
+        {
+          "text": "Medium of Yidoni",
+          "tier": "uncommon",
+          "aliases": [
+            "ידעוני",
+            "יידעוני",
+            "בעל ידעוני",
+            "Yidoni",
+            "Yid'oni",
+            "Yide'oni",
+            "Ba'al Yidoni",
+            "HaYidoni",
+            "Soothsaying",
+            "Soothsayer",
+            "Wizard"
+          ]
+        },
+        {
+          "text": "Male homosexual relations",
+          "tier": "uncommon",
+          "aliases": [
+            "משכב זכור",
+            "זכור",
+            "הבא על הזכור",
+            "בא על הזכור",
+            "Mishkav Zachor",
+            "Mishkav Zakhor",
+            "Zachor",
+            "HaBa al HaZachor",
+            "Ba al HaZachor"
+          ]
+        },
+        {
+          "text": "Bestiality",
+          "tier": "uncommon",
+          "aliases": [
+            "בהמה",
+            "הבא על הבהמה",
+            "בא על הבהמה",
+            "האשה המביאה את הבהמה",
+            "רביעת בהמה",
+            "Ba al HaBehemah",
+            "HaBa al HaBehemah",
+            "Revi'at Behemah",
+            "Relations with an animal"
+          ]
+        },
+        {
+          "text": "Relations with one's mother",
+          "tier": "uncommon",
+          "aliases": [
+            "הבא על האם",
+            "בא על האם",
+            "אם",
+            "אמו",
+            "Ba al HaEm",
+            "HaBa al HaEm",
+            "Incest with one's mother",
+            "Mother incest",
+            "Sleeping with one's mother"
+          ]
+        },
+        {
+          "text": "Relations with one's father's wife",
+          "tier": "obscure",
+          "aliases": [
+            "אשת האב",
+            "הבא על אשת האב",
+            "בא על אשת האב",
+            "אשת אביו",
+            "Eshet HaAv",
+            "Eshet Av",
+            "Eishes Av",
+            "Ba al Eshet HaAv",
+            "HaBa al Eshet HaAv",
+            "Father's wife",
+            "Stepmother",
+            "Incest with father's wife"
+          ]
+        },
+        {
+          "text": "Relations with one's daughter-in-law",
+          "tier": "obscure",
+          "aliases": [
+            "כלה",
+            "הבא על הכלה",
+            "בא על הכלה",
+            "כלתו",
+            "Kallah",
+            "Kalah",
+            "HaKallah",
+            "Ba al HaKallah",
+            "HaBa al HaKallah",
+            "Daughter-in-law",
+            "Incest with daughter-in-law"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "prompt": "Name a Talmudic sage or rabbi (before 1900) who practiced medicine or astronomy.",
+      "prompt_he": "ציינו חכם מחכמי התלמוד או רב (לפני שנת 1900) שעסק ברפואה או באסטרונומיה (תכונה).",
+      "category": "Wildcard",
+      "question_type": "person_by_role",
+      "difficulty": "easy",
+      "provenance": "ai_draft",
+      "answers": [
+        {
+          "text": "Rambam",
+          "tier": "surface",
+          "aliases": [
+            "רמב\"ם",
+            "הרמב\"ם",
+            "רבי משה בן מימון",
+            "משה בן מימון",
+            "Maimonides",
+            "HaRambam",
+            "Rabbi Moshe ben Maimon",
+            "Moshe ben Maimon",
+            "Moses Maimonides"
+          ]
+        },
+        {
+          "text": "Ramban",
+          "tier": "surface",
+          "aliases": [
+            "רמב\"ן",
+            "הרמב\"ן",
+            "רבי משה בן נחמן",
+            "משה בן נחמן",
+            "Nachmanides",
+            "Nahmanides",
+            "HaRamban",
+            "Rabbi Moshe ben Nachman",
+            "Moshe ben Nachman"
+          ]
+        },
+        {
+          "text": "Shmuel",
+          "tier": "surface",
+          "aliases": [
+            "שמואל",
+            "מר שמואל",
+            "שמואל ירחינאה",
+            "Samuel",
+            "Mar Shmuel",
+            "Shmuel Yarchina'ah",
+            "Shmuel Yarchinaah",
+            "Shmuel HaRofeh"
+          ]
+        },
+        {
+          "text": "Rabbi Yehudah Halevi",
+          "tier": "familiar",
+          "aliases": [
+            "רבי יהודה הלוי",
+            "ריה\"ל",
+            "יהודה הלוי",
+            "Yehudah Halevi",
+            "Judah Halevi",
+            "Yehuda HaLevi",
+            "Rihal",
+            "Rabbi Judah Halevi"
+          ]
+        },
+        {
+          "text": "Abraham ibn Ezra",
+          "tier": "familiar",
+          "aliases": [
+            "אבן עזרא",
+            "האבן עזרא",
+            "רבי אברהם אבן עזרא",
+            "ראב\"ע",
+            "Ibn Ezra",
+            "Avraham ibn Ezra",
+            "Rabbi Avraham ibn Ezra",
+            "HaIbn Ezra",
+            "Raba"
+          ]
+        },
+        {
+          "text": "Rabbi Ovadia Sforno",
+          "tier": "familiar",
+          "aliases": [
+            "ספורנו",
+            "הספורנו",
+            "רבי עובדיה ספורנו",
+            "עובדיה ספורנו",
+            "Sforno",
+            "Ovadia Sforno",
+            "Obadiah Sforno",
+            "HaSforno",
+            "Ovadyah Sforno"
+          ]
+        },
+        {
+          "text": "Ralbag",
+          "tier": "uncommon",
+          "aliases": [
+            "רלב\"ג",
+            "הרלב\"ג",
+            "רבי לוי בן גרשום",
+            "לוי בן גרשום",
+            "Gersonides",
+            "HaRalbag",
+            "Levi ben Gershon",
+            "Levi ben Gershom",
+            "Rabbi Levi ben Gershom"
+          ]
+        },
+        {
+          "text": "Ran",
+          "tier": "uncommon",
+          "aliases": [
+            "ר\"ן",
+            "הר\"ן",
+            "רבינו נסים",
+            "רבינו ניסים מגירונדי",
+            "HaRan",
+            "Rabbeinu Nissim",
+            "Rabbenu Nissim",
+            "Nissim of Gerona",
+            "Rabbeinu Nissim MiGerondi",
+            "Rabbeinu Nissim of Girona"
+          ]
+        },
+        {
+          "text": "Rabbi Avraham Zacuto",
+          "tier": "uncommon",
+          "aliases": [
+            "אברהם זכות",
+            "רבי אברהם זכות",
+            "אברהם זכותא",
+            "Zacuto",
+            "Abraham Zacuto",
+            "Avraham Zacuto",
+            "Avraham Zakuto"
+          ]
+        },
+        {
+          "text": "Rabbi David Gans",
+          "tier": "uncommon",
+          "aliases": [
+            "דוד גנז",
+            "רבי דוד גנז",
+            "בעל צמח דוד",
+            "David Gans",
+            "Dovid Gans",
+            "Ba'al Tzemach David"
+          ]
+        },
+        {
+          "text": "Abba Ummana",
+          "tier": "uncommon",
+          "aliases": [
+            "אבא אומנא",
+            "Abba Umana",
+            "Aba Ummana",
+            "Abba the Surgeon",
+            "Abba HaUmana"
+          ]
+        },
+        {
+          "text": "Theodos HaRofeh",
+          "tier": "uncommon",
+          "aliases": [
+            "תודוס הרופא",
+            "תיאודוס הרופא",
+            "Theodos the Physician",
+            "Todos HaRofeh",
+            "Todros HaRofeh",
+            "Theodosius the Physician"
+          ]
+        },
+        {
+          "text": "Yashar of Candia",
+          "tier": "obscure",
+          "aliases": [
+            "יש\"ר מקנדיא",
+            "יוסף שלמה דלמדיגו",
+            "היש\"ר מקנדיא",
+            "Yashar MiKandia",
+            "Yashar Mi-Kandia",
+            "HaYashar MiKandia",
+            "Joseph Solomon Delmedigo",
+            "Yosef Shlomo Delmedigo",
+            "Delmedigo"
+          ]
+        },
+        {
+          "text": "Rabbi Tuvia HaRofeh",
+          "tier": "obscure",
+          "aliases": [
+            "טוביה הרופא",
+            "טוביה כץ",
+            "רבי טוביה הרופא",
+            "Tuvia HaRofeh",
+            "Tuviah HaRofeh",
+            "Tobias Cohn",
+            "Tuvia HaKohen",
+            "Tuvia the Physician"
+          ]
+        },
+        {
+          "text": "Rabbi Avraham bar Chiyya",
+          "tier": "obscure",
+          "aliases": [
+            "אברהם בר חייא",
+            "רבי אברהם בר חייא הנשיא",
+            "Abraham bar Hiyya",
+            "Avraham bar Chiya",
+            "Savasorda",
+            "Abraham bar Hiyya HaNasi"
+          ]
+        },
+        {
+          "text": "Rabbi Yitzchak Israeli",
+          "tier": "obscure",
+          "aliases": [
+            "יצחק ישראלי",
+            "רבי יצחק ישראלי",
+            "Isaac Israeli",
+            "Yitzchak Yisraeli",
+            "Isaac Israeli ben Solomon"
+          ]
+        },
+        {
+          "text": "Shabbetai Donnolo",
+          "tier": "obscure",
+          "aliases": [
+            "שבתי דונולו",
+            "רבי שבתי דונולו",
+            "Shabbatai Donnolo",
+            "Shabsai Donnolo",
+            "Donnolo"
+          ]
+        },
+        {
+          "text": "Chasdai ibn Shaprut",
+          "tier": "obscure",
+          "aliases": [
+            "חסדאי אבן שפרוט",
+            "רבי חסדאי אבן שפרוט",
+            "Hasdai ibn Shaprut",
+            "Chasdai ben Yitzchak ibn Shaprut"
+          ]
+        },
+        {
+          "text": "Rabban Gamliel",
+          "tier": "familiar",
+          "aliases": [
+            "רבן גמליאל",
+            "רבן גמליאל דיבנה",
+            "Rabban Gamaliel",
+            "Raban Gamliel",
+            "Rabban Gamliel of Yavneh",
+            "Rabban Gamliel DeYavneh",
+            "Rabban Gamliel MiYavneh"
+          ]
+        },
+        {
+          "text": "Rabbi Yehoshua",
+          "tier": "familiar",
+          "aliases": [
+            "רבי יהושע",
+            "רבי יהושע בן חנניה",
+            "Rabbi Yehoshua ben Chananiah",
+            "Rabbi Joshua",
+            "Rabbi Joshua ben Hananiah",
+            "Yehoshua ben Chananiah"
+          ]
+        },
+        {
+          "text": "Vilna Gaon",
+          "tier": "familiar",
+          "aliases": [
+            "הגר\"א",
+            "הגאון מווילנה",
+            "הגאון מוילנא",
+            "רבי אליהו מווילנה",
+            "גר\"א",
+            "HaGra",
+            "Gra",
+            "Gaon of Vilna",
+            "HaGaon MiVilna",
+            "Eliyahu of Vilna",
+            "Rabbi Eliyahu MiVilna"
+          ]
+        },
+        {
+          "text": "Rema",
+          "tier": "uncommon",
+          "aliases": [
+            "רמ\"א",
+            "הרמ\"א",
+            "רבי משה איסרליש",
+            "משה איסרליש",
+            "HaRema",
+            "Ramo",
+            "Rabbi Moshe Isserles",
+            "Moshe Isserles",
+            "Moses Isserles"
+          ]
+        },
+        {
+          "text": "Rashbatz",
+          "tier": "uncommon",
+          "aliases": [
+            "רשב\"ץ",
+            "הרשב\"ץ",
+            "רבי שמעון בן צמח דוראן",
+            "שמעון בן צמח דוראן",
+            "HaRashbatz",
+            "Tashbetz",
+            "Shimon ben Tzemach Duran",
+            "Rabbi Shimon ben Tzemach Duran",
+            "Simeon ben Zemah Duran"
+          ]
+        },
+        {
+          "text": "Rabbi Eliyahu Mizrachi",
+          "tier": "uncommon",
+          "aliases": [
+            "הרא\"ם",
+            "רא\"ם",
+            "רבי אליהו מזרחי",
+            "אליהו מזרחי",
+            "Re'em",
+            "HaRe'em",
+            "HaReem",
+            "Eliyahu Mizrachi",
+            "Elijah Mizrachi"
+          ]
+        },
+        {
+          "text": "Rabbi Yehudah ibn Tibbon",
+          "tier": "uncommon",
+          "aliases": [
+            "יהודה אבן תיבון",
+            "רבי יהודה אבן תיבון",
+            "אבן תיבון",
+            "Yehudah ibn Tibbon",
+            "Judah ibn Tibbon",
+            "Ibn Tibbon",
+            "Shmuel ibn Tibbon",
+            "שמואל אבן תיבון"
+          ]
+        },
+        {
+          "text": "Rabbi Yaakov ben Machir",
+          "tier": "obscure",
+          "aliases": [
+            "יעקב בן מכיר",
+            "רבי יעקב בן מכיר",
+            "יעקב בן מכיר אבן תיבון",
+            "פרופייט תיבון",
+            "Yaakov ben Machir",
+            "Jacob ben Machir ibn Tibbon",
+            "Prophatius",
+            "Don Profeit Tibbon"
+          ]
+        },
+        {
+          "text": "Profiat Duran",
+          "tier": "obscure",
+          "aliases": [
+            "אפודי",
+            "האפודי",
+            "פרופייט דוראן",
+            "יצחק בן משה הלוי",
+            "Efodi",
+            "HaEfodi",
+            "Profeit Duran",
+            "Yitzchak ben Moshe HaLevi"
+          ]
+        },
+        {
+          "text": "Rabbi Yitzchak Lampronti",
+          "tier": "obscure",
+          "aliases": [
+            "יצחק למפרונטי",
+            "רבי יצחק למפרונטי",
+            "פחד יצחק",
+            "Yitzchak Lampronti",
+            "Isaac Lampronti",
+            "Lampronti"
+          ]
+        },
+        {
+          "text": "Rabbi Shimshon Morpurgo",
+          "tier": "obscure",
+          "aliases": [
+            "שמשון מורפורגו",
+            "רבי שמשון מורפורגו",
+            "Shimshon Morpurgo",
+            "Samson Morpurgo",
+            "Morpurgo"
+          ]
+        },
+        {
+          "text": "Menasseh ben Israel",
+          "tier": "obscure",
+          "aliases": [
+            "מנשה בן ישראל",
+            "רבי מנשה בן ישראל",
+            "Menasheh ben Yisrael",
+            "Manasseh ben Israel",
+            "Rabbi Menasseh ben Israel"
+          ]
+        },
+        {
+          "text": "Minomi Assia",
+          "tier": "obscure",
+          "aliases": [
+            "מינומי אסיא",
+            "בנימין אסיא",
+            "מניומי אסיא",
+            "Manyumi Assia",
+            "Binyamin Assia",
+            "Minomi the Physician",
+            "Minomi HaRofeh"
+          ]
+        },
+        {
+          "text": "Rabbi Chaim Vital",
+          "tier": "uncommon",
+          "aliases": [
+            "רבי חיים ויטאל",
+            "חיים ויטאל",
+            "מהרח\"ו",
+            "Chaim Vital",
+            "Hayyim Vital",
+            "Maharchu"
+          ]
+        },
+        {
+          "text": "Rabbi Moshe Almosnino",
+          "tier": "obscure",
+          "aliases": [
+            "רבי משה אלמוזנינו",
+            "משה אלמוזנינו",
+            "Moshe Almosnino",
+            "Moses Almosnino",
+            "Almosnino"
+          ]
+        },
+        {
+          "text": "Rabbi Yaakov Zahalon",
+          "tier": "pearl",
+          "aliases": [
+            "יעקב צהלון",
+            "רבי יעקב צהלון",
+            "מהרי\"ץ צהלון",
+            "Jacob Zahalon",
+            "Yaakov Tzahalon",
+            "Maharitz Tzahalon"
+          ],
+          "note": "Seventeenth-century rabbi and physician of Rome (1630–1693, graduate of the University of Rome) who tended the ghetto during the 1656 plague and authored the Hebrew medical encyclopedia Otzar HaChayim.",
+          "note_he": "רב ורופא ברומא במאה ה־17 (1630–1693), שטיפל ביהודי הגטו במגפת 1656 וחיבר את האנציקלופדיה הרפואית העברית ״אוצר החיים״."
+        }
+      ]
+    }
+  ]
+}
