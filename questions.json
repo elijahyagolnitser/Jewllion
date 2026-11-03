@@ -637,6 +637,15 @@
       "provenance": "ai_draft",
       "answers": [
         {
+      "id": "q4",
+      "prompt": "Name a tractate of the Mishnah that has 4 or fewer chapters.",
+      "prompt_he": "ציינו מסכת במשנה שיש בה ארבעה פרקים או פחות.",
+      "category": "Mishnah",
+      "question_type": "sefer_by_collection_or_topic",
+      "difficulty": "easy",
+      "provenance": "ai_draft",
+      "answers": [
+        {
           "text": "Rosh Hashanah",
           "tier": "surface",
           "aliases": [
@@ -811,8 +820,22 @@
           ]
         },
         {
-          "text": "Uktzin",
+          "text": "Kinnim",
           "tier": "obscure",
+          "aliases": [
+            "קינים",
+            "קנים",
+            "מסכת קינים",
+            "Kinim",
+            "Qinnim",
+            "Qinim",
+            "Masechet Kinnim",
+            "Maseches Kinnim"
+          ]
+        },
+        {
+          "text": "Uktzin",
+          "tier": "pearl",
           "aliases": [
             "עוקצין",
             "עוקצים",
@@ -823,23 +846,9 @@
             "Uqtzin",
             "Masechet Uktzin",
             "Maseches Uktzin"
-          ]
-        },
-        {
-          "text": "Kinnim",
-          "tier": "pearl",
-          "aliases": [
-            "קינים",
-            "קנים",
-            "מסכת קינים",
-            "Kinim",
-            "Qinnim",
-            "Qinim",
-            "Masechet Kinnim",
-            "Maseches Kinnim"
           ],
-          "note": "Three-chapter tractate at the end of Seder Kodashim dealing with mixed pairs of sacrificial birds (kinnim), renowned in Chazal as one of the most intricate parts of the Mishnah.",
-          "note_he": "מסכת בת שלושה פרקים בסוף סדר קדשים העוסקת בתערובות של קני עופות להקרבה, ונודעת בדברי חז״ל כאחת המסכתות העמוקות במשנה."
+          "note": "Three-chapter tractate at the very end of Seder Taharot and of the entire Mishnah, dealing with how stalks, peels, and kernels of plants transmit or receive ritual impurity.",
+          "note_he": "מסכת בת שלושה פרקים החותמת את סדר טהרות ואת שישה סדרי משנה כולם, והעוסקת בדיני טומאה וטהרה של עוקצי פירות, קליפותיהם וגרעיניהם."
         }
       ]
     },
