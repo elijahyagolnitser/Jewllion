@@ -1852,8 +1852,8 @@
     },
     {
       "id": "q7",
-      "prompt": "Name a Talmudic sage or rabbi (before 1900) who practiced medicine or astronomy.",
-      "prompt_he": "ציינו חכם מחכמי התלמוד או רב (לפני שנת 1900) שעסק ברפואה או באסטרונומיה (תכונה).",
+      "prompt": "Name a Rishon (medieval rabbinic scholar, c. 900–1500) who officially studied or practiced medicine or astronomy.",
+      "prompt_he": "ציינו חכם מן הראשונים (סביבות 900–1500) שעסק בפועל או למד באופן מקצועי רפואה או אסטרונומיה (תכונה).",
       "category": "Wildcard",
       "question_type": "person_by_role",
       "difficulty": "easy",
@@ -1865,6 +1865,8 @@
           "aliases": [
             "רמב\"ם",
             "הרמב\"ם",
+            "רמבם",
+            "הרמבם",
             "רבי משה בן מימון",
             "משה בן מימון",
             "Maimonides",
@@ -1880,6 +1882,8 @@
           "aliases": [
             "רמב\"ן",
             "הרמב\"ן",
+            "רמבן",
+            "הרמבן",
             "רבי משה בן נחמן",
             "משה בן נחמן",
             "Nachmanides",
@@ -1890,25 +1894,12 @@
           ]
         },
         {
-          "text": "Shmuel",
-          "tier": "surface",
-          "aliases": [
-            "שמואל",
-            "מר שמואל",
-            "שמואל ירחינאה",
-            "Samuel",
-            "Mar Shmuel",
-            "Shmuel Yarchina'ah",
-            "Shmuel Yarchinaah",
-            "Shmuel HaRofeh"
-          ]
-        },
-        {
           "text": "Rabbi Yehudah Halevi",
           "tier": "familiar",
           "aliases": [
             "רבי יהודה הלוי",
             "ריה\"ל",
+            "ריהל",
             "יהודה הלוי",
             "Yehudah Halevi",
             "Judah Halevi",
@@ -1925,6 +1916,7 @@
             "האבן עזרא",
             "רבי אברהם אבן עזרא",
             "ראב\"ע",
+            "ראבע",
             "Ibn Ezra",
             "Avraham ibn Ezra",
             "Rabbi Avraham ibn Ezra",
@@ -1933,26 +1925,13 @@
           ]
         },
         {
-          "text": "Rabbi Ovadia Sforno",
-          "tier": "familiar",
-          "aliases": [
-            "ספורנו",
-            "הספורנו",
-            "רבי עובדיה ספורנו",
-            "עובדיה ספורנו",
-            "Sforno",
-            "Ovadia Sforno",
-            "Obadiah Sforno",
-            "HaSforno",
-            "Ovadyah Sforno"
-          ]
-        },
-        {
           "text": "Ralbag",
-          "tier": "uncommon",
+          "tier": "familiar",
           "aliases": [
             "רלב\"ג",
             "הרלב\"ג",
+            "רלבג",
+            "הרלבג",
             "רבי לוי בן גרשום",
             "לוי בן גרשום",
             "Gersonides",
@@ -1964,10 +1943,12 @@
         },
         {
           "text": "Ran",
-          "tier": "uncommon",
+          "tier": "familiar",
           "aliases": [
             "ר\"ן",
             "הר\"ן",
+            "רן",
+            "הרן",
             "רבינו נסים",
             "רבינו ניסים מגירונדי",
             "HaRan",
@@ -1976,6 +1957,22 @@
             "Nissim of Gerona",
             "Rabbeinu Nissim MiGerondi",
             "Rabbeinu Nissim of Girona"
+          ]
+        },
+        {
+          "text": "Rabbi Avraham ben HaRambam",
+          "tier": "familiar",
+          "aliases": [
+            "רבי אברהם בן הרמב\"ם",
+            "אברהם בן הרמב\"ם",
+            "רבינו אברהם בן הרמב\"ם",
+            "רבי אברהם בן הרמבם",
+            "אברהם בן הרמבם",
+            "Avraham ben HaRambam",
+            "Abraham ben Maimon",
+            "Avraham Maimuni",
+            "Abraham Maimonides",
+            "Rabbeinu Avraham ben HaRambam"
           ]
         },
         {
@@ -1992,72 +1989,61 @@
           ]
         },
         {
-          "text": "Rabbi David Gans",
+          "text": "Rashbatz",
           "tier": "uncommon",
           "aliases": [
-            "דוד גנז",
-            "רבי דוד גנז",
-            "בעל צמח דוד",
-            "David Gans",
-            "Dovid Gans",
-            "Ba'al Tzemach David"
+            "רשב\"ץ",
+            "הרשב\"ץ",
+            "רשבץ",
+            "הרשבץ",
+            "רבי שמעון בן צמח דוראן",
+            "שמעון בן צמח דוראן",
+            "HaRashbatz",
+            "Tashbetz",
+            "Shimon ben Tzemach Duran",
+            "Rabbi Shimon ben Tzemach Duran",
+            "Simeon ben Zemah Duran"
           ]
         },
         {
-          "text": "Abba Ummana",
+          "text": "Rabbi Yehudah ibn Tibbon",
           "tier": "uncommon",
           "aliases": [
-            "אבא אומנא",
-            "Abba Umana",
-            "Aba Ummana",
-            "Abba the Surgeon",
-            "Abba HaUmana"
+            "יהודה אבן תיבון",
+            "רבי יהודה אבן תיבון",
+            "אבן תיבון",
+            "Yehudah ibn Tibbon",
+            "Judah ibn Tibbon",
+            "Ibn Tibbon"
           ]
         },
         {
-          "text": "Theodos HaRofeh",
+          "text": "Rabbi Shmuel ibn Tibbon",
           "tier": "uncommon",
           "aliases": [
-            "תודוס הרופא",
-            "תיאודוס הרופא",
-            "Theodos the Physician",
-            "Todos HaRofeh",
-            "Todros HaRofeh",
-            "Theodosius the Physician"
+            "שמואל אבן תיבון",
+            "רבי שמואל אבן תיבון",
+            "Shmuel ibn Tibbon",
+            "Samuel ibn Tibbon"
           ]
         },
         {
-          "text": "Yashar of Candia",
-          "tier": "obscure",
+          "text": "Rabbi Yaakov ben Machir",
+          "tier": "uncommon",
           "aliases": [
-            "יש\"ר מקנדיא",
-            "יוסף שלמה דלמדיגו",
-            "היש\"ר מקנדיא",
-            "Yashar MiKandia",
-            "Yashar Mi-Kandia",
-            "HaYashar MiKandia",
-            "Joseph Solomon Delmedigo",
-            "Yosef Shlomo Delmedigo",
-            "Delmedigo"
-          ]
-        },
-        {
-          "text": "Rabbi Tuvia HaRofeh",
-          "tier": "obscure",
-          "aliases": [
-            "טוביה הרופא",
-            "טוביה כץ",
-            "רבי טוביה הרופא",
-            "Tuvia HaRofeh",
-            "Tuviah HaRofeh",
-            "Tobias Cohn",
-            "Tuvia HaKohen",
-            "Tuvia the Physician"
+            "יעקב בן מכיר",
+            "רבי יעקב בן מכיר",
+            "יעקב בן מכיר אבן תיבון",
+            "פרופייט תיבון",
+            "Yaakov ben Machir",
+            "Jacob ben Machir ibn Tibbon",
+            "Prophatius",
+            "Don Profeit Tibbon"
           ]
         },
         {
           "text": "Rabbi Avraham bar Chiyya",
-          "tier": "obscure",
+          "tier": "uncommon",
           "aliases": [
             "אברהם בר חייא",
             "רבי אברהם בר חייא הנשיא",
@@ -2069,13 +2055,75 @@
         },
         {
           "text": "Rabbi Yitzchak Israeli",
-          "tier": "obscure",
+          "tier": "uncommon",
           "aliases": [
             "יצחק ישראלי",
             "רבי יצחק ישראלי",
             "Isaac Israeli",
             "Yitzchak Yisraeli",
             "Isaac Israeli ben Solomon"
+          ]
+        },
+        {
+          "text": "Chasdai ibn Shaprut",
+          "tier": "uncommon",
+          "aliases": [
+            "חסדאי אבן שפרוט",
+            "רבי חסדאי אבן שפרוט",
+            "Hasdai ibn Shaprut",
+            "Chasdai ben Yitzchak ibn Shaprut"
+          ]
+        },
+        {
+          "text": "Rabbi Jedaiah Bedersi",
+          "tier": "uncommon",
+          "aliases": [
+            "רבי ידעיה הפניני",
+            "ידעיה הפניני",
+            "הפניני",
+            "ידעיה הבדרשי",
+            "בעל בחינת עולם",
+            "Yedaiah HaPenini",
+            "Jedaiah HaPenini",
+            "Yedayah HaPenini",
+            "HaPenini",
+            "Yedaiah Bedersi",
+            "Ba'al Bechinat Olam"
+          ]
+        },
+        {
+          "text": "Rabbi Meir Aldabi",
+          "tier": "uncommon",
+          "aliases": [
+            "רבי מאיר אלדבי",
+            "מאיר אלדבי",
+            "בעל שבילי אמונה",
+            "Meir Aldabi",
+            "Ba'al Shevilei Emunah",
+            "Shevilei Emunah"
+          ]
+        },
+        {
+          "text": "Rabbi Moshe ibn Tibbon",
+          "tier": "obscure",
+          "aliases": [
+            "משה אבן תיבון",
+            "רבי משה אבן תיבון",
+            "Moshe ibn Tibbon",
+            "Moses ibn Tibbon"
+          ]
+        },
+        {
+          "text": "Rabbi Yitzchak ben Yosef Israeli",
+          "tier": "obscure",
+          "aliases": [
+            "רבי יצחק בן יוסף ישראלי",
+            "יצחק בן יוסף ישראלי",
+            "בעל יסוד עולם",
+            "Yitzchak ben Yosef Israeli",
+            "Isaac ben Joseph Israeli",
+            "Ba'al Yesod Olam",
+            "Yesod Olam"
           ]
         },
         {
@@ -2090,128 +2138,13 @@
           ]
         },
         {
-          "text": "Chasdai ibn Shaprut",
+          "text": "Rabbi Dunash ibn Tamim",
           "tier": "obscure",
           "aliases": [
-            "חסדאי אבן שפרוט",
-            "רבי חסדאי אבן שפרוט",
-            "Hasdai ibn Shaprut",
-            "Chasdai ben Yitzchak ibn Shaprut"
-          ]
-        },
-        {
-          "text": "Rabban Gamliel",
-          "tier": "familiar",
-          "aliases": [
-            "רבן גמליאל",
-            "רבן גמליאל דיבנה",
-            "Rabban Gamaliel",
-            "Raban Gamliel",
-            "Rabban Gamliel of Yavneh",
-            "Rabban Gamliel DeYavneh",
-            "Rabban Gamliel MiYavneh"
-          ]
-        },
-        {
-          "text": "Rabbi Yehoshua",
-          "tier": "familiar",
-          "aliases": [
-            "רבי יהושע",
-            "רבי יהושע בן חנניה",
-            "Rabbi Yehoshua ben Chananiah",
-            "Rabbi Joshua",
-            "Rabbi Joshua ben Hananiah",
-            "Yehoshua ben Chananiah"
-          ]
-        },
-        {
-          "text": "Vilna Gaon",
-          "tier": "familiar",
-          "aliases": [
-            "הגר\"א",
-            "הגאון מווילנה",
-            "הגאון מוילנא",
-            "רבי אליהו מווילנה",
-            "גר\"א",
-            "HaGra",
-            "Gra",
-            "Gaon of Vilna",
-            "HaGaon MiVilna",
-            "Eliyahu of Vilna",
-            "Rabbi Eliyahu MiVilna"
-          ]
-        },
-        {
-          "text": "Rema",
-          "tier": "uncommon",
-          "aliases": [
-            "רמ\"א",
-            "הרמ\"א",
-            "רבי משה איסרליש",
-            "משה איסרליש",
-            "HaRema",
-            "Ramo",
-            "Rabbi Moshe Isserles",
-            "Moshe Isserles",
-            "Moses Isserles"
-          ]
-        },
-        {
-          "text": "Rashbatz",
-          "tier": "uncommon",
-          "aliases": [
-            "רשב\"ץ",
-            "הרשב\"ץ",
-            "רבי שמעון בן צמח דוראן",
-            "שמעון בן צמח דוראן",
-            "HaRashbatz",
-            "Tashbetz",
-            "Shimon ben Tzemach Duran",
-            "Rabbi Shimon ben Tzemach Duran",
-            "Simeon ben Zemah Duran"
-          ]
-        },
-        {
-          "text": "Rabbi Eliyahu Mizrachi",
-          "tier": "uncommon",
-          "aliases": [
-            "הרא\"ם",
-            "רא\"ם",
-            "רבי אליהו מזרחי",
-            "אליהו מזרחי",
-            "Re'em",
-            "HaRe'em",
-            "HaReem",
-            "Eliyahu Mizrachi",
-            "Elijah Mizrachi"
-          ]
-        },
-        {
-          "text": "Rabbi Yehudah ibn Tibbon",
-          "tier": "uncommon",
-          "aliases": [
-            "יהודה אבן תיבון",
-            "רבי יהודה אבן תיבון",
-            "אבן תיבון",
-            "Yehudah ibn Tibbon",
-            "Judah ibn Tibbon",
-            "Ibn Tibbon",
-            "Shmuel ibn Tibbon",
-            "שמואל אבן תיבון"
-          ]
-        },
-        {
-          "text": "Rabbi Yaakov ben Machir",
-          "tier": "obscure",
-          "aliases": [
-            "יעקב בן מכיר",
-            "רבי יעקב בן מכיר",
-            "יעקב בן מכיר אבן תיבון",
-            "פרופייט תיבון",
-            "Yaakov ben Machir",
-            "Jacob ben Machir ibn Tibbon",
-            "Prophatius",
-            "Don Profeit Tibbon"
+            "רבי דונש אבן תמים",
+            "דונש אבן תמים",
+            "Dunash ibn Tamim",
+            "Adonim ben Tamim"
           ]
         },
         {
@@ -2229,88 +2162,122 @@
           ]
         },
         {
-          "text": "Rabbi Yitzchak Lampronti",
+          "text": "Rabbi Immanuel Bonfils",
           "tier": "obscure",
           "aliases": [
-            "יצחק למפרונטי",
-            "רבי יצחק למפרונטי",
-            "פחד יצחק",
-            "Yitzchak Lampronti",
-            "Isaac Lampronti",
-            "Lampronti"
+            "רבי עמנואל בן יעקב",
+            "עמנואל בן יעקב בונפילס",
+            "בעל שש כנפיים",
+            "Immanuel Bonfils",
+            "Immanuel ben Yaakov",
+            "Immanuel ben Jacob Bonfils",
+            "Ba'al Shesh Kenafayim",
+            "Shesh Kenafayim"
           ]
         },
         {
-          "text": "Rabbi Shimshon Morpurgo",
+          "text": "Rabbi Moshe Narboni",
           "tier": "obscure",
           "aliases": [
-            "שמשון מורפורגו",
-            "רבי שמשון מורפורגו",
-            "Shimshon Morpurgo",
-            "Samson Morpurgo",
-            "Morpurgo"
+            "רבי משה נרבוני",
+            "משה נרבוני",
+            "Moshe Narboni",
+            "Moses Narboni",
+            "Narboni"
           ]
         },
         {
-          "text": "Menasseh ben Israel",
+          "text": "Rabbi Shem Tov ibn Falaquera",
           "tier": "obscure",
           "aliases": [
-            "מנשה בן ישראל",
-            "רבי מנשה בן ישראל",
-            "Menasheh ben Yisrael",
-            "Manasseh ben Israel",
-            "Rabbi Menasseh ben Israel"
+            "רבי שם טוב אבן פלקירה",
+            "שם טוב אבן פלקירה",
+            "אבן פלקירה",
+            "Shem Tov ibn Falaquera",
+            "Shem Tob Falaquera",
+            "Ibn Falaquera",
+            "Falaquera"
           ]
         },
         {
-          "text": "Minomi Assia",
+          "text": "Rabbi Yosef ben Yehudah",
           "tier": "obscure",
           "aliases": [
-            "מינומי אסיא",
-            "בנימין אסיא",
-            "מניומי אסיא",
-            "Manyumi Assia",
-            "Binyamin Assia",
-            "Minomi the Physician",
-            "Minomi HaRofeh"
+            "רבי יוסף בן יהודה",
+            "יוסף בן יהודה אבן שמעון",
+            "יוסף בן יהודה אבן עקנין",
+            "Yosef ben Yehudah",
+            "Joseph ben Judah",
+            "Yosef ben Yehudah ibn Shimon",
+            "Yosef ibn Aknin"
           ]
         },
         {
-          "text": "Rabbi Chaim Vital",
-          "tier": "uncommon",
-          "aliases": [
-            "רבי חיים ויטאל",
-            "חיים ויטאל",
-            "מהרח\"ו",
-            "Chaim Vital",
-            "Hayyim Vital",
-            "Maharchu"
-          ]
-        },
-        {
-          "text": "Rabbi Moshe Almosnino",
+          "text": "Rabbi Zerachiah Chen",
           "tier": "obscure",
           "aliases": [
-            "רבי משה אלמוזנינו",
-            "משה אלמוזנינו",
-            "Moshe Almosnino",
-            "Moses Almosnino",
-            "Almosnino"
+            "רבי זרחיה חן",
+            "זרחיה חן",
+            "רבי זרחיה בן יצחק בן שאלתיאל חן",
+            "Zerachiah Chen",
+            "Zerahiah Gracian",
+            "Zerachiah ben Yitzchak"
           ]
         },
         {
-          "text": "Rabbi Yaakov Zahalon",
+          "text": "Rabbi Sheshet Benveniste",
+          "tier": "obscure",
+          "aliases": [
+            "רבי ששת בנבנשתי",
+            "ששת בנבנשתי",
+            "Sheshet Benveniste",
+            "Sheshet ben Yitzchak Benveniste"
+          ]
+        },
+        {
+          "text": "Rabbi Natan HaMe'ati",
+          "tier": "obscure",
+          "aliases": [
+            "רבי נתן המאתי",
+            "נתן המאתי",
+            "Natan HaMe'ati",
+            "Nathan HaMe'ati",
+            "Natan HaMeati"
+          ]
+        },
+        {
+          "text": "Rabbi Shem Tov of Tortosa",
+          "tier": "obscure",
+          "aliases": [
+            "רבי שם טוב בן יצחק מטורטושא",
+            "שם טוב מטורטושא",
+            "Shem Tov ben Yitzchak of Tortosa",
+            "Shem Tov MiTortosa",
+            "Rabbi Shem Tov MiTortosa"
+          ]
+        },
+        {
+          "text": "Rabbi Binyamin HaRofeh",
           "tier": "pearl",
           "aliases": [
-            "יעקב צהלון",
-            "רבי יעקב צהלון",
-            "מהרי\"ץ צהלון",
-            "Jacob Zahalon",
-            "Yaakov Tzahalon",
-            "Maharitz Tzahalon"
+            "רבי בנימין הרופא",
+            "ר' בנימין הרופא",
+            "בנימין הרופא",
+            "רב בנימין הרופא",
+            "רבי בנימין בן אברהם הרופא",
+            "בנימין מן הענוים",
+            "R Binyamin HaRofeh",
+            "R' Binyamin HaRofeh",
+            "Binyamin HaRofeh",
+            "Rav Binyamin HaRofeh",
+            "Rabbi Binyomin HaRofeh",
+            "R Binyomin HaRofeh",
+            "Binyomin HaRofeh",
+            "Rabbi Benjamin the Physician",
+            "Benjamin the Physician"
           ],
-          "note": "Seventeenth-century rabbi and physician of Rome (1630–1693, graduate of the University of Rome) who tended the ghetto during the 1656 plague and authored the Hebrew medical encyclopedia Otzar HaChayim.",
-          "note_he": "רב ורופא ברומא במאה ה־17 (1630–1693), שטיפל ביהודי הגטו במגפת 1656 וחיבר את האנציקלופדיה הרפואית העברית ״אוצר החיים״."
+          "note": "Thirteenth-century Roman Rishon, paytan, and practicing physician of the Anavim family (brother of Rabbi Tzidkiyahu ben Avraham, author of Shibbolei HaLeket).",
+          "note_he": "חכם מן הראשונים, פייטן ורופא ברומא במאה ה־13 ממשפחת הענוים (אחיו של רבי צדקיה בן אברהם בעל ״שבלי הלקט״)."
         }
       ]
     }
