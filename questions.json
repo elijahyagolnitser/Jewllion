@@ -1749,7 +1749,8 @@
             "Consulting a medium"
           ]
         },
-        { "text": "Relations with one's daughter-in-law",
+        { 
+          "text": "Relations with one's daughter-in-law",
           "tier": "obscure",
           "aliases": [
             "כלה",
