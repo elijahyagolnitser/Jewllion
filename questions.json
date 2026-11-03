@@ -1720,7 +1720,7 @@
         },
         {
           "text": "Instigator of a city to idolatry",
-          "tier": "pearl",
+          "tier": "familiar",
           "aliases": [
             "מדיח",
             "המדיח",
@@ -1732,8 +1732,6 @@
             "Subverting a city to idolatry",
             "Instigating a city to idolatry"
           ],
-          "note": "Listed in Mishnah Sanhedrin 7:4 ('והמדיח'); while the inhabitants of a subverted city (Ir HaNidachat) are executed by the sword, the instigator (madiach) who subverted them is executed by stoning.",
-          "note_he": "מנוי במשנה סנהדרין ז, ד (״והמדיח״); בעוד שאנשי עיר הנדחת עצמם נידונים בסייף, המדיח שהדיח את העיר נידון בסקילה."
         },
         {
           "text": "Medium of Ov",
@@ -1753,7 +1751,7 @@
         },
         {
           "text": "Medium of Yidoni",
-          "tier": "uncommon",
+          "tier": "pearl",
           "aliases": [
             "ידעוני",
             "יידעוני",
@@ -1767,6 +1765,10 @@
             "Soothsayer",
             "Wizard"
           ]
+          "note": "Listed in Mishnah Sanhedrin 7:4 ('וידעוני') and Leviticus 20:27; explained in Mishnah Sanhedrin
+   7:7 (and Sanhedrin 65b) as a diviner who places the bone of the yido'a creature in his mouth so that it speaks.",
+             "note_he": "מנוי במשנה סנהדרין ז, ד (״וידעוני״) ובויקרא כ, כז; מתואר במשנה סנהדרין ז, ז (ובגמרא סנהדרין
+   סה ע״ב) כמי שמניח עצם של חיה הקרויה ידוע בפיו והעצם מדברת מאליה."
         },
         {
           "text": "Male homosexual relations",
