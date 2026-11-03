@@ -1749,27 +1749,21 @@
             "Consulting a medium"
           ]
         },
-        {
-          "text": "Medium of Yidoni",
-          "tier": "pearl",
+        { "text": "Relations with one's daughter-in-law",
+          "tier": "obscure",
           "aliases": [
-            "ידעוני",
-            "יידעוני",
-            "בעל ידעוני",
-            "Yidoni",
-            "Yid'oni",
-            "Yide'oni",
-            "Ba'al Yidoni",
-            "HaYidoni",
-            "Soothsaying",
-            "Soothsayer",
-            "Wizard"
-          ]
-          "note": "Listed in Mishnah Sanhedrin 7:4 ('וידעוני') and Leviticus 20:27; explained in Mishnah Sanhedrin
-   7:7 (and Sanhedrin 65b) as a diviner who places the bone of the yido'a creature in his mouth so that it speaks.",
-             "note_he": "מנוי במשנה סנהדרין ז, ד (״וידעוני״) ובויקרא כ, כז; מתואר במשנה סנהדרין ז, ז (ובגמרא סנהדרין
-   סה ע״ב) כמי שמניח עצם של חיה הקרויה ידוע בפיו והעצם מדברת מאליה."
-        },
+            "כלה",
+            "הבא על הכלה",
+            "בא על הכלה",
+            "כלתו",
+            "Kallah",
+            "Kalah",
+            "HaKallah",
+            "Ba al HaKallah",
+            "HaBa al HaKallah",
+            "Daughter-in-law",
+            "Incest with daughter-in-law"
+        }
         {
           "text": "Male homosexual relations",
           "tier": "uncommon",
@@ -1834,21 +1828,23 @@
           ]
         },
         {
-          "text": "Relations with one's daughter-in-law",
-          "tier": "obscure",
+          "text": "Medium of Yidoni",
+          "tier": "pearl",
           "aliases": [
-            "כלה",
-            "הבא על הכלה",
-            "בא על הכלה",
-            "כלתו",
-            "Kallah",
-            "Kalah",
-            "HaKallah",
-            "Ba al HaKallah",
-            "HaBa al HaKallah",
-            "Daughter-in-law",
-            "Incest with daughter-in-law"
-          ]
+            "ידעוני",
+            "יידעוני",
+            "בעל ידעוני",
+            "Yidoni",
+            "Yid'oni",
+            "Yide'oni",
+            "Ba'al Yidoni",
+            "HaYidoni",
+            "Soothsaying",
+            "Soothsayer",
+            "Wizard"
+          ],
+          "note": "Listed in Mishnah Sanhedrin 7:4 ('וידעוני') and Leviticus 20:27; explained in Mishnah Sanhedrin 7:7 (and Sanhedrin 65b) as a diviner who places the bone of the yido'a creature in his mouth so that it speaks.",
+          "note_he": "מנוי במשנה סנהדרין ז, ד (״וידעוני״) ובויקרא כ, כז; מתואר במשנה סנהדרין ז, ז (ובגמרא סנהדרין סה ע״ב) כמי שמניח עצם של חיה הקרויה ידוע בפיו והעצם מדברת מאליה."
         }
       ]
     },
