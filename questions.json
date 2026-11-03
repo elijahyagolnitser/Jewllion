@@ -637,15 +637,6 @@
       "provenance": "ai_draft",
       "answers": [
         {
-      "id": "q4",
-      "prompt": "Name a tractate of the Mishnah that has 4 or fewer chapters.",
-      "prompt_he": "ציינו מסכת במשנה שיש בה ארבעה פרקים או פחות.",
-      "category": "Mishnah",
-      "question_type": "sefer_by_collection_or_topic",
-      "difficulty": "easy",
-      "provenance": "ai_draft",
-      "answers": [
-        {
           "text": "Rosh Hashanah",
           "tier": "surface",
           "aliases": [
