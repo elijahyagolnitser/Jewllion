@@ -1,1434 +1,1840 @@
 {
-  "title": "Jewllion - Pack 09",
-  "description": "23 Cheshvan 5787",
+  "title": "Jewllion - Pack 10",
+  "description": "24 Cheshvan 5787",
   "seconds": 35,
   "questions": [
     {
       "id": "q1",
-      "prompt": "Name a human body part explicitly mentioned in Parshas Chayei Sarah (Genesis 23:1–25:18).",
-      "prompt_he": "ציינו איבר מאיברי גוף האדם המוזכר במפורש בפרשת חיי שרה (בראשית כג, א–כה, יח).",
+      "prompt": "Name a number explicitly stated in Parshas Chayei Sarah (Genesis 23:1–25:18).",
+      "prompt_he": "ציינו מספר הנאמר במפורש בפרשת חיי שרה (בראשית כג, א–כה, יח).",
       "category": "Tanakh",
       "question_type": "attribute_or_action",
       "difficulty": "easy",
       "provenance": "ai_draft",
       "answers": [
         {
-          "text": "Yad",
+          "text": "Me'ah VeEsrim VeSheva",
           "tier": "surface",
           "aliases": [
-            "יד",
-            "ידיים",
-            "ידים",
-            "ידיה",
-            "ידו",
-            "ידך",
-            "זרוע",
-            "זרועות",
-            "Hand",
-            "Hands",
-            "Arm",
-            "Arms",
-            "Wrist",
-            "Wrists",
-            "Yadayim",
-            "Yadaim",
-            "Yadim",
-            "Zeroa",
-            "Zroa"
+            "מאה ועשרים ושבע",
+            "מאה שנה ועשרים שנה ושבע שנים",
+            "127",
+            "קכז",
+            "קכ״ז",
+            "One hundred and twenty-seven",
+            "One hundred twenty-seven",
+            "One hundred twenty seven",
+            "Hundred and twenty-seven",
+            "Meah VeEsrim VeSheva",
+            "Meah Veesrim Vesheva",
+            "Me'ah V'esrim V'sheva",
+            "Meah V'esrim V'sheva"
           ]
         },
         {
-          "text": "Ayin",
+          "text": "Arba Me'ot",
           "tier": "surface",
           "aliases": [
-            "עין",
-            "עיניים",
-            "עינים",
-            "עיניו",
-            "עיניה",
-            "לעיני",
-            "Eye",
-            "Eyes",
-            "Einayim",
-            "Eynayim",
-            "Ainayim",
-            "Eyin",
-            "Ein"
+            "ארבע מאות",
+            "400",
+            "ת",
+            "ת׳",
+            "Four hundred",
+            "Arba Meot",
+            "Arba Meos",
+            "Arba Me'os",
+            "Arbah Meot",
+            "Arba Mei'ot"
           ]
         },
         {
-          "text": "Regel",
+          "text": "Me'ah",
           "tier": "surface",
           "aliases": [
-            "רגל",
-            "רגליים",
-            "רגלים",
-            "רגליו",
-            "רגלי",
-            "Foot",
-            "Feet",
-            "Leg",
-            "Legs",
-            "Raglayim",
-            "Raglaiim",
-            "Regalim"
+            "מאה",
+            "מאת",
+            "100",
+            "ק",
+            "ק׳",
+            "One hundred",
+            "A hundred",
+            "Hundred",
+            "Meah",
+            "Me'at",
+            "Meat",
+            "Me'a",
+            "Mea",
+            "Meiah"
           ]
         },
         {
-          "text": "Yerekh",
-          "tier": "familiar",
+          "text": "Esrim",
+          "tier": "surface",
           "aliases": [
-            "ירך",
-            "ירכי",
-            "ירכיים",
-            "ירכים",
-            "Thigh",
-            "Thighs",
-            "Hip",
-            "Loin",
-            "Yerech",
-            "Yarek",
-            "Yarekh",
-            "Yarech",
-            "Yirki",
-            "Yereikhi"
+            "עשרים",
+            "ועשרים",
+            "20",
+            "כ",
+            "כ׳",
+            "Twenty",
+            "Esreem"
           ]
         },
         {
-          "text": "Shekhem",
-          "tier": "familiar",
+          "text": "Sheva",
+          "tier": "surface",
           "aliases": [
-            "שכם",
-            "שכמה",
-            "כתף",
-            "כתפיים",
-            "Shoulder",
-            "Shoulders",
-            "Shechem",
-            "Shchem",
-            "Shkhem",
-            "Shikhmah",
-            "Shichmah",
-            "Katef",
-            "Ktefayim"
+            "שבע",
+            "ושבע",
+            "שבעה",
+            "7",
+            "ז",
+            "ז׳",
+            "Seven",
+            "Shiv'ah",
+            "Shivah",
+            "Shiva"
           ]
         },
         {
-          "text": "Af",
-          "tier": "familiar",
+          "text": "Asarah",
+          "tier": "surface",
           "aliases": [
-            "אף",
-            "אפה",
-            "אפיים",
-            "אפים",
-            "חוטם",
-            "Nose",
-            "Nostril",
-            "Nostrils",
-            "Apayim",
-            "Appayim",
-            "Apah",
-            "Appah",
-            "Chotem"
+            "עשרה",
+            "עשר",
+            "עשור",
+            "10",
+            "י",
+            "י׳",
+            "Ten",
+            "Asara",
+            "Eser",
+            "Asor",
+            "Assor"
           ]
         },
         {
-          "text": "Lev",
-          "tier": "familiar",
+          "text": "Me'ah VeShiv'im VeChamesh",
+          "tier": "surface",
           "aliases": [
-            "לב",
-            "לבי",
-            "לבב",
-            "לבבות",
-            "Heart",
-            "Hearts",
-            "Levav",
-            "Leiv",
-            "Leivav",
-            "Libi",
-            "Libbi"
+            "מאה ושבעים וחמש",
+            "מאת שנה ושבעים שנה וחמש שנים",
+            "175",
+            "קעה",
+            "קע״ה",
+            "One hundred and seventy-five",
+            "One hundred seventy-five",
+            "One hundred seventy five",
+            "Hundred and seventy-five",
+            "Meah VeShivim VeChamesh",
+            "Me'at VeShiv'im VeChamesh",
+            "Meah V'shivim V'chamesh"
           ]
         },
         {
-          "text": "Panim",
+          "text": "Me'ah UShloshim VeSheva",
           "tier": "uncommon",
           "aliases": [
-            "פנים",
-            "פני",
-            "לפני",
-            "מלפני",
-            "Face",
-            "Faces",
-            "Countenance",
-            "Pnei",
-            "Penei",
-            "Ponim"
+            "מאה ושלושים ושבע",
+            "מאה ושלשים ושבע",
+            "מאת שנה ושלשים שנה ושבע שנים",
+            "137",
+            "קלז",
+            "קל״ז",
+            "One hundred and thirty-seven",
+            "One hundred thirty-seven",
+            "One hundred thirty seven",
+            "Hundred and thirty-seven",
+            "Meah UShloshim VeSheva",
+            "Meah VeShloshim VeSheva",
+            "Me'at UShloshim VeSheva"
           ]
         },
         {
-          "text": "Ozen",
-          "tier": "obscure",
+          "text": "Shnayim",
+          "tier": "familiar",
           "aliases": [
-            "אוזן",
-            "אזן",
-            "אוזניים",
-            "אזניים",
-            "אזנים",
-            "אוזנים",
-            "באזני",
-            "Ear",
-            "Ears",
-            "Oznayim",
-            "Oznaim",
-            "Aznayim",
-            "Aznaim",
-            "Beoznei",
-            "B'oznei"
+            "שניים",
+            "שנים",
+            "שני",
+            "שתי",
+            "שתיים",
+            "2",
+            "ב",
+            "ב׳",
+            "Two",
+            "Shnaim",
+            "Shenayim",
+            "Shnei",
+            "Shenei",
+            "Shtayim",
+            "Shtei"
           ]
         },
         {
-          "text": "Peh",
+          "text": "Arba",
+          "tier": "familiar",
+          "aliases": [
+            "ארבע",
+            "ארבעה",
+            "4",
+            "ד",
+            "ד׳",
+            "Four",
+            "Arba'ah",
+            "Arbaah",
+            "Arbah"
+          ]
+        },
+        {
+          "text": "Chamesh",
+          "tier": "familiar",
+          "aliases": [
+            "חמש",
+            "וחמש",
+            "חמישה",
+            "חמשה",
+            "5",
+            "ה",
+            "ה׳",
+            "Five",
+            "Chamishah",
+            "Chamisha",
+            "Hamesh",
+            "Hamishah"
+          ]
+        },
+        {
+          "text": "Shneim Asar",
+          "tier": "familiar",
+          "aliases": [
+            "שנים עשר",
+            "שניים עשר",
+            "שתים עשרה",
+            "12",
+            "יב",
+            "י״ב",
+            "Twelve",
+            "Shnem Asar",
+            "Sheneim Asar",
+            "Shnayim Asar",
+            "Shteim Esrei",
+            "Shneim-Asar"
+          ]
+        },
+        {
+          "text": "Shiv'im",
+          "tier": "familiar",
+          "aliases": [
+            "שבעים",
+            "ושבעים",
+            "70",
+            "ע",
+            "ע׳",
+            "Seventy",
+            "Shivim",
+            "Shiveem"
+          ]
+        },
+        {
+          "text": "Shloshim",
+          "tier": "uncommon",
+          "aliases": [
+            "שלושים",
+            "שלשים",
+            "ושלשים",
+            "30",
+            "ל",
+            "ל׳",
+            "Thirty",
+            "Sheloshim"
+          ]
+        },
+        {
+          "text": "Beka",
+          "tier": "uncommon",
+          "aliases": [
+            "בקע",
+            "חצי",
+            "מחצית",
+            "חצי שקל",
+            "1/2",
+            "0.5",
+            "Half",
+            "One half",
+            "Half a shekel",
+            "Half shekel",
+            "Beqa",
+            "Chatzi",
+            "Hatzi",
+            "Machatzit"
+          ]
+        },
+        {
+          "text": "Elef",
+          "tier": "uncommon",
+          "aliases": [
+            "אלף",
+            "אלפי",
+            "לאלפי",
+            "אלפים",
+            "1000",
+            "1,000",
+            "Thousand",
+            "One thousand",
+            "Thousands",
+            "Alfei",
+            "Alfey",
+            "Alafim"
+          ]
+        },
+        {
+          "text": "Revavah",
           "tier": "pearl",
+          "note": "In Genesis 24:60, Rivkah's family blesses her: 'O sister, may you grow into thousands of myriads (alfei revavah),' where revavah means 10,000.",
+          "note_he": "בבראשית כד, ס מברכים בני משפחתה של רבקה: ״אחותנו את היי לאלפי רבבה״, כאשר רבבה היא עשרת אלפים (10,000).",
           "aliases": [
-            "פה",
-            "פיה",
-            "פיות",
-            "Mouth",
-            "Mouths",
-            "Lips",
-            "Pe",
-            "Piha",
-            "Pi"
-          ],
-          "note": "Mentioned once in Parshas Chayei Sarah (Genesis 24:57), when Rivkah's brother and mother say, \"Let us call the maiden and inquire at her mouth (ve-nish'alah et piha).\"",
-          "note_he": "נזכר פעם אחת בפרשת חיי שרה (בראשית כד, נז), בדברי לבן ואמה של רבקה: ״נִקְרָא לַנַּעֲרָ וְנִשְׁאֲלָה אֶת־פִּיהָ״."
+            "רבבה",
+            "עשרת אלפים",
+            "ריבוא",
+            "10000",
+            "10,000",
+            "Ten thousand",
+            "Myriad",
+            "Revava",
+            "Ribbo",
+            "Ribo",
+            "Aseret Alafim",
+            "Aseres Alafim"
+          ]
         }
       ]
     },
     {
       "id": "q2",
-      "prompt": "Name a person mentioned by name in the Haftarah of Parshas Chayei Sarah (1 Kings 1:1–31).",
-      "prompt_he": "ציינו אדם המוזכר בשמו בהפטרת פרשת חיי שרה (מלכים א א, א–לא).",
+      "prompt": "Name a foreign (non-Israelite) monarch or ruler mentioned by name or title in 1 Kings (Melachim I).",
+      "prompt_he": "ציינו מלך, מלכה או שליט נוכרי המוזכר בשמו או בתוארו בספר מלכים א׳.",
       "category": "Tanakh",
-      "question_type": "attribute_or_action",
-      "difficulty": "easy",
-      "provenance": "ai_draft",
-      "answers": [
-        {
-          "text": "David",
-          "tier": "surface",
-          "aliases": [
-            "דוד",
-            "דוד המלך",
-            "המלך דוד",
-            "דויד",
-            "King David",
-            "David HaMelekh",
-            "David HaMelech",
-            "Hamelech David",
-            "Dovid",
-            "Dovid HaMelech"
-          ]
-        },
-        {
-          "text": "Shlomo",
-          "tier": "surface",
-          "aliases": [
-            "שלמה",
-            "שלמה המלך",
-            "המלך שלמה",
-            "Solomon",
-            "King Solomon",
-            "Shelomo",
-            "Shelomoh",
-            "Shlomoh",
-            "Shlomo HaMelekh",
-            "Shlomo HaMelech"
-          ]
-        },
-        {
-          "text": "Bat-Sheva",
-          "tier": "surface",
-          "aliases": [
-            "בת שבע",
-            "בתשבע",
-            "Bathsheba",
-            "Batsheva",
-            "Bat Sheva",
-            "Bas-Sheva",
-            "Bas Sheva",
-            "Bassheva",
-            "Bath-sheba"
-          ]
-        },
-        {
-          "text": "Adoniyahu",
-          "tier": "surface",
-          "aliases": [
-            "אדוניהו",
-            "אדניהו",
-            "אדוניה",
-            "אדניה",
-            "אדניה בן חגית",
-            "אדוניהו בן חגית",
-            "Adonijah",
-            "Adoniyah",
-            "Adoniya",
-            "Adoniyahu ben Chaggit",
-            "Adonijah son of Haggith"
-          ]
-        },
-        {
-          "text": "Natan",
-          "tier": "surface",
-          "aliases": [
-            "נתן",
-            "נתן הנביא",
-            "Nathan",
-            "Nathan the Prophet",
-            "Natan HaNavi",
-            "Nasan",
-            "Nosson",
-            "Nosson HaNavi",
-            "Nasan HaNavi"
-          ]
-        },
-        {
-          "text": "Avishag",
-          "tier": "familiar",
-          "aliases": [
-            "אבישג",
-            "אבישג השונמית",
-            "Abishag",
-            "Avishag HaShunamit",
-            "Avishag HaShunamis",
-            "Abishag the Shunammite",
-            "Abishag the Shunamite"
-          ]
-        },
-        {
-          "text": "Yo'av",
-          "tier": "familiar",
-          "aliases": [
-            "יואב",
-            "יואב בן צרויה",
-            "יאב",
-            "Joab",
-            "Yoav",
-            "Yoab",
-            "Yoav ben Tzeruyah",
-            "Yoav ben Tzruyah",
-            "Joab son of Zeruiah"
-          ]
-        },
-        {
-          "text": "Tzadok",
-          "tier": "familiar",
-          "aliases": [
-            "צדוק",
-            "צדוק הכהן",
-            "צדק הכהן",
-            "Zadok",
-            "Tsadok",
-            "Tzaddok",
-            "Tzadok HaKohen",
-            "Zadok the Priest"
-          ]
-        },
-        {
-          "text": "Evyatar",
-          "tier": "familiar",
-          "aliases": [
-            "אביתר",
-            "אביתר הכהן",
-            "Abiathar",
-            "Eviatar",
-            "Evyasar",
-            "Ebyatar",
-            "Evyatar HaKohen",
-            "Abiathar the Priest"
-          ]
-        },
-        {
-          "text": "Benayahu",
-          "tier": "familiar",
-          "aliases": [
-            "בניהו",
-            "בניהו בן יהוידע",
-            "בניה",
-            "Benaiah",
-            "Benayah",
-            "Benaya",
-            "Benayahu ben Yehoyada",
-            "Benaiah son of Jehoiada"
-          ]
-        },
-        {
-          "text": "Avshalom",
-          "tier": "uncommon",
-          "aliases": [
-            "אבשלום",
-            "אבשלם",
-            "Absalom",
-            "Abshalom",
-            "Avsholom"
-          ]
-        },
-        {
-          "text": "Chaggit",
-          "tier": "uncommon",
-          "aliases": [
-            "חגית",
-            "Haggith",
-            "Chagit",
-            "Hagit",
-            "Haggit",
-            "Chaggis",
-            "Chagis",
-            "Khaggit"
-          ]
-        },
-        {
-          "text": "Tzeruyah",
-          "tier": "uncommon",
-          "aliases": [
-            "צרויה",
-            "Zeruiah",
-            "Tzruyah",
-            "Tzeruya",
-            "Tzruya",
-            "Tseruyah",
-            "Tseruya",
-            "Zeruya"
-          ]
-        },
-        {
-          "text": "Yehoyada",
-          "tier": "uncommon",
-          "aliases": [
-            "יהוידע",
-            "Jehoiada",
-            "Yehoiada",
-            "Yeho'iada",
-            "Yehoyadah"
-          ]
-        },
-        {
-          "text": "Shim'i",
-          "tier": "obscure",
-          "aliases": [
-            "שמעי",
-            "שמעי בן גרא",
-            "Shimei",
-            "Shimi",
-            "Shim'i ben Gera",
-            "Shimei son of Gera"
-          ]
-        },
-        {
-          "text": "Re'i",
-          "tier": "pearl",
-          "aliases": [
-            "רעי",
-            "Rei",
-            "Re'i"
-          ],
-          "note": "Loyal supporter of King David mentioned only once in Tanakh (1 Kings 1:8), alongside Tzadok, Benayahu, Natan, and Shim'i, as refusing to join Adoniyahu's conspiracy.",
-          "note_he": "מנאמני דוד המלך הנזכר פעם יחידה בתנ״ך (מלכים א א, ח), לצד צדוק הכהן, בניהו, נתן הנביא ושמעי, שלא הצטרפו לקשר אדוניהו."
-        }
-      ]
-    },
-    {
-      "id": "q3",
-      "prompt": "Name a woman mentioned by name in Ketuvim (Writings), excluding Divrei HaYamim.",
-      "prompt_he": "ציינו אישה המוזכרת בשמה בכתובים, למעט דברי הימים.",
-      "category": "Tanakh",
-      "question_type": "attribute_or_action",
-      "difficulty": "easy",
-      "provenance": "ai_draft",
-      "answers": [
-        {
-          "text": "Ester",
-          "tier": "surface",
-          "aliases": [
-            "אסתר",
-            "אסתר המלכה",
-            "הדסה",
-            "Esther",
-            "Queen Esther",
-            "Ester HaMalkah",
-            "Esther HaMalkah",
-            "Hadasah",
-            "Hadassah",
-            "Hadassa"
-          ]
-        },
-        {
-          "text": "Rut",
-          "tier": "surface",
-          "aliases": [
-            "רות",
-            "רות המואביה",
-            "Ruth",
-            "Rus",
-            "Rut HaMo'aviyah",
-            "Ruth the Moabite",
-            "Ruth HaMoaviyah"
-          ]
-        },
-        {
-          "text": "Na'omi",
-          "tier": "surface",
-          "aliases": [
-            "נעמי",
-            "מרא",
-            "Naomi",
-            "No'omi",
-            "Noomi",
-            "Nomi",
-            "Mara",
-            "Marah"
-          ]
-        },
-        {
-          "text": "Vashti",
-          "tier": "surface",
-          "aliases": [
-            "ושתי",
-            "ושתי המלכה",
-            "המלכה ושתי",
-            "Queen Vashti",
-            "Vashti HaMalkah",
-            "Washti"
-          ]
-        },
-        {
-          "text": "Orpah",
-          "tier": "familiar",
-          "aliases": [
-            "ערפה",
-            "עורפה",
-            "Orpa",
-            "Orpha"
-          ]
-        },
-        {
-          "text": "Zeresh",
-          "tier": "familiar",
-          "aliases": [
-            "זרש",
-            "זרש אשת המן",
-            "Zeresh wife of Haman",
-            "Zeresh eshet Haman"
-          ]
-        },
-        {
-          "text": "Bat-Sheva",
-          "tier": "familiar",
-          "aliases": [
-            "בת שבע",
-            "בתשבע",
-            "Bathsheba",
-            "Batsheva",
-            "Bat Sheva",
-            "Bas-Sheva",
-            "Bas Sheva",
-            "Bassheva",
-            "Bath-sheba"
-          ]
-        },
-        {
-          "text": "Rachel",
-          "tier": "uncommon",
-          "aliases": [
-            "רחל",
-            "רחל אמנו",
-            "Rahel",
-            "Rochel",
-            "Rakhel",
-            "Rachel Imeinu"
-          ]
-        },
-        {
-          "text": "Le'ah",
-          "tier": "uncommon",
-          "aliases": [
-            "לאה",
-            "לאה אמנו",
-            "Leah",
-            "Lea",
-            "Leah Imeinu"
-          ]
-        },
-        {
-          "text": "Tamar",
-          "tier": "uncommon",
-          "aliases": [
-            "תמר",
-            "Thamar"
-          ]
-        },
-        {
-          "text": "Yemimah",
-          "tier": "uncommon",
-          "aliases": [
-            "ימימה",
-            "Jemimah",
-            "Jemima",
-            "Yemima"
-          ]
-        },
-        {
-          "text": "Ketzi'ah",
-          "tier": "obscure",
-          "aliases": [
-            "קציעה",
-            "Keziah",
-            "Kezia",
-            "Ketziah",
-            "Ketzia",
-            "Ketzi'a",
-            "Qetziah",
-            "Qetzi'ah",
-            "Ketsiah"
-          ]
-        },
-        {
-          "text": "Keren HaPukh",
-          "tier": "obscure",
-          "aliases": [
-            "קרן הפוך",
-            "Keren-happuch",
-            "Keren Happuch",
-            "Keren HaPuch",
-            "Keren-Hapuch",
-            "Keren Hapukh",
-            "Keren Hapuch",
-            "Qeren HaPukh"
-          ]
-        },
-        {
-          "text": "No'adyah",
-          "tier": "pearl",
-          "aliases": [
-            "נועדיה",
-            "נועדיה הנביאה",
-            "Noadiah",
-            "Noadyah",
-            "No'adiah",
-            "Noadia",
-            "Noadya",
-            "No'adyah HaNevi'ah",
-            "Noadyah HaNeviah",
-            "Noadiah the Prophetess"
-          ],
-          "note": "False prophetess mentioned in Nehemiah 6:14 alongside Tobiah and Sanballat as trying to intimidate Nehemiah during the rebuilding of Jerusalem's walls.",
-          "note_he": "נביאת שקר הנזכרת בנחמיה ו, יד לצד טוביה וסנבלט כמי שניסתה להפחיד את נחמיה ולהרפות את ידיו בבניין חומת ירושלים."
-        }
-      ]
-    },
-    {
-      "id": "q4",
-      "prompt": "Name a tractate of the Mishnah that has 4 or fewer chapters.",
-      "prompt_he": "ציינו מסכת במשנה שיש בה ארבעה פרקים או פחות.",
-      "category": "Mishnah",
-      "question_type": "sefer_by_collection_or_topic",
-      "difficulty": "easy",
-      "provenance": "ai_draft",
-      "answers": [
-        {
-          "text": "Rosh Hashanah",
-          "tier": "surface",
-          "aliases": [
-            "ראש השנה",
-            "מסכת ראש השנה",
-            "Rosh HaShanah",
-            "Rosh Hashana",
-            "Rosh HaShana",
-            "Masechet Rosh Hashanah",
-            "Maseches Rosh Hashanah"
-          ]
-        },
-        {
-          "text": "Megillah",
-          "tier": "surface",
-          "aliases": [
-            "מגילה",
-            "מסכת מגילה",
-            "Megilah",
-            "Megilla",
-            "Megila",
-            "Masechet Megillah",
-            "Maseches Megillah"
-          ]
-        },
-        {
-          "text": "Ta'anit",
-          "tier": "surface",
-          "aliases": [
-            "תענית",
-            "מסכת תענית",
-            "Taanit",
-            "Ta'anis",
-            "Taanis",
-            "Taanith",
-            "Masechet Ta'anit",
-            "Masechet Taanit",
-            "Maseches Taanis"
-          ]
-        },
-        {
-          "text": "Kiddushin",
-          "tier": "surface",
-          "aliases": [
-            "קידושין",
-            "קדושין",
-            "מסכת קידושין",
-            "Kidushin",
-            "Qiddushin",
-            "Masechet Kiddushin",
-            "Maseches Kiddushin"
-          ]
-        },
-        {
-          "text": "Makkot",
-          "tier": "familiar",
-          "aliases": [
-            "מכות",
-            "מסכת מכות",
-            "Makot",
-            "Makkos",
-            "Makos",
-            "Makkoth",
-            "Masechet Makkot",
-            "Maseches Makkos"
-          ]
-        },
-        {
-          "text": "Chagigah",
-          "tier": "familiar",
-          "aliases": [
-            "חגיגה",
-            "מסכת חגיגה",
-            "Hagigah",
-            "Chagiga",
-            "Hagiga",
-            "Khagigah",
-            "Masechet Chagigah",
-            "Maseches Chagigah"
-          ]
-        },
-        {
-          "text": "Mo'ed Katan",
-          "tier": "familiar",
-          "aliases": [
-            "מועד קטן",
-            "מסכת מועד קטן",
-            "Moed Katan",
-            "Moed Qatan",
-            "Mo'ed Qatan",
-            "Moed Kattan",
-            "Masechet Mo'ed Katan",
-            "Masechet Moed Katan",
-            "Maseches Moed Katan"
-          ]
-        },
-        {
-          "text": "Challah",
-          "tier": "familiar",
-          "aliases": [
-            "חלה",
-            "מסכת חלה",
-            "Chalah",
-            "Hallah",
-            "Halla",
-            "Challa",
-            "Khallah",
-            "Masechet Challah",
-            "Maseches Challah"
-          ]
-        },
-        {
-          "text": "Orlah",
-          "tier": "uncommon",
-          "aliases": [
-            "ערלה",
-            "עורלה",
-            "מסכת ערלה",
-            "Orla",
-            "Masechet Orlah",
-            "Maseches Orlah"
-          ]
-        },
-        {
-          "text": "Bikkurim",
-          "tier": "uncommon",
-          "aliases": [
-            "ביכורים",
-            "בכורים",
-            "מסכת ביכורים",
-            "Bikurim",
-            "Masechet Bikkurim",
-            "Maseches Bikkurim"
-          ]
-        },
-        {
-          "text": "Horayot",
-          "tier": "uncommon",
-          "aliases": [
-            "הוריות",
-            "מסכת הוריות",
-            "Horayos",
-            "Horayoth",
-            "Hora'ot",
-            "Masechet Horayot",
-            "Maseches Horayos"
-          ]
-        },
-        {
-          "text": "Yadayim",
-          "tier": "uncommon",
-          "aliases": [
-            "ידיים",
-            "ידים",
-            "מסכת ידיים",
-            "Yadaim",
-            "Masechet Yadayim",
-            "Maseches Yadayim"
-          ]
-        },
-        {
-          "text": "Tevul Yom",
-          "tier": "obscure",
-          "aliases": [
-            "טבול יום",
-            "מסכת טבול יום",
-            "Tvul Yom",
-            "T'vul Yom",
-            "Tebul Yom",
-            "Masechet Tevul Yom",
-            "Maseches Tevul Yom"
-          ]
-        },
-        {
-          "text": "Kinnim",
-          "tier": "obscure",
-          "aliases": [
-            "קינים",
-            "קנים",
-            "מסכת קינים",
-            "Kinim",
-            "Qinnim",
-            "Qinim",
-            "Masechet Kinnim",
-            "Maseches Kinnim"
-          ]
-        },
-        {
-          "text": "Uktzin",
-          "tier": "pearl",
-          "aliases": [
-            "עוקצין",
-            "עוקצים",
-            "מסכת עוקצין",
-            "Ukzin",
-            "Uktzim",
-            "Oktzin",
-            "Uqtzin",
-            "Masechet Uktzin",
-            "Maseches Uktzin"
-          ],
-          "note": "Three-chapter tractate at the very end of Seder Taharot and of the entire Mishnah, dealing with how stalks, peels, and kernels of plants transmit or receive ritual impurity.",
-          "note_he": "מסכת בת שלושה פרקים החותמת את סדר טהרות ואת שישה סדרי משנה כולם, והעוסקת בדיני טומאה וטהרה של עוקצי פירות, קליפותיהם וגרעיניהם."
-        }
-      ]
-    },
-    {
-      "id": "q5",
-      "prompt": "Name an Amora of Eretz Yisrael mentioned in the Babylonian Talmud.",
-      "prompt_he": "ציינו אמורא מאמוראי ארץ ישראל המוזכר בתלמוד הבבלי.",
-      "category": "Gemara",
       "question_type": "person_by_role",
       "difficulty": "easy",
       "provenance": "ai_draft",
       "answers": [
         {
-          "text": "Rabbi Yochanan",
+          "text": "Malkat Sheva",
           "tier": "surface",
           "aliases": [
-            "רבי יוחנן",
-            "ר׳ יוחנן",
-            "רבי יוחנן בר נפחא",
-            "יוחנן",
-            "R Yochanan",
-            "R' Yochanan",
-            "Rabbi Yohanan",
-            "R Yohanan",
-            "Yochanan",
-            "Yohanan",
-            "Rabbi Yochanan bar Nappacha"
+            "מלכת שבא",
+            "Queen of Sheba",
+            "The Queen of Sheba",
+            "Malkas Sheva",
+            "Malkath Sheva",
+            "HaMalkah MiSheva",
+            "Malkah shel Sheva",
+            "Queen of Saba"
           ]
         },
         {
-          "text": "Reish Lakish",
+          "text": "Chiram",
           "tier": "surface",
           "aliases": [
-            "ריש לקיש",
-            "רבי שמעון בן לקיש",
-            "ר׳ שמעון בן לקיש",
-            "שמעון בן לקיש",
-            "Resh Lakish",
-            "Reish Laqish",
-            "Resh Laqish",
-            "Rabbi Shimon ben Lakish",
-            "R Shimon ben Lakish",
-            "Shimon ben Lakish"
+            "חירם",
+            "חירם מלך צור",
+            "חרום",
+            "מלך צור",
+            "Hiram",
+            "King Hiram",
+            "Hiram of Tyre",
+            "Hiram King of Tyre",
+            "Chiram Melech Tzor",
+            "HaMelech Chiram",
+            "Chiram of Tyre",
+            "Huram",
+            "Churam",
+            "King of Tyre",
+            "Melech Tzor"
           ]
         },
         {
-          "text": "Rabbi Elazar ben Pedat",
+          "text": "Par'oh",
           "tier": "surface",
           "aliases": [
-            "רבי אלעזר בן פדת",
-            "רבי אלעזר",
-            "ר׳ אלעזר",
-            "ר׳ אלעזר בן פדת",
-            "אלעזר בן פדת",
-            "Rabbi Elazar",
-            "R Elazar",
-            "R' Elazar",
-            "Rabbi Eleazar",
-            "Rabbi Eleazar ben Pedat",
-            "Rabbi Elazar ben Pedas",
-            "Elazar ben Pedat"
+            "פרעה",
+            "פרעה מלך מצרים",
+            "מלך מצרים",
+            "Pharaoh",
+            "Pharaoh King of Egypt",
+            "Paroh",
+            "Paro",
+            "Par'oh Melech Mitzrayim",
+            "HaMelech Par'oh",
+            "King of Egypt",
+            "Melech Mitzrayim"
           ]
         },
         {
-          "text": "Rabbi Yehoshua ben Levi",
+          "text": "Ben-Hadad",
           "tier": "surface",
           "aliases": [
-            "רבי יהושע בן לוי",
-            "ר׳ יהושע בן לוי",
-            "ריב״ל",
-            "יהושע בן לוי",
-            "R Yehoshua ben Levi",
-            "R' Yehoshua ben Levi",
-            "Rabbi Joshua ben Levi",
-            "Yehoshua ben Levi",
-            "Joshua ben Levi",
-            "Rival"
+            "בן הדד",
+            "בן הדד מלך ארם",
+            "מלך ארם",
+            "Ben Hadad",
+            "Benhadad",
+            "Ben-Hadad King of Aram",
+            "Ben Hadad Melech Aram",
+            "King of Aram",
+            "Melech Aram"
           ]
         },
         {
-          "text": "Rabbi Chanina bar Chama",
-          "tier": "familiar",
-          "aliases": [
-            "רבי חנינא בר חמא",
-            "רבי חנינא",
-            "ר׳ חנינא",
-            "ר׳ חנינא בר חמא",
-            "חנינא בר חמא",
-            "Rabbi Chanina",
-            "R Chanina",
-            "R' Chanina",
-            "Rabbi Hanina",
-            "Rabbi Hanina bar Hama",
-            "R Chanina bar Chama",
-            "Chanina bar Chama"
-          ]
-        },
-        {
-          "text": "Rabbi Yannai",
-          "tier": "familiar",
-          "aliases": [
-            "רבי ינאי",
-            "ר׳ ינאי",
-            "ינאי",
-            "R Yannai",
-            "R' Yannai",
-            "Rabbi Yanai",
-            "R Yanai",
-            "Yannai",
-            "Yanai"
-          ]
-        },
-        {
-          "text": "Rabbi Oshaya",
-          "tier": "familiar",
-          "aliases": [
-            "רבי אושעיא",
-            "רבי הושעיא",
-            "ר׳ אושעיא",
-            "ר׳ הושעיא",
-            "רבי אושעיא רבה",
-            "אושעיא",
-            "R Oshaya",
-            "R' Oshaya",
-            "Rabbi Hoshaya",
-            "R Hoshaya",
-            "Oshaya",
-            "Hoshaya",
-            "Rabbi Oshaya Rabbah"
-          ]
-        },
-        {
-          "text": "Rabbi Abbahu",
-          "tier": "familiar",
-          "aliases": [
-            "רבי אבהו",
-            "ר׳ אבהו",
-            "אבהו",
-            "R Abbahu",
-            "R' Abbahu",
-            "Rabbi Abahu",
-            "R Abahu",
-            "Abbahu",
-            "Abahu"
-          ]
-        },
-        {
-          "text": "Rabbi Ammi",
-          "tier": "familiar",
-          "aliases": [
-            "רבי אמי",
-            "ר׳ אמי",
-            "אמי",
-            "R Ammi",
-            "R' Ammi",
-            "Rabbi Ami",
-            "R Ami",
-            "R' Ami",
-            "Ammi",
-            "Ami"
-          ]
-        },
-        {
-          "text": "Rabbi Assi",
-          "tier": "familiar",
-          "aliases": [
-            "רבי אסי",
-            "ר׳ אסי",
-            "אסי",
-            "R Assi",
-            "R' Assi",
-            "Rabbi Asi",
-            "R Asi",
-            "R' Asi",
-            "Assi",
-            "Asi"
-          ]
-        },
-        {
-          "text": "Rabbi Chiyya bar Abba",
-          "tier": "familiar",
-          "aliases": [
-            "רבי חייא בר אבא",
-            "ר׳ חייא בר אבא",
-            "חייא בר אבא",
-            "R Chiyya bar Abba",
-            "R' Chiyya bar Abba",
-            "Rabbi Chiya bar Abba",
-            "R Chiya bar Abba",
-            "Rabbi Hiyya bar Abba",
-            "Chiyya bar Abba",
-            "Chiya bar Abba"
-          ]
-        },
-        {
-          "text": "Rabbi Zeira",
-          "tier": "familiar",
-          "aliases": [
-            "רבי זירא",
-            "ר׳ זירא",
-            "זירא",
-            "R Zeira",
-            "R' Zeira",
-            "Rabbi Zera",
-            "R Zera",
-            "R' Zera",
-            "Zeira",
-            "Zera"
-          ]
-        },
-        {
-          "text": "Rabbi Yirmiyah",
-          "tier": "familiar",
-          "aliases": [
-            "רבי ירמיה",
-            "ר׳ ירמיה",
-            "ירמיה",
-            "R Yirmiyah",
-            "R' Yirmiyah",
-            "Rabbi Yirmeyah",
-            "Rabbi Yirmiya",
-            "Rabbi Jeremiah",
-            "Yirmiyah",
-            "Yirmiya"
-          ]
-        },
-        {
-          "text": "Rabbi Shmuel bar Nachmani",
+          "text": "Sichon",
           "tier": "uncommon",
           "aliases": [
-            "רבי שמואל בר נחמני",
-            "ר׳ שמואל בר נחמני",
-            "שמואל בר נחמני",
-            "R Shmuel bar Nachmani",
-            "R' Shmuel bar Nachmani",
-            "Rabbi Samuel bar Nahmani",
-            "Rabbi Shmuel bar Nahmani",
-            "Shmuel bar Nachmani"
+            "סיחון",
+            "סיחון מלך האמורי",
+            "מלך האמורי",
+            "Sihon",
+            "Sihon King of the Amorites",
+            "Sichon Melech HaEmori",
+            "King Sihon",
+            "King Sichon"
           ]
         },
         {
-          "text": "Rabbi Yitzchak Nappacha",
+          "text": "Og",
           "tier": "uncommon",
           "aliases": [
-            "רבי יצחק נפחא",
-            "רבי יצחק",
-            "ר׳ יצחק",
-            "ר׳ יצחק נפחא",
-            "יצחק נפחא",
-            "Rabbi Yitzchak",
-            "R Yitzchak",
-            "R' Yitzchak",
-            "Rabbi Isaac Nappaha",
-            "Rabbi Yitzchak Nafcha",
-            "Yitzchak Nappacha",
-            "Yitzchak Nafcha"
+            "עוג",
+            "עוג מלך הבשן",
+            "מלך הבשן",
+            "Og King of Bashan",
+            "Og Melech HaBashan",
+            "King Og",
+            "King of Bashan",
+            "Melech HaBashan"
           ]
         },
         {
-          "text": "Rabbi Simlai",
+          "text": "Shishak",
+          "tier": "familiar",
+          "aliases": [
+            "שישק",
+            "שישק מלך מצרים",
+            "Shishaq",
+            "King Shishak",
+            "Shishak King of Egypt",
+            "Shishak Melech Mitzrayim",
+            "HaMelech Shishak",
+            "Shoshenq"
+          ]
+        },
+        {
+          "text": "Etba'al",
+          "tier": "familiar",
+          "aliases": [
+            "אתבעל",
+            "אתבעל מלך צידונים",
+            "מלך צידונים",
+            "Ethbaal",
+            "Etbaal",
+            "Esbaal",
+            "Esba'al",
+            "King Ethbaal",
+            "Ethbaal King of the Sidonians",
+            "Etba'al Melech Tzidonim",
+            "Etbaal Melech Tzidonim",
+            "HaMelech Etbaal",
+            "King of the Sidonians",
+            "King of Sidon"
+          ]
+        },
+        {
+          "text": "Achish",
+          "tier": "familiar",
+          "aliases": [
+            "אכיש",
+            "אכיש בן מעכה מלך גת",
+            "אכיש מלך גת",
+            "מלך גת",
+            "Akhish",
+            "King Achish",
+            "Achish King of Gath",
+            "Achish Melech Gat",
+            "Achish ben Maachah",
+            "Achish son of Maachah",
+            "King of Gath",
+            "Melech Gat"
+          ]
+        },
+        {
+          "text": "Hadad HaAdomi",
           "tier": "uncommon",
           "aliases": [
-            "רבי שמלאי",
-            "ר׳ שמלאי",
-            "שמלאי",
-            "R Simlai",
-            "R' Simlai",
-            "Simlai"
+            "הדד האדומי",
+            "הדד",
+            "אדד",
+            "אדד האדומי",
+            "Hadad",
+            "Adad",
+            "Hadad the Edomite",
+            "Hadad of Edom",
+            "Hadad Ha'adomi"
           ]
         },
         {
-          "text": "Rabbi Levi",
+          "text": "Hadadezer",
           "tier": "uncommon",
           "aliases": [
-            "רבי לוי",
-            "ר׳ לוי",
-            "R Levi",
-            "R' Levi"
+            "הדדעזר",
+            "הדדעזר מלך צובה",
+            "מלך צובה",
+            "Hadad-ezer",
+            "King Hadadezer",
+            "Hadadezer King of Zobah",
+            "Hadadezer Melech Tzovah",
+            "HaMelech Hadadezer",
+            "King of Zobah",
+            "Melech Tzovah"
           ]
         },
         {
-          "text": "Rabbi Yosi bar Chanina",
-          "tier": "uncommon",
-          "aliases": [
-            "רבי יוסי בר חנינא",
-            "רבי יוסי ברבי חנינא",
-            "ר׳ יוסי בר חנינא",
-            "ר׳ יוסי ברבי חנינא",
-            "יוסי בר חנינא",
-            "R Yosi bar Chanina",
-            "R' Yosi bar Chanina",
-            "Rabbi Yosi barbi Chanina",
-            "Rabbi Jose bar Hanina",
-            "Yosi bar Chanina"
-          ]
-        },
-        {
-          "text": "Rabbi Chama bar Chanina",
-          "tier": "uncommon",
-          "aliases": [
-            "רבי חמא בר חנינא",
-            "רבי חמא ברבי חנינא",
-            "ר׳ חמא בר חנינא",
-            "ר׳ חמא ברבי חנינא",
-            "חמא בר חנינא",
-            "R Chama bar Chanina",
-            "R' Chama bar Chanina",
-            "Rabbi Chama barbi Chanina",
-            "Rabbi Hama bar Hanina",
-            "Chama bar Chanina"
-          ]
-        },
-        {
-          "text": "Rabbi Acha bar Chanina",
-          "tier": "uncommon",
-          "aliases": [
-            "רבי אחא בר חנינא",
-            "רבי אחא ברבי חנינא",
-            "ר׳ אחא בר חנינא",
-            "ר׳ אחא ברבי חנינא",
-            "אחא בר חנינא",
-            "R Acha bar Chanina",
-            "R' Acha bar Chanina",
-            "Rabbi Acha barbi Chanina",
-            "Rabbi Aha bar Hanina",
-            "Acha bar Chanina"
-          ]
-        },
-        {
-          "text": "Rabbi Shimon ben Pazzi",
+          "text": "Rezon ben Elyada",
           "tier": "obscure",
           "aliases": [
-            "רבי שמעון בן פזי",
-            "ר׳ שמעון בן פזי",
-            "שמעון בן פזי",
-            "R Shimon ben Pazzi",
-            "R' Shimon ben Pazzi",
-            "Rabbi Shimon ben Pazi",
-            "Rabbi Simeon ben Pazzi",
-            "Shimon ben Pazzi",
-            "Shimon ben Pazi"
+            "רזון בן אלידע",
+            "רזון",
+            "Rezon",
+            "Rezon son of Eliada",
+            "Rezon ben Eliada",
+            "King Rezon",
+            "Rezon of Damascus"
           ]
         },
         {
-          "text": "Rabbi Chanina bar Pappa",
+          "text": "Tabrimon",
           "tier": "obscure",
           "aliases": [
-            "רבי חנינא בר פפא",
-            "ר׳ חנינא בר פפא",
-            "חנינא בר פפא",
-            "R Chanina bar Pappa",
-            "R' Chanina bar Pappa",
-            "Rabbi Chanina bar Papa",
-            "Rabbi Hanina bar Papa",
-            "Chanina bar Pappa",
-            "Chanina bar Papa"
+            "טברימון",
+            "טברימן",
+            "Tabrimmon",
+            "Tavrimon",
+            "Tavrimmon"
           ]
         },
         {
-          "text": "Rabbi Aleksandri",
+          "text": "Chezyon",
           "tier": "obscure",
           "aliases": [
-            "רבי אלכסנדרי",
-            "ר׳ אלכסנדרי",
-            "אלכסנדרי",
-            "Rabbi Alexandri",
-            "R Alexandri",
-            "R' Alexandri",
-            "R Aleksandri",
-            "Alexandri",
-            "Aleksandri"
+            "חזיון",
+            "Hezion",
+            "Chezion",
+            "Hezyon",
+            "Hizyon",
+            "Chizyon"
           ]
         },
         {
-          "text": "Rabbi Ila'a",
-          "tier": "obscure",
-          "aliases": [
-            "רבי אילעא",
-            "ר׳ אילעא",
-            "רבי אלעא",
-            "אילעא",
-            "R Ila'a",
-            "R' Ila'a",
-            "Rabbi Ilaa",
-            "Rabbi Ela",
-            "Ila'a",
-            "Ilaa"
-          ]
-        },
-        {
-          "text": "Rabbi Ya'akov bar Idi",
-          "tier": "obscure",
-          "aliases": [
-            "רבי יעקב בר אידי",
-            "ר׳ יעקב בר אידי",
-            "יעקב בר אידי",
-            "Rabbi Yaakov bar Idi",
-            "R Yaakov bar Idi",
-            "R' Yaakov bar Idi",
-            "Rabbi Jacob bar Idi",
-            "Yaakov bar Idi",
-            "Ya'akov bar Idi"
-          ]
-        },
-        {
-          "text": "Rabbi Chelbo",
-          "tier": "obscure",
-          "aliases": [
-            "רבי חלבו",
-            "ר׳ חלבו",
-            "חלבו",
-            "R Chelbo",
-            "R' Chelbo",
-            "Rabbi Helbo",
-            "R Helbo",
-            "Chelbo",
-            "Helbo"
-          ]
-        },
-        {
-          "text": "Rabbi Berekhiah",
-          "tier": "obscure",
-          "aliases": [
-            "רבי ברכיה",
-            "ר׳ ברכיה",
-            "ברכיה",
-            "Rabbi Berechiah",
-            "R Berechiah",
-            "R' Berechiah",
-            "Rabbi Berechyah",
-            "Rabbi Berekhyah",
-            "Berekhiah",
-            "Berechiah"
-          ]
-        },
-        {
-          "text": "Rabbi Yonah",
-          "tier": "obscure",
-          "aliases": [
-            "רבי יונה",
-            "ר׳ יונה",
-            "R Yonah",
-            "R' Yonah",
-            "Rabbi Yona",
-            "R Yona",
-            "Rabbi Jonah"
-          ]
-        },
-        {
-          "text": "Rabbi Mani",
-          "tier": "obscure",
-          "aliases": [
-            "רבי מני",
-            "ר׳ מני",
-            "מני",
-            "R Mani",
-            "R' Mani",
-            "Rabbi Manni",
-            "Mani"
-          ]
-        },
-        {
-          "text": "Rabbi Zerika",
-          "tier": "obscure",
-          "aliases": [
-            "רבי זריקא",
-            "ר׳ זריקא",
-            "זריקא",
-            "R Zerika",
-            "R' Zerika",
-            "Rabbi Zeriqa",
-            "Zerika",
-            "Zeriqa"
-          ]
-        },
-        {
-          "text": "Rabbi Pedat",
-          "tier": "obscure",
-          "aliases": [
-            "רבי פדת",
-            "ר׳ פדת",
-            "פדת",
-            "R Pedat",
-            "R' Pedat",
-            "Rabbi Pedas",
-            "Pedat",
-            "Pedas"
-          ]
-        },
-        {
-          "text": "Rabbi Tanchum bar Chanilai",
-          "tier": "obscure",
-          "aliases": [
-            "רבי תנחום בר חנילאי",
-            "ר׳ תנחום בר חנילאי",
-            "תנחום בר חנילאי",
-            "R Tanchum bar Chanilai",
-            "R' Tanchum bar Chanilai",
-            "Rabbi Tanhum bar Hanilai",
-            "Tanchum bar Chanilai"
-          ]
-        },
-        {
-          "text": "Rabbi Binyamin bar Yefet",
+          "text": "Tachpenes",
           "tier": "pearl",
+          "note": "In 1 Kings 11:19–20, Tahpenes (Tachpenes) is explicitly titled 'the Queen' (HaGevirah) of Egypt, whose sister Pharaoh gave in marriage to Hadad the Edomite.",
+          "note_he": "במלכים א יא, יט–כ נזכרת ״תחפניס הגבירה״ (מלכת מצרים), שפרעה נתן את אחותה לאישה להדד האדומי.",
           "aliases": [
-            "רבי בנימין בר יפת",
-            "ר׳ בנימין בר יפת",
-            "בנימין בר יפת",
-            "R Binyamin bar Yefet",
-            "R' Binyamin bar Yefet",
-            "Rabbi Benjamin bar Japheth",
-            "Rabbi Binyamin bar Yefes",
-            "Binyamin bar Yefet"
-          ],
-          "note": "Third-generation Eretz Yisrael Amora and student of Rabbi Yochanan in Tiberias, contrasted in Berakhot 38b with his fellow student Rabbi Chiyya bar Abba regarding the precision of his transmissions.",
-          "note_he": "אמורא ארץ־ישראלי מן הדור השלישי ותלמידו של רבי יוחנן בטבריה, הנזכר בברכות לח ע״ב בהשוואה לחברו רבי חייא בר אבא בדיוק שמועותיו מפי רבם."
+            "תחפניס",
+            "תחפנס",
+            "תחפניס הגבירה",
+            "הגבירה",
+            "Tahpenes",
+            "Queen Tahpenes",
+            "Tachpenes HaGevirah",
+            "Tachpenes HaGvirah",
+            "Tachpanes",
+            "Tahpanes",
+            "HaGevirah"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "prompt": "Name an animal, bird, insect, or reptile explicitly mentioned in Sefer Mishlei (Proverbs).",
+      "prompt_he": "ציינו בעל חיים (בהמה, חיה, עוף, חרק או זוחל) המוזכר במפורש בספר משלי.",
+      "category": "Tanakh",
+      "question_type": "attribute_or_action",
+      "difficulty": "easy",
+      "provenance": "ai_draft",
+      "answers": [
+        {
+          "text": "Nemalah",
+          "tier": "surface",
+          "aliases": [
+            "נמלה",
+            "נמלים",
+            "הנמלים",
+            "Ant",
+            "Ants",
+            "Nemala",
+            "Nemalim"
+          ]
+        },
+        {
+          "text": "Aryeh",
+          "tier": "surface",
+          "aliases": [
+            "אריה",
+            "ארי",
+            "כפיר",
+            "ליש",
+            "שחל",
+            "לביא",
+            "Lion",
+            "Lions",
+            "Young lion",
+            "Ari",
+            "Arye",
+            "Kefir",
+            "Kfir",
+            "Layish",
+            "Laish",
+            "Shachal",
+            "Shahal",
+            "Lavi"
+          ]
+        },
+        {
+          "text": "Kelev",
+          "tier": "surface",
+          "aliases": [
+            "כלב",
+            "Dog",
+            "Dogs",
+            "Klavim",
+            "Kelavim"
+          ]
+        },
+        {
+          "text": "Chazir",
+          "tier": "surface",
+          "aliases": [
+            "חזיר",
+            "Pig",
+            "Swine",
+            "Boar",
+            "Hog",
+            "Hazir",
+            "Khazir"
+          ]
+        },
+        {
+          "text": "Sus",
+          "tier": "surface",
+          "aliases": [
+            "סוס",
+            "סוסים",
+            "Horse",
+            "Horses",
+            "Susim"
+          ]
+        },
+        {
+          "text": "Chamor",
+          "tier": "surface",
+          "aliases": [
+            "חמור",
+            "חמורים",
+            "Donkey",
+            "Ass",
+            "Mule",
+            "Hamor",
+            "Khamor",
+            "Chamorim"
+          ]
+        },
+        {
+          "text": "Shor",
+          "tier": "familiar",
+          "aliases": [
+            "שור",
+            "אלף",
+            "אלפים",
+            "Ox",
+            "Oxen",
+            "Bull",
+            "Cattle",
+            "Alafim",
+            "Elef"
+          ]
+        },
+        {
+          "text": "Dov",
+          "tier": "familiar",
+          "aliases": [
+            "דוב",
+            "דב",
+            "דב שכול",
+            "Bear",
+            "Bears",
+            "Dov Shakul"
+          ]
+        },
+        {
+          "text": "Tzvi",
+          "tier": "familiar",
+          "aliases": [
+            "צבי",
+            "Gazelle",
+            "Roe",
+            "Deer",
+            "Stag",
+            "Zvi",
+            "Tzevi"
+          ]
+        },
+        {
+          "text": "Ayalah",
+          "tier": "familiar",
+          "aliases": [
+            "אילה",
+            "אילת",
+            "אילת אהבים",
+            "יעלה",
+            "יעלת חן",
+            "איל",
+            "Hind",
+            "Doe",
+            "Ibex",
+            "Mountain goat",
+            "Ayala",
+            "Ayelet",
+            "Ayelet Ahavim",
+            "Ya'alah",
+            "Yaalah",
+            "Ya'alat Chen",
+            "Ayal"
+          ]
+        },
+        {
+          "text": "Tzippor",
+          "tier": "familiar",
+          "aliases": [
+            "ציפור",
+            "צפור",
+            "בעל כנף",
+            "Bird",
+            "Birds",
+            "Fowl",
+            "Tzipor",
+            "Zippor",
+            "Ba'al Kanaf",
+            "Baal Kanaf"
+          ]
+        },
+        {
+          "text": "Nesher",
+          "tier": "familiar",
+          "aliases": [
+            "נשר",
+            "בני נשר",
+            "Eagle",
+            "Eagles",
+            "Vulture",
+            "Griffon vulture",
+            "Bnei Nesher"
+          ]
+        },
+        {
+          "text": "Nachash",
+          "tier": "familiar",
+          "aliases": [
+            "נחש",
+            "צפעוני",
+            "צפעני",
+            "Snake",
+            "Serpent",
+            "Viper",
+            "Adder",
+            "Nahash",
+            "Nakhach",
+            "Tzif'oni",
+            "Tzifoni",
+            "Tziphoni"
+          ]
+        },
+        {
+          "text": "Keves",
+          "tier": "familiar",
+          "aliases": [
+            "כבש",
+            "כבשים",
+            "צאן",
+            "Sheep",
+            "Lamb",
+            "Lambs",
+            "Flock",
+            "Kevasim",
+            "Kvasim",
+            "Tzon",
+            "Tzo'n"
+          ]
+        },
+        {
+          "text": "Ez",
+          "tier": "uncommon",
+          "aliases": [
+            "עז",
+            "עיזים",
+            "עזים",
+            "תיש",
+            "עתוד",
+            "עתודים",
+            "Goat",
+            "Goats",
+            "He-goat",
+            "He goat",
+            "Billy goat",
+            "Izim",
+            "Izzim",
+            "Tayish",
+            "Taish",
+            "Atud",
+            "Attud",
+            "Atudim"
+          ]
+        },
+        {
+          "text": "Dror",
+          "tier": "uncommon",
+          "aliases": [
+            "דרור",
+            "Sparrow",
+            "Swallow",
+            "Deror"
+          ]
+        },
+        {
+          "text": "Orev",
+          "tier": "uncommon",
+          "aliases": [
+            "עורב",
+            "ערבי נחל",
+            "עורבים",
+            "Raven",
+            "Ravens",
+            "Crow",
+            "Orvim",
+            "Orvei Nachal"
+          ]
+        },
+        {
+          "text": "Shafan",
+          "tier": "uncommon",
+          "aliases": [
+            "שפן",
+            "שפנים",
+            "Hyrax",
+            "Rock hyrax",
+            "Coney",
+            "Rock badger",
+            "Badger",
+            "Shfanim",
+            "Shefanim"
+          ]
+        },
+        {
+          "text": "Arbeh",
+          "tier": "uncommon",
+          "aliases": [
+            "ארבה",
+            "Locust",
+            "Locusts",
+            "Grasshopper",
+            "Arbe"
+          ]
+        },
+        {
+          "text": "Semamit",
+          "tier": "obscure",
+          "aliases": [
+            "שממית",
+            "סממית",
+            "Lizard",
+            "Gecko",
+            "Spider",
+            "Smamit",
+            "Semamis",
+            "Smamis"
+          ]
+        },
+        {
+          "text": "Zarzir Motnayim",
+          "tier": "obscure",
+          "aliases": [
+            "זרזיר מתנים",
+            "זרזיר מותניים",
+            "זרזיר",
+            "Greyhound",
+            "Starling",
+            "Rooster",
+            "Cockerel",
+            "Warhorse",
+            "Zarzir",
+            "Zarzir Mosnayim",
+            "Zarzir Matnayim"
+          ]
+        },
+        {
+          "text": "Alukah",
+          "tier": "pearl",
+          "note": "In Proverbs 30:15 ('The leech [alukah] has two daughters: Give, give!'), alukah is a hapax legomenon in Tanakh literally denoting a bloodsucking leech.",
+          "note_he": "במשלי ל, טו נאמר: ״לעלוקה שתי בנות הב הב״ — מילה יחידאית בתנ״ך שמשמעותה הפשוטה היא עלוקה (תולעת מוצצת דם).",
+          "aliases": [
+            "עלוקה",
+            "לעלוקה",
+            "Leech",
+            "Horseleech",
+            "Horse-leech",
+            "Bloodsucker",
+            "Aluka",
+            "Aluqah",
+            "Aluqa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "prompt": "Name one of the things created on Erev Shabbat at twilight (bein hashemashot), as listed in Mishnah Avot 5:6.",
+      "prompt_he": "ציינו אחד מן הדברים שנבראו בערב שבת בין השמשות, כפי שהם מנויים במשנה באבות ה, ו.",
+      "category": "Mishnah",
+      "question_type": "defined_group",
+      "difficulty": "medium",
+      "provenance": "ai_draft",
+      "answers": [
+        {
+          "text": "Pi HaAretz",
+          "tier": "surface",
+          "aliases": [
+            "פי הארץ",
+            "Mouth of the earth",
+            "The mouth of the earth",
+            "Mouth of the ground",
+            "Pi Ha'aretz",
+            "Pi Ha-Aretz"
+          ]
+        },
+        {
+          "text": "Pi HaBe'er",
+          "tier": "surface",
+          "aliases": [
+            "פי הבאר",
+            "בארה של מרים",
+            "באר מרים",
+            "Mouth of the well",
+            "The mouth of the well",
+            "Miriam's well",
+            "Well of Miriam",
+            "Pi Habeer",
+            "Pi HaBeer",
+            "Pi Ha-Be'er",
+            "Be'erah shel Miriam"
+          ]
+        },
+        {
+          "text": "Pi HaAton",
+          "tier": "surface",
+          "aliases": [
+            "פי האתון",
+            "אתון בלעם",
+            "Mouth of the donkey",
+            "The mouth of the donkey",
+            "Mouth of Balaam's donkey",
+            "Mouth of Bilam's donkey",
+            "Balaam's donkey",
+            "Bilam's donkey",
+            "Mouth of the ass",
+            "Pi Ha'aton",
+            "Pi HaAsone",
+            "Pi HaAson"
+          ]
+        },
+        {
+          "text": "HaKeshet",
+          "tier": "surface",
+          "aliases": [
+            "הקשת",
+            "קשת",
+            "Rainbow",
+            "The rainbow",
+            "Keshet",
+            "Keshes",
+            "HaKeshes"
+          ]
+        },
+        {
+          "text": "HaMan",
+          "tier": "surface",
+          "aliases": [
+            "המן",
+            "מן",
+            "Manna",
+            "The manna",
+            "Man",
+            "Mann"
+          ]
+        },
+        {
+          "text": "HaShamir",
+          "tier": "surface",
+          "aliases": [
+            "השמיר",
+            "שמיר",
+            "תולעת השמיר",
+            "Shamir",
+            "The shamir",
+            "Shamir worm",
+            "The shamir worm",
+            "Tola'at HaShamir"
+          ]
+        },
+        {
+          "text": "Tzvat",
+          "tier": "decoy",
+          "aliases": [
+            "צבת",
+            "צבת בצבת עשויה",
+            "הצבת",
+            "Tongs",
+            "The tongs",
+            "First tongs",
+            "Original tongs",
+            "Pincers",
+            "Pliers",
+            "Tzvas",
+            "Tzevat",
+            "Tzvat BeTzvat",
+            "Tzvat BiTzvat Asuyah",
+            "HaTzvat"
+          ]
+        },
+        {
+          "text": "HaMateh",
+          "tier": "familiar",
+          "aliases": [
+            "המטה",
+            "מטה",
+            "מטה משה",
+            "מטה אהרן",
+            "The staff",
+            "Staff",
+            "The rod",
+            "Rod",
+            "Staff of Moses",
+            "Moshe's staff",
+            "Aaron's rod",
+            "Mateh",
+            "Matteh",
+            "HaMatteh",
+            "Mateh Moshe"
+          ]
+        },
+        {
+          "text": "HaLuchot",
+          "tier": "familiar",
+          "aliases": [
+            "הלוחות",
+            "לוחות",
+            "לוחות הברית",
+            "שני לוחות הברית",
+            "The tablets",
+            "Tablets",
+            "Tablets of the covenant",
+            "Tablets of stone",
+            "First tablets",
+            "Luchot",
+            "Luchos",
+            "HaLuchos",
+            "Luchot HaBrit",
+            "Luchos HaBris"
+          ]
+        },
+        {
+          "text": "HaKetav",
+          "tier": "familiar",
+          "aliases": [
+            "הכתב",
+            "כתב",
+            "The writing",
+            "Writing",
+            "The script",
+            "Script",
+            "The letters",
+            "Hebrew script",
+            "Ketav",
+            "Ktav",
+            "HaKtav",
+            "Kesav",
+            "HaKesav"
+          ]
+        },
+        {
+          "text": "Eilo shel Avraham Avinu",
+          "tier": "familiar",
+          "aliases": [
+            "אילו של אברהם אבינו",
+            "אילו של אברהם",
+            "איל של אברהם",
+            "האיל של אברהם",
+            "Ram of Abraham",
+            "The ram of Abraham",
+            "Abraham's ram",
+            "Avraham's ram",
+            "Ram of Avraham",
+            "Ram of Avraham Avinu",
+            "Eilo shel Avraham",
+            "Aylo shel Avraham",
+            "Ayl shel Avraham"
+          ]
+        },
+        {
+          "text": "Kevurato shel Moshe",
+          "tier": "uncommon",
+          "aliases": [
+            "קבורתו של משה",
+            "קבר משה",
+            "קבורת משה",
+            "Burial place of Moses",
+            "The burial place of Moses",
+            "Grave of Moses",
+            "Moses' grave",
+            "Moshe's grave",
+            "Burial of Moses",
+            "Tomb of Moses",
+            "Kevurato shel Moshe Rabbeinu",
+            "Kevuraso shel Moshe",
+            "Kever Moshe",
+            "Kevurat Moshe"
+          ]
+        },
+        {
+          "text": "HaMichtav",
+          "tier": "obscure",
+          "aliases": [
+            "המכתב",
+            "מכתב",
+            "The engraving",
+            "Engraving",
+            "The inscription",
+            "Inscription",
+            "Writing instrument",
+            "The writing instrument",
+            "The stylus",
+            "Stylus",
+            "Michtav",
+            "Mikhtav",
+            "HaMikhtav",
+            "Michsav",
+            "HaMichsav"
+          ]
+        },
+        {
+          "text": "HaMazikin",
+          "tier": "pearl",
+          "note": "In the first 'Veyesh Omrim' clause of Mishnah Avot 5:6 ('And some say: also the mazikin [demons/destructive spirits]'), their bodies remained unfinished when Shabbat entered at twilight.",
+          "note_he": "במשנה באבות ה, ו מובאת דעת ״ויש אומרים: אף המזיקין״ בין הדברים שנבראו בערב שבת בין השמשות.",
+          "aliases": [
+            "המזיקין",
+            "מזיקין",
+            "המזיקים",
+            "מזיקים",
+            "שדים",
+            "השדים",
+            "Demons",
+            "The demons",
+            "Destructive spirits",
+            "The destructive spirits",
+            "Harmful spirits",
+            "Evil spirits",
+            "Mazikin",
+            "Mazikim",
+            "HaMazikim",
+            "Mazzikin",
+            "Shedim",
+            "Sheidim"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "prompt": "Name an angel or demon (mal'ach or shed) mentioned by proper name in the Babylonian Talmud.",
+      "prompt_he": "ציינו מלאך או שד המוזכר בשמו הפרטי בתלמוד הבבלי.",
+      "category": "Gemara",
+      "question_type": "attribute_or_action",
+      "difficulty": "easy",
+      "provenance": "ai_draft",
+      "answers": [
+        {
+          "text": "Michael",
+          "tier": "surface",
+          "aliases": [
+            "מיכאל",
+            "המלאך מיכאל",
+            "Mikhael",
+            "Mikha'el",
+            "Micha'el",
+            "Angel Michael",
+            "Archangel Michael"
+          ]
+        },
+        {
+          "text": "Gavriel",
+          "tier": "surface",
+          "aliases": [
+            "גבריאל",
+            "המלאך גבריאל",
+            "פיסקון",
+            "איטמון",
+            "סיגרון",
+            "פסקונית",
+            "Gabriel",
+            "Gavri'el",
+            "Angel Gabriel",
+            "Archangel Gabriel",
+            "Piskon",
+            "Itmon",
+            "Sigron",
+            "Paskonit"
+          ]
+        },
+        {
+          "text": "Refael",
+          "tier": "surface",
+          "aliases": [
+            "רפאל",
+            "המלאך רפאל",
+            "Raphael",
+            "Refa'el",
+            "Rephael",
+            "Angel Raphael",
+            "Archangel Raphael"
+          ]
+        },
+        {
+          "text": "Satan",
+          "tier": "surface",
+          "aliases": [
+            "השטן",
+            "שטן",
+            "מלאך המוות",
+            "מלאך המות",
+            "HaSatan",
+            "The Satan",
+            "Mal'ach HaMavet",
+            "Malach HaMavet",
+            "Malach HaMaves",
+            "Angel of Death"
+          ]
+        },
+        {
+          "text": "Ashmedai",
+          "tier": "surface",
+          "aliases": [
+            "אשמדאי",
+            "אשמדאי מלך השדים",
+            "אשמדאי מלכא דשידי",
+            "Asmodeus",
+            "Ashmeday",
+            "Ashmodai",
+            "Ashmedai Malka DeSheidei",
+            "Ashmedai Melech HaShedim"
+          ]
+        },
+        {
+          "text": "Lilit",
+          "tier": "surface",
+          "aliases": [
+            "לילית",
+            "Lilith",
+            "Lilis"
+          ]
+        },
+        {
+          "text": "Metatron",
+          "tier": "decoy",
+          "aliases": [
+            "מטטרון",
+            "מיטטרון",
+            "מטטרון שר הפנים",
+            "Mitatron",
+            "Metatron Sar HaPanim"
+          ]
+        },
+        {
+          "text": "Sandalfon",
+          "tier": "uncommon",
+          "aliases": [
+            "סנדלפון",
+            "Sandalphon",
+            "Sendalfon"
+          ]
+        },
+        {
+          "text": "Samael",
+          "tier": "decoy",
+          "aliases": [
+            "סמאל",
+            "Sama'el",
+            "Sammael"
+          ]
+        },
+        {
+          "text": "Dumah",
+          "tier": "familiar",
+          "aliases": [
+            "דומה",
+            "Duma",
+            "Angel Dumah"
+          ]
+        },
+        {
+          "text": "Lailah",
+          "tier": "familiar",
+          "aliases": [
+            "לילה",
+            "Laila",
+            "Laylah",
+            "Layla",
+            "Night"
+          ]
+        },
+        {
+          "text": "Agrat bat Machlat",
+          "tier": "familiar",
+          "aliases": [
+            "אגרת בת מחלת",
+            "אגרת",
+            "איגרת בת מחלת",
+            "איגרת",
+            "אגרת אזלת אסיא בלוסיא",
+            "Agrat",
+            "Igrat",
+            "Iggeret",
+            "Agrat bat Mahalat",
+            "Agrat bas Machalas",
+            "Agrat daughter of Machlat",
+            "Igrat bat Machlat",
+            "Azlat",
+            "Asiya",
+            "Belusiya"
+          ]
+        },
+        {
+          "text": "Ketev Meriri",
+          "tier": "familiar",
+          "aliases": [
+            "קטב מרירי",
+            "קטב ישוד צהרים",
+            "קטב",
+            "Ketev",
+            "Qetev Meriri",
+            "Ketev Yashud Tzaharayim"
+          ]
+        },
+        {
+          "text": "Shabriri",
+          "tier": "familiar",
+          "aliases": [
+            "שברירי",
+            "Shavrirei",
+            "Shavriri",
+            "Shabrire"
+          ]
+        },
+        {
+          "text": "Ben Temalyon",
+          "tier": "uncommon",
+          "aliases": [
+            "בן תמליון",
+            "בר תמליון",
+            "Ben Temalion",
+            "Ben Tamalyon",
+            "Ben Tamalion",
+            "Bar Temalyon"
+          ]
+        },
+        {
+          "text": "Yosef Sheda",
+          "tier": "uncommon",
+          "aliases": [
+            "יוסף שידא",
+            "יוסף השד",
+            "Yosef Sheida",
+            "Yosef Shida",
+            "Yosef HaShed",
+            "Yosef the Demon",
+            "Joseph the Demon"
+          ]
+        },
+        {
+          "text": "Shibta",
+          "tier": "uncommon",
+          "aliases": [
+            "שיבתא",
+            "שבתא",
+            "Shivta",
+            "Shibhta"
+          ]
+        },
+        {
+          "text": "Kordiakos",
+          "tier": "uncommon",
+          "aliases": [
+            "קורדיקוס",
+            "קורדייקוס",
+            "Kordeyakos",
+            "Kordyakos",
+            "Cordiacus",
+            "Kordikos"
+          ]
+        },
+        {
+          "text": "Suriel",
+          "tier": "uncommon",
+          "aliases": [
+            "סוריאל",
+            "סוריאל שר הפנים",
+            "Suri'el",
+            "Suriel Sar HaPanim",
+            "Sariel",
+            "שריאל"
+          ]
+        },
+        {
+          "text": "Ridya",
+          "tier": "uncommon",
+          "aliases": [
+            "רידיא",
+            "רדיא",
+            "Ridia",
+            "Ridhia",
+            "Ridyah"
+          ]
+        },
+        {
+          "text": "Yurkemi",
+          "tier": "uncommon",
+          "aliases": [
+            "יורקמי",
+            "יורקמו",
+            "יורקמי שר הברד",
+            "יורקמו שר הברד",
+            "Yurkamo",
+            "Yorqami",
+            "Yorkami",
+            "Yorkamo",
+            "Yurkemi Sar HaBarad"
+          ]
+        },
+        {
+          "text": "Rahav",
+          "tier": "uncommon",
+          "aliases": [
+            "רהב",
+            "רהב שר הים",
+            "Rahab",
+            "Rahav Sar HaYam",
+            "Rahav Sar Shel Yam"
+          ]
+        },
+        {
+          "text": "Uzza VeAzael",
+          "tier": "uncommon",
+          "aliases": [
+            "עוזא",
+            "עזאל",
+            "עוזא ועזאל",
+            "עזא ועזאל",
+            "עזא",
+            "Uzza",
+            "Uza",
+            "Azael",
+            "Aza'el",
+            "Azazel",
+            "Uzza and Azael"
+          ]
+        },
+        {
+          "text": "Af VeChemah",
+          "tier": "uncommon",
+          "aliases": [
+            "אף וחימה",
+            "אף",
+            "חימה",
+            "קצף",
+            "משחית",
+            "משבר",
+            "מכלה",
+            "Af",
+            "Chemah",
+            "Hemah",
+            "Af and Chemah",
+            "Ketzef",
+            "Mashchit",
+            "Meshaber",
+            "Mechaleh"
+          ]
+        },
+        {
+          "text": "Akatriel",
+          "tier": "uncommon",
+          "aliases": [
+            "אכתריאל",
+            "אכתריאל יה",
+            "Akatri'el",
+            "Akhatriel",
+            "Akatriel Yah"
+          ]
+        },
+        {
+          "text": "Hormin bar Lilit",
+          "tier": "obscure",
+          "aliases": [
+            "הורמין בר לילית",
+            "הורמין",
+            "אהורמין",
+            "הורמיז בר לילית",
+            "הורמיז",
+            "Hormin",
+            "Hurmin",
+            "Hurmin bar Lilit",
+            "Hormin son of Lilith",
+            "Hormiz",
+            "Hormiz bar Lilit",
+            "Ahurmin"
+          ]
+        },
+        {
+          "text": "Yonatan Sheda",
+          "tier": "obscure",
+          "aliases": [
+            "יונתן שידא",
+            "יונתן השד",
+            "Yonatan Sheida",
+            "Yonatan Shida",
+            "Yonasan Sheda",
+            "Yonatan HaShed",
+            "Yonatan the Demon",
+            "Jonathan the Demon"
+          ]
+        },
+        {
+          "text": "Nakid",
+          "tier": "obscure",
+          "aliases": [
+            "נקיד",
+            "נבל",
+            "Naqid",
+            "Naval",
+            "Nabal"
+          ]
+        },
+        {
+          "text": "Bar Shirika Panda",
+          "tier": "obscure",
+          "aliases": [
+            "בר שיריקא פנדא",
+            "שיריקא פנדא",
+            "בר טיט",
+            "בר טמא",
+            "בר טינא",
+            "שמגז",
+            "מריגז",
+            "איסטמאי",
+            "לול",
+            "שפן",
+            "אנפגרון",
+            "אנירדפין",
+            "Bar Shirika",
+            "Shirika Panda",
+            "Bar Tit",
+            "Bar Tama",
+            "Bar Tina",
+            "Shamgaz",
+            "Merigaz",
+            "Istemai",
+            "Lul",
+            "Shafan",
+            "Anigron",
+            "Anirdafin"
+          ]
+        },
+        {
+          "text": "Sharlai VeAmarlai",
+          "tier": "obscure",
+          "aliases": [
+            "שרלאי ואמרלאי",
+            "שרלאי",
+            "אמרלאי",
+            "בז",
+            "בזיה",
+            "מס",
+            "מסיה",
+            "כס",
+            "כסיה",
+            "Sharlai",
+            "Amarlai",
+            "Sharlai and Amarlai",
+            "Baz",
+            "Bazya",
+            "Mas",
+            "Masya",
+            "Kas",
+            "Kasya"
+          ]
+        },
+        {
+          "text": "Dubiel",
+          "tier": "pearl",
+          "note": "In Yoma 77a, Dubiel is named as the guardian angel of Persia who stood in for Gavriel for 21 days and swallowed the heavenly decree taxing Israel.",
+          "note_he": "ביומא עז ע״א נזכר דוביאל כשרה של פרס, שהועמד במקום גבריאל לעשרים ואחד יום ובלע את האיגרת שנגזרה על ישראל.",
+          "aliases": [
+            "דוביאל",
+            "דוביאל שרה של פרס",
+            "Dubi'el",
+            "Doviel",
+            "Duviel",
+            "Dubiel Sar Shel Paras"
+          ]
         }
       ]
     },
     {
       "id": "q6",
-      "prompt": "Name a mitzvah or halachic practice stated in the Torah or by Chazal to reward the one who fulfills it with long life.",
-      "prompt_he": "ציינו מצווה או הנהגה הלכתית שנאמר עליה בתורה או בדברי חז״ל ששכרה הוא אריכות ימים.",
+      "prompt": "Name an object, creature, or substance explicitly mentioned as muktzeh (forbidden to move on Shabbat) in Shulchan Aruch Orach Chaim 308–310.",
+      "prompt_he": "ציינו חפץ, בעל חיים או דבר המוזכר במפורש כמוקצה (האסור בטלטול בשבת) בשולחן ערוך אורח חיים סימנים ש״ח–ש״י.",
       "category": "Halacha",
       "question_type": "ritual_item_or_practice",
       "difficulty": "easy",
       "provenance": "ai_draft",
       "answers": [
         {
-          "text": "Kibbud Av Va'Em",
+          "text": "Ma'ot",
           "tier": "surface",
           "aliases": [
-            "כיבוד אב ואם",
-            "כבוד אב ואם",
-            "כיבוד הורים",
-            "כבד את אביך ואת אמך",
-            "Honoring parents",
-            "Honoring father and mother",
-            "Honor your father and mother",
-            "Kibbud Av VaEm",
-            "Kibud Av Vaem",
-            "Kibud Av Va'em",
-            "Kibbud Horim",
-            "Kabed et avicha ve'et imecha"
+            "מעות",
+            "דינר",
+            "כסף",
+            "כיס של מעות",
+            "מטבעות",
+            "Money",
+            "Coins",
+            "Coin",
+            "Cash",
+            "Dinar",
+            "Purse",
+            "Money purse",
+            "Wallet",
+            "Maot",
+            "Maos",
+            "Ma'os",
+            "Kesef",
+            "Kis shel ma'ot"
           ]
         },
         {
-          "text": "Shiluach HaKan",
+          "text": "Even",
           "tier": "surface",
           "aliases": [
-            "שילוח הקן",
-            "שלוח הקן",
-            "Sending away the mother bird",
-            "Shooing the mother bird",
-            "Mother bird",
-            "Shiluach HaKen",
-            "Shiluah HaKan"
+            "אבן",
+            "אבנים",
+            "צרורות",
+            "נדבך של אבנים",
+            "Stone",
+            "Stones",
+            "Rock",
+            "Rocks",
+            "Pebble",
+            "Pebbles",
+            "Avanim",
+            "Tzerorot",
+            "Tzrorot",
+            "Nidbach shel avanim"
           ]
         },
         {
-          "text": "Talmud Torah",
+          "text": "Ner",
           "tier": "surface",
           "aliases": [
-            "תלמוד תורה",
-            "לימוד תורה",
-            "ידיעת התורה",
-            "ולמדתם אותם את בניכם",
-            "Torah study",
-            "Studying Torah",
-            "Learning Torah",
-            "Teaching Torah",
-            "Teaching Torah to one's children",
-            "Limmud Torah",
-            "Limud Torah"
+            "נר",
+            "נר שהודלק",
+            "נרות",
+            "מנורה",
+            "מנורה שנרות דולקות עליה",
+            "Candle",
+            "Candles",
+            "Lit candle",
+            "Lamp",
+            "Lit lamp",
+            "Shabbat candles",
+            "Candlestick",
+            "Candelabrum",
+            "Menorah",
+            "Neirot",
+            "Nerot",
+            "Neir"
           ]
         },
         {
-          "text": "Mezuzah",
+          "text": "Behemah",
+          "tier": "surface",
+          "aliases": [
+            "בהמה",
+            "חיה",
+            "עוף",
+            "בעלי חיים",
+            "אפרוחים",
+            "תרנגולת",
+            "בהמה וחיה ועוף",
+            "Animal",
+            "Animals",
+            "Live animal",
+            "Livestock",
+            "Beast",
+            "Bird",
+            "Fowl",
+            "Poultry",
+            "Chicken",
+            "Chickens",
+            "Chicks",
+            "Behema",
+            "HaBehemah",
+            "Chayah",
+            "Oph",
+            "HaOf",
+            "Baalei Chayim",
+            "Efrochim",
+            "Tarnegolet"
+          ]
+        },
+        {
+          "text": "Etz",
+          "tier": "surface",
+          "aliases": [
+            "עץ",
+            "בקעת",
+            "שברי עצים",
+            "קנה",
+            "נסרים של אומן",
+            "עצים",
+            "Wood",
+            "Block of wood",
+            "Log",
+            "Firewood",
+            "Wood chips",
+            "Stick",
+            "Reed",
+            "Pole",
+            "Craftsman's boards",
+            "Lumber",
+            "Etzim",
+            "Beka'at",
+            "Bekaat",
+            "Kaneh",
+            "Shivrei Etzim",
+            "Nesarim shel uman"
+          ]
+        },
+        {
+          "text": "Grogerot VeTzimukim",
+          "tier": "uncommon",
+          "aliases": [
+            "גרוגרות וצימוקים",
+            "גרוגרות וצמוקים",
+            "גרוגרות",
+            "צימוקים",
+            "צמוקים",
+            "Drying figs and raisins",
+            "Figs and raisins",
+            "Dried figs and raisins",
+            "Drying figs",
+            "Drying raisins",
+            "Figs",
+            "Raisins",
+            "Grogerot",
+            "Grogarot",
+            "Gerogerot",
+            "Tzimukim",
+            "Tzimmukim",
+            "Grogeros V'tzimukim"
+          ]
+        },
+        {
+          "text": "Sakin Shel Shechitah",
           "tier": "familiar",
           "aliases": [
-            "מזוזה",
-            "מצוות מזוזה",
-            "קביעת מזוזה",
-            "Mezuza",
-            "Affixing a mezuzah",
-            "Checking mezuzot",
-            "Mitzvat Mezuzah",
-            "Kvi'at Mezuzah"
+            "סכין של שחיטה",
+            "סכין שחיטה",
+            "חלף",
+            "Slaughtering knife",
+            "Shechitah knife",
+            "Shechita knife",
+            "Ritual slaughter knife",
+            "Chalaf",
+            "Sakin Shechitah",
+            "Sakin Shel Shechita"
+          ]
+        },
+        {
+          "text": "Sakin Shel Milah",
+          "tier": "familiar",
+          "aliases": [
+            "סכין של מילה",
+            "סכין מילה",
+            "איזמל של מילה",
+            "Circumcision knife",
+            "Milah knife",
+            "Mila knife",
+            "Mohel's knife",
+            "Bris knife",
+            "Sakin Milah",
+            "Sakin Shel Mila"
+          ]
+        },
+        {
+          "text": "Sakin Shel Sofrim",
+          "tier": "familiar",
+          "aliases": [
+            "סכין של סופרים",
+            "סכין סופרים",
+            "אולר של סופרים",
+            "Scribe's knife",
+            "Scribes' knife",
+            "Quill knife",
+            "Penknife",
+            "Sofer's knife",
+            "Sakin Sofrim"
+          ]
+        },
+        {
+          "text": "Kurnas",
+          "tier": "familiar",
+          "aliases": [
+            "קורנס",
+            "קורנס של בשמים",
+            "קורנס של זהבים",
+            "קורנס של נפחים",
+            "קורדום",
+            "פטיש",
+            "Hammer",
+            "Spice hammer",
+            "Pestle for spices",
+            "Blacksmith's hammer",
+            "Goldsmith's hammer",
+            "Axe",
+            "Hatchet",
+            "Kurnas shel besamim",
+            "Kardom",
+            "Kordom",
+            "Patish"
           ]
         },
         {
@@ -1436,588 +1842,696 @@
           "tier": "familiar",
           "aliases": [
             "תפילין",
-            "הנחת תפילין",
-            "מצוות תפילין",
-            "Tefilin",
-            "Tephillin",
             "Phylacteries",
-            "Wearing tefillin",
-            "Putting on tefillin",
-            "Hanachat Tefillin"
+            "Tefilin",
+            "Tfillin"
           ]
         },
         {
-          "text": "Mishkalot u-Middot",
+          "text": "Shofar",
           "tier": "familiar",
           "aliases": [
-            "משקלות ומידות",
-            "אבן שלמה וצדק",
-            "איפה שלמה וצדק",
-            "יושר במשקלות ובמידות",
-            "מידות ומשקלות",
-            "Honest weights and measures",
-            "Just weights and measures",
-            "Honest weights",
-            "Accurate weights and measures",
-            "Mishkalot uMiddot",
-            "Middot uMishkalot",
-            "Even Shelemah VaTzedek",
-            "Even Shleimah"
+            "שופר",
+            "Ram's horn",
+            "Shofer"
           ]
         },
         {
-          "text": "Tzedakah",
+          "text": "Shivrei Kelim",
           "tier": "familiar",
           "aliases": [
-            "צדקה",
-            "מצוות צדקה",
-            "וצדקה תציל ממות",
-            "Charity",
-            "Giving charity",
-            "Giving tzedakah",
-            "Tzedaka",
-            "Tsedakah",
-            "Tzdaqa"
+            "שברי כלים",
+            "חתיכת חרס",
+            "חרס",
+            "שברי זכוכית",
+            "Broken vessels",
+            "Shards of broken vessels",
+            "Pottery shard",
+            "Potsherd",
+            "Broken glass",
+            "Broken pottery",
+            "Cheres",
+            "Chatichat Cheres",
+            "Shivrei shel Kelim",
+            "Shivrei Zechuchit"
           ]
         },
         {
-          "text": "Kri'at Shema",
-          "tier": "uncommon",
-          "aliases": [
-            "קריאת שמע",
-            "המאריך באחד",
-            "אחד של שמע",
-            "שמע ישראל",
-            "Reciting Shema",
-            "Shema",
-            "Lengthening Echad",
-            "Lengthening Echad in Shema",
-            "Prolonging Echad",
-            "Kriat Shema",
-            "Krias Shema",
-            "HaMa'arikh BeEchad",
-            "Ma'arikh BeEchad"
-          ]
-        },
-        {
-          "text": "Aniyat Amen",
-          "tier": "uncommon",
-          "aliases": [
-            "עניית אמן",
-            "אמן",
-            "המאריך באמן",
-            "Answering Amen",
-            "Amen",
-            "Lengthening Amen",
-            "Prolonging Amen",
-            "Aniyas Amen",
-            "HaMa'arikh BeAmen",
-            "Ma'arikh BeAmen"
-          ]
-        },
-        {
-          "text": "Ha'arakhah bi-Tefillah",
-          "tier": "uncommon",
-          "aliases": [
-            "המאריך בתפילתו",
-            "הארכה בתפילה",
-            "תפילה",
-            "Lengthening prayer",
-            "Praying at length",
-            "Prolonging prayer",
-            "Prayer",
-            "Ha'arakhah BiTfillah",
-            "HaMa'arikh BiTefillato",
-            "Ma'arikh BiTefillato",
-            "Tefillah"
-          ]
-        },
-        {
-          "text": "Hashkamat Beit HaKnesset",
-          "tier": "uncommon",
-          "aliases": [
-            "השכמת בית הכנסת",
-            "השכמה והערבה לבית הכנסת",
-            "בית הכנסת",
-            "השכמה לבית המדרש",
-            "Coming early and staying late at the synagogue",
-            "Attending synagogue early and late",
-            "Going early to the Beit Midrash",
-            "Hashkamat Beit HaKeneset",
-            "Hashkamas Beis HaKnesses"
-          ]
-        },
-        {
-          "text": "Kiddush HaYom",
-          "tier": "uncommon",
-          "aliases": [
-            "קידוש היום",
-            "קידוש",
-            "קידוש על היין",
-            "Kiddush",
-            "Sanctifying Shabbat",
-            "Reciting Kiddush",
-            "Kiddush on Shabbat",
-            "Kidush",
-            "Kiddush al HaYayin"
-          ]
-        },
-        {
-          "text": "Birkat Kohanim",
-          "tier": "obscure",
-          "aliases": [
-            "ברכת כהנים",
-            "נשיאת כפיים",
-            "נשיאת כפים",
-            "Priestly Blessing",
-            "Duchening",
-            "Nesiat Kapayim",
-            "Nesi'at Kapayim",
-            "Birkas Kohanim"
-          ]
-        },
-        {
-          "text": "Matnot Kehunah",
-          "tier": "obscure",
-          "aliases": [
-            "מתנות כהונה",
-            "הזרוע והלחיים והקיבה",
-            "זרוע לחיים וקיבה",
-            "Priestly gifts",
-            "Giving the priestly gifts",
-            "Matnot HaKehunah",
-            "HaZeroa VeHaLechayayim VeHaKeivah",
-            "Zeroa Lechayayim VeKeivah",
-            "Matnos Kehunah"
-          ]
-        },
-        {
-          "text": "Ma'avir al Middotav",
-          "tier": "obscure",
-          "aliases": [
-            "מעביר על מידותיו",
-            "מחילה",
-            "וותרן בממונו",
-            "לא עמדתי על מידותי",
-            "Forgiving others",
-            "Overlooking slights",
-            "Forgoing retaliation",
-            "Not insisting on one's rights",
-            "Maavir al Middotav",
-            "Ma'avir al Midosav",
-            "Mechilah"
-          ]
-        },
-        {
-          "text": "Ha'arakhah al Shulchano",
-          "tier": "obscure",
-          "aliases": [
-            "המאריך על שולחנו",
-            "הארכה על השולחן",
-            "הכנסת אורחים",
-            "Lingering at one's table",
-            "Tarrying at the table for poor guests",
-            "Hospitality at one's table",
-            "HaMa'arikh al Shulchano",
-            "Ma'arikh al Shulchano",
-            "Hachnasat Orchim"
-          ]
-        },
-        {
-          "text": "Tzitzit",
+          "text": "Leveinim",
           "tier": "familiar",
           "aliases": [
-            "ציצית",
-            "מצוות ציצית",
-            "טלית",
-            "הטלת ציצית",
-            "Tzitzis",
-            "Tsitsit",
-            "Tallit",
-            "Tallis",
-            "Ritual fringes",
-            "Wearing tzitzit",
-            "Mitzvat Tzitzit"
+            "לבנים",
+            "לבנים שסידרם לבנין",
+            "לבנים לבנין",
+            "Bricks",
+            "Construction bricks",
+            "Stacked bricks",
+            "Building bricks",
+            "Levenim",
+            "Lveinim"
           ]
         },
         {
-          "text": "Shnayim Mikra ve-Echad Targum",
+          "text": "Kelipim VeAtzamot",
+          "tier": "familiar",
+          "aliases": [
+            "קליפים",
+            "קליפות",
+            "עצמות",
+            "קליפים שאינם ראוים למאכל בהמה",
+            "עצמות שאינם ראוים לכלבים",
+            "Peels",
+            "Shells",
+            "Bones",
+            "Inedible peels",
+            "Inedible bones",
+            "Nutshells",
+            "Kelipim",
+            "Klipot",
+            "Kelipot",
+            "Atzamot",
+            "Atzamos"
+          ]
+        },
+        {
+          "text": "Afar",
+          "tier": "familiar",
+          "aliases": [
+            "עפר",
+            "חול",
+            "אדמה",
+            "Earth",
+            "Soil",
+            "Dirt",
+            "Sand",
+            "Chol"
+          ]
+        },
+        {
+          "text": "Kadur",
+          "tier": "familiar",
+          "aliases": [
+            "כדור",
+            "Ball",
+            "Playing ball",
+            "Kaddur"
+          ]
+        },
+        {
+          "text": "Izmel Shel Saparim",
           "tier": "uncommon",
           "aliases": [
-            "שניים מקרא ואחד תרגום",
-            "שנים מקרא ואחד תרגום",
-            "המשלים פרשיותיו עם הציבור",
-            "המשלים פרשיותיו עם הצבור",
-            "קריאת הפרשה עם הציבור",
-            "Shnayim Mikra VeEchad Targum",
-            "Shnayim Mikra",
-            "Shnaim Mikra",
-            "Completing the parashah with the congregation",
-            "Completing the weekly Torah portion with the congregation",
-            "Reading the parashah twice and Targum once",
-            "HaMashlim Parshiyotav Im HaTzibbur"
+            "איזמל של ספרים",
+            "אזמל של ספרים",
+            "איזמל",
+            "מספריים של ספרים",
+            "Barber's razor",
+            "Barber's scissors",
+            "Hairdresser's scissors",
+            "Barber's lancet",
+            "Scalpel",
+            "Lancet",
+            "Izmel",
+            "Izmel saparim"
           ]
         },
         {
-          "text": "Yishuv Eretz Yisrael",
+          "text": "Kelim HaMeyuchadim LiSechorah",
           "tier": "uncommon",
           "aliases": [
-            "יישוב ארץ ישראל",
-            "ישוב ארץ ישראל",
-            "ישיבת ארץ ישראל",
-            "יישוב הארץ",
-            "מגורים בארץ ישראל",
-            "ארץ ישראל",
-            "Living in Eretz Yisrael",
-            "Dwelling in the Land of Israel",
-            "Living in the Land of Israel",
-            "Settling the Land of Israel",
-            "Yishuv Eretz Yisroel",
-            "Yeshivat Eretz Yisrael",
-            "Yishuv Ha'Aretz",
-            "Yishuv HaAretz",
-            "Yeshivat HaAretz"
+            "כלים המיוחדים לסחורה",
+            "סחורה",
+            "כלים העומדים לסחורה",
+            "Merchandise",
+            "Utensils set aside for sale",
+            "Goods for sale",
+            "Inventory",
+            "Sechorah",
+            "Schorah"
           ]
         },
         {
-          "text": "Kimah Mipnei Seivah",
+          "text": "Machat",
           "tier": "uncommon",
           "aliases": [
-            "קימה מפני שיבה",
-            "מפני שיבה תקום",
-            "הדרת פני זקן",
-            "מורא רבך",
-            "מורא רבו",
-            "כיבוד תלמידי חכמים",
-            "כיבוד זקנים",
-            "קימה מפני תלמיד חכם",
-            "Standing before an elder",
-            "Standing before a Torah scholar",
-            "Honoring elders",
-            "Honoring Torah scholars",
-            "Rising before the elderly",
-            "Mipnei Seivah Takum",
-            "Kibbud Talmidei Chakhamim",
-            "Kibbud Zekenim",
-            "Mora Rabbo"
+            "מחט",
+            "מחט שניטל חודה",
+            "מחט שניטל חודה או חור שלה",
+            "Needle",
+            "Broken needle",
+            "Sewing needle",
+            "Machas"
           ]
         },
         {
-          "text": "Machzikei Torah",
+          "text": "Shirei Matlaniyot",
+          "tier": "uncommon",
+          "aliases": [
+            "שירי מטלניות",
+            "שירי מחצלאות",
+            "מטלית",
+            "סמרטוטים",
+            "Rags",
+            "Worn-out rags",
+            "Torn rags",
+            "Mat remnants",
+            "Pieces of mat",
+            "Shirei Machatzla'ot",
+            "Shirei Machatzlaot",
+            "Shirei shel Matlaniyot",
+            "Matlaniyot"
+          ]
+        },
+        {
+          "text": "Sandal SheNifsekah Retzu'ah",
+          "tier": "uncommon",
+          "aliases": [
+            "סנדל שנפסקה רצועה החיצונה",
+            "סנדל שנפסק",
+            "מנעל על הדפוס",
+            "דפוס של מנעל",
+            "Broken sandal",
+            "Torn sandal",
+            "Shoe on a mold",
+            "Shoe last",
+            "Sandal",
+            "Min'al al hadefus"
+          ]
+        },
+        {
+          "text": "Kirah VeTanur",
+          "tier": "uncommon",
+          "aliases": [
+            "כירה",
+            "כירה שנשמטה אחת מירכותיה",
+            "תנור",
+            "תנור שדולק בו אש",
+            "ספסל שנשמט אחת מרגליה",
+            "Stove",
+            "Oven",
+            "Broken stove",
+            "Lit oven",
+            "Broken bench",
+            "Bench missing a leg",
+            "Kirah",
+            "Tanur",
+            "Safsal"
+          ]
+        },
+        {
+          "text": "Sulam Shel Aliyah",
+          "tier": "uncommon",
+          "aliases": [
+            "סולם של עלייה",
+            "סולם של עליה",
+            "סולם",
+            "סולם של שובך",
+            "Ladder",
+            "Attic ladder",
+            "Roof ladder",
+            "Dovecote ladder",
+            "Sulam",
+            "Sulam shel alon"
+          ]
+        },
+        {
+          "text": "Chariyot Shel Dekel",
+          "tier": "uncommon",
+          "aliases": [
+            "חריות של דקל",
+            "חריות",
+            "ענפי דקל",
+            "Palm branches",
+            "Palm fronds",
+            "Palm branches cut for firewood",
+            "Chariyot",
+            "Chariyos",
+            "Charayot"
+          ]
+        },
+        {
+          "text": "Pishtan VeTzemer",
+          "tier": "uncommon",
+          "aliases": [
+            "פשתן סרוק",
+            "צמר מנופץ",
+            "פשתן",
+            "צמר",
+            "עורות בהמה דקה",
+            "עורות",
+            "Combed flax",
+            "Carded wool",
+            "Flax",
+            "Wool",
+            "Animal hides",
+            "Thin hides",
+            "Pishtan",
+            "Pishtan saruk",
+            "Tzemer",
+            "Tzemer menupatz",
+            "Orot"
+          ]
+        },
+        {
+          "text": "Dag She'eino Maluach",
+          "tier": "uncommon",
+          "aliases": [
+            "דג שאינו מלוח",
+            "דג חי",
+            "דג תפל",
+            "Unsalted fish",
+            "Raw fish",
+            "Fresh raw fish",
+            "Dag sheeino maluach"
+          ]
+        },
+        {
+          "text": "Graf Shel Re'i",
+          "tier": "uncommon",
+          "aliases": [
+            "גרף של רעי",
+            "עביט של מי רגלים",
+            "רעי",
+            "קיא",
+            "צואה",
+            "Chamber pot",
+            "Bedpan",
+            "Urinal",
+            "Excrement",
+            "Vomit",
+            "Filth",
+            "Garaf shel re'i",
+            "Graf shel rei",
+            "Avit shel mei raglayim",
+            "Tzo'ah",
+            "Tzoah"
+          ]
+        },
+        {
+          "text": "Beged Sha'atnez",
           "tier": "obscure",
           "aliases": [
-            "מחזיקי תורה",
-            "החזקת תורה",
-            "המהנה תלמידי חכמים מנכסיו",
-            "המשיא בתו לתלמיד חכם",
-            "העושה פרקמטיא לתלמידי חכמים",
-            "ולדבקה בו",
-            "Supporting Torah scholars",
-            "Benefiting Torah scholars from one's property",
-            "Marrying one's daughter to a Torah scholar",
-            "Doing business for Torah scholars",
-            "Hachzakat Torah",
-            "HaMehaneh Talmidei Chakhamim MiNekhasav",
-            "HaMasi Bito LeTalmid Chakham"
+            "בגד שעטנז",
+            "שעטנז",
+            "כלאי בגדים",
+            "Shatnez garment",
+            "Garment of shatnez",
+            "Beged shel Sha'atnez",
+            "Shatnez",
+            "Sha'atnez",
+            "Shaatnez"
           ]
         },
         {
-          "text": "Kibbud Kohen",
+          "text": "Orilozio VeItztrolov",
           "tier": "obscure",
           "aliases": [
-            "כיבוד כהן",
-            "כבוד כהן",
-            "וקדשתו",
-            "הקדמת כהן לברכת המזון",
-            "לא ברכתי לפני כהן",
-            "ברכת המזון לכהן",
-            "Honoring a Kohen",
-            "Giving a Kohen the honor of leading Birkat HaMazon",
-            "Letting a Kohen lead Grace after Meals",
-            "Not reciting Birkat HaMazon before a Kohen",
-            "VeKiddashto",
-            "V'kidashto",
-            "Hakdamat Kohen"
+            "ארילוזיו",
+            "מורה השעות",
+            "שעון חול",
+            "שעון",
+            "איצטרלוב",
+            "אצטרלוב",
+            "ספרי החכמה",
+            "ספרי חכמה",
+            "Hourglass",
+            "Sandglass",
+            "Clock",
+            "Timepiece",
+            "Sundial",
+            "Astrolabe",
+            "Books of secular wisdom",
+            "Orilozio",
+            "Uhrilozo",
+            "Moreh HaSha'ot",
+            "Sha'on",
+            "Shaon",
+            "Itztrolov",
+            "Astrolab",
+            "Sifrei HaChochmah",
+            "Sifrei Chochmah"
           ]
         },
         {
-          "text": "Kabalat Yissurin be-Ahavah",
+          "text": "Kisui Bor VeDot",
           "tier": "obscure",
           "aliases": [
-            "קבלת ייסורים באהבה",
-            "קבלת יסורים באהבה",
-            "ייסורים של אהבה",
-            "יסורים של אהבה",
-            "המקבל ייסורים באהבה",
-            "Accepting suffering with love",
-            "Accepting afflictions with love",
-            "Yissurin shel ahavah",
-            "Kabalat Yissurim BeAhavah",
-            "Kabbalat Yissurin BeAhavah"
+            "כיסוי בור ודות",
+            "כסוי בור ודות",
+            "כיסוי בור",
+            "כיסוי דות",
+            "כיסוי חביות הקבורות בקרקע",
+            "דלת של לול",
+            "דלת של תרנגולים",
+            "Pit cover",
+            "Cistern cover",
+            "Cover of a pit or cistern",
+            "Coop door",
+            "Chicken coop door",
+            "Kisui Bor",
+            "Kisui Dot",
+            "Kisui Shel Bor",
+            "Delet Shel Lul"
           ]
         },
         {
-          "text": "Ketivat Sefer Torah la-Melekh",
+          "text": "Gar'inei Temarim",
           "tier": "obscure",
           "aliases": [
-            "כתיבת ספר תורה למלך",
-            "ספר תורה של מלך",
-            "משנה התורה למלך",
-            "כתיבת ספר תורה",
-            "King writing a Sefer Torah",
-            "Writing a Sefer Torah for the king",
-            "The king's Torah scroll",
-            "Writing a Sefer Torah",
-            "Ketivat Sefer Torah LaMelech",
-            "Ktivat Sefer Torah LaMelech",
-            "Sefer Torah shel Melech"
+            "גרעיני תמרים",
+            "חרצני תמרים",
+            "גלעיני תמרים",
+            "Date pits",
+            "Date stones",
+            "Date seeds",
+            "Garinei Temarim",
+            "Gar'inei Shel Temarim",
+            "Garinei Tmarim"
           ]
         },
         {
-          "text": "Ha'arakhah be-Beit HaKisei",
+          "text": "Zera HaTola'im SheOsin HaMeshi",
           "tier": "pearl",
+          "note": "Shulchan Aruch Orach Chaim 308:46 explicitly rules that it is forbidden to carry silkworm eggs ('zera ha-tola'im she-osin ha-meshi') on Shabbat because they are muktzeh.",
+          "note_he": "בשולחן ערוך אורח חיים סימן ש״ח סעיף מ״ו נפסק במפורש: ״אסור לשאת תחת אציליו זרע התולעים שעושין המשי מפני שאסור בטלטול״.",
           "aliases": [
-            "הארכה בבית הכסא",
-            "המאריך בבית הכסא",
-            "המאריך בבית הכיסא",
-            "הארכה בבית הכיסא",
-            "בית הכסא",
-            "בית הכיסא",
-            "Haarachas Beis HaKisei",
-            "Taking one's time in the bathroom",
-            "Prolonging one's time in the bathroom",
-            "Lingering in the restroom",
-            "Taking one's time in the lavatory",
-            "HaMa'arikh BeVeit HaKisei",
-            "HaMa'arich BeBeit HaKisei",
-            "Ma'arikh BeVeit HaKisei",
-            "Beit HaKisei",
-            "Beis HaKisei"
-          ],
-          "note": "In Berakhot 54b, Rav Yehudah teaches that three things prolong a person's days and years when one takes one's time with them: prayer, the table, and the bathroom (ve-hama'arikh be-veit hakisei).",
-          "note_he": "בברכות נד ע״ב אמר רב יהודה: ״שְׁלֹשָׁה דְּבָרִים הַמַּאֲרִיךְ בָּהֶן מַאֲרִיכִין יָמָיו וּשְׁנוֹתָיו שֶׁל אָדָם: הַמַּאֲרִיךְ בִּתְפִלָּתוֹ, וְהַמַּאֲרִיךְ עַל שֻׁלְחָנוֹ, וְהַמַּאֲרִיךְ בְּבֵית הַכִּסֵּא״."
+            "זרע התולעים שעושין המשי",
+            "זרע תולעי משי",
+            "תולעי משי",
+            "ביצי תולעי משי",
+            "Silkworm eggs",
+            "Silkworm",
+            "Silkworms",
+            "Silkworm seed",
+            "Eggs of silkworms",
+            "Zera HaTolaim SheOsin HaMeshi",
+            "Zera shel Tola'im",
+            "Zera HaTola'im",
+            "Zera Tol'ei Meshi",
+            "Tola'ei Meshi",
+            "Tolaei Meshi"
+          ]
         }
       ]
     },
     {
       "id": "q7",
-      "prompt": "Name a Rishon (medieval rabbinic scholar, c. 900–1500) who served a foreign monarch.",
-      "prompt_he": "ציינו חכם מן הראשונים (סביבות 900–1500) ששירת בשירותו של מלך או שליט נוכרי.",
+      "prompt": "Name one of the thirteen exegetical principles (Shlosh Esrei Middot) of Rabbi Yishmael by which the Torah is expounded.",
+      "prompt_he": "ציינו אחת משלוש עשרה המידות שהתורה נדרשת בהן בברייתא דרבי ישמעאל.",
       "category": "Wildcard",
-      "question_type": "person_by_role",
+      "question_type": "defined_group",
       "difficulty": "medium",
       "provenance": "ai_draft",
       "answers": [
         {
-          "text": "Rambam",
+          "text": "Kal VaChomer",
           "tier": "surface",
           "aliases": [
-            "רמב״ם",
-            "הרמב״ם",
-            "רבי משה בן מימון",
-            "משה בן מימון",
-            "Maimonides",
-            "HaRambam",
-            "Rabbi Moshe ben Maimon",
-            "Moshe ben Maimon",
-            "Moses Maimonides",
-            "Rabbi Moses ben Maimon"
+            "קל וחומר",
+            "ק״ו",
+            "A fortiori",
+            "Kal Vachomer",
+            "Kal V'chomer",
+            "Kal VeChomer",
+            "Qal VaChomer",
+            "Qal VaHomer",
+            "Kal VaHomer"
           ]
         },
         {
-          "text": "Don Yitzchak Abarbanel",
+          "text": "Gezeirah Shavah",
           "tier": "surface",
           "aliases": [
-            "אברבנאל",
-            "דון יצחק אברבנאל",
-            "רבי יצחק אברבנאל",
-            "יצחק אברבנאל",
-            "Abarbanel",
-            "Abravanel",
-            "Don Isaac Abarbanel",
-            "Don Isaac Abravanel",
-            "Isaac Abarbanel",
-            "Isaac Abravanel",
-            "Yitzchak Abarbanel",
-            "Yitzchak Abravanel",
-            "Rabbi Yitzchak Abarbanel"
+            "גזירה שוה",
+            "גזירה שווה",
+            "גזרה שווה",
+            "גזרה שוה",
+            "ג״ש",
+            "Verbal analogy",
+            "Gezeira Shava",
+            "Gezerah Shavah",
+            "Gezera Shava",
+            "Gzeirah Shavah",
+            "Gzera Shava"
           ]
         },
         {
-          "text": "Shmuel HaNagid",
+          "text": "Binyan Av",
+          "tier": "surface",
+          "aliases": [
+            "בנין אב",
+            "בניין אב",
+            "בנין אב מכתוב אחד",
+            "בנין אב משני כתובים",
+            "בנין אב מכתוב אחד ובנין אב משני כתובים",
+            "בניין אב מכתוב אחד",
+            "בניין אב משני כתובים",
+            "General principle from one or two verses",
+            "Binyan Av MiKatuv Echad",
+            "Binyan Av MiShnei Ketuvim",
+            "Binyan Av Mikatuv Echad",
+            "Binyan Av Mishnei Ketuvim",
+            "Binyan Av M'katuv Echad"
+          ]
+        },
+        {
+          "text": "Kelal UFerat",
+          "tier": "surface",
+          "aliases": [
+            "כלל ופרט",
+            "מכלל ופרט",
+            "General and particular",
+            "Generalization and specification",
+            "Klal UFrat",
+            "Klal U'frat",
+            "Kelal U'ferat",
+            "Klal Uferat",
+            "Kelal UFrat",
+            "Klal V'frat",
+            "Kelal VePerat",
+            "Klal Uprat"
+          ]
+        },
+        {
+          "text": "Shnei Ketuvim HaMachchishim Zeh Et Zeh",
+          "tier": "decoy",
+          "aliases": [
+            "שני כתובים המכחישים זה את זה",
+            "שני כתובים המכחישים",
+            "שני כתובים המכחישין זה את זה",
+            "שני כתובים המכחשים זה את זה",
+            "עד שיבוא הכתוב השלישי ויכריע ביניהם",
+            "עד שיבא הכתוב השלישי ויכריע ביניהם",
+            "הכתוב השלישי יכריע ביניהם",
+            "שני כתובים",
+            "Two verses that contradict each other",
+            "Two contradictory verses",
+            "Two contradicting verses",
+            "Third verse reconciles them",
+            "Shnei Ketuvim HaMachishim",
+            "Shnei Ketuvim HaMachchishim",
+            "Shnei Ktuvim HaMachishim",
+            "Shnei Ketuvim HaMakhhishim Zeh Et Zeh",
+            "Shnei Ketuvim HaMachishim Zeh Et Zeh",
+            "Shnei Ketuvim",
+            "Shnei Ktuvim",
+            "Ad SheYavo HaKatuv HaShlishi"
+          ]
+        },
+        {
+          "text": "Perat UChelal",
           "tier": "familiar",
           "aliases": [
-            "שמואל הנגיד",
-            "רבי שמואל הנגיד",
-            "שמואל אבן נגרילה",
-            "Samuel HaNagid",
-            "Rabbi Shmuel HaNagid",
-            "Shmuel ibn Naghrillah",
-            "Samuel ibn Naghrillah",
-            "Shmuel HaNaggid"
+            "פרט וכלל",
+            "מפרט וכלל",
+            "Particular and general",
+            "Specification and generalization",
+            "Prat UChlal",
+            "Prat U'chlal",
+            "Perat U'chelal",
+            "Prat Uklal",
+            "Perat UKelal",
+            "Prat V'chlal",
+            "Perat VeKelal"
           ]
         },
         {
-          "text": "Chasdai ibn Shaprut",
+          "text": "Kelal UFerat UChelal",
           "tier": "familiar",
           "aliases": [
-            "חסדאי אבן שפרוט",
-            "רבי חסדאי אבן שפרוט",
-            "Hasdai ibn Shaprut",
-            "Rabbi Chasdai ibn Shaprut",
-            "Chasdai ben Yitzchak ibn Shaprut",
-            "Khasdai ibn Shaprut"
+            "כלל ופרט וכלל",
+            "מכלל ופרט וכלל",
+            "General, particular, and general",
+            "Generalization, specification, and generalization",
+            "Klal UFrat UChlal",
+            "Klal U'frat U'chlal",
+            "Kelal U'ferat U'chelal",
+            "Klal Uferat Uchlal",
+            "Klal Uprat Uklal",
+            "Kelal VePerat VeKelal"
           ]
         },
         {
-          "text": "Rabbi Avraham Zacuto",
-          "tier": "familiar",
-          "aliases": [
-            "אברהם זכות",
-            "רבי אברהם זכות",
-            "בעל ספר יוחסין",
-            "Avraham Zacuto",
-            "Abraham Zacuto",
-            "Rabbi Abraham Zacuto",
-            "Zacuto",
-            "Avraham Zakuto"
-          ]
-        },
-        {
-          "text": "Rabbi Chasdai Crescas",
+          "text": "Davar HaLamed MeInyano",
           "tier": "uncommon",
           "aliases": [
-            "חסדאי קרשקש",
-            "רבי חסדאי קרשקש",
-            "בעל אור ה׳",
-            "Chasdai Crescas",
-            "Hasdai Crescas",
-            "Rabbi Hasdai Crescas",
-            "Crescas",
-            "Kreskas",
-            "Ba'al Or Hashem"
+            "דבר הלמד מענינו",
+            "דבר הלמד מעניינו",
+            "דבר הלמד מענינו ודבר הלמד מסופו",
+            "דבר הלמד מעניינו ודבר הלמד מסופו",
+            "דבר הלמד מסופו",
+            "למד מענינו",
+            "למד מעניינו",
+            "למד מסופו",
+            "Something learned from its context",
+            "Deduced from its context",
+            "Context or what follows",
+            "Davar HaLamed Me'inyano",
+            "Davar Halamed Meinyano",
+            "Davar HaLamed M'inyano",
+            "Davar HaLamed MiSofo",
+            "Davar Halamed Misofo",
+            "Davar HaLamed MeInyano VeDavar HaLamed MiSofo",
+            "Lamed MeInyano",
+            "Lamed MiSofo"
           ]
         },
         {
-          "text": "Rabbi Avraham ben HaRambam",
+          "text": "Kelal Shehu Tzarich LiFerat",
           "tier": "uncommon",
           "aliases": [
-            "רבי אברהם בן הרמב״ם",
-            "אברהם בן הרמב״ם",
-            "רבינו אברהם בן הרמב״ם",
-            "Avraham ben HaRambam",
-            "Abraham Maimonides",
-            "Rabbi Abraham ben Maimon",
-            "Abraham ben Maimon",
-            "Rabbeinu Avraham ben HaRambam"
+            "כלל שהוא צריך לפרט",
+            "מכלל שהוא צריך לפרט ומפרט שהוא צריך לכלל",
+            "כלל שהוא צריך לפרט ופרט שהוא צריך לכלל",
+            "פרט שהוא צריך לכלל",
+            "מפרט שהוא צריך לכלל",
+            "כלל הצריך לפרט",
+            "General that requires a particular",
+            "General statement that needs a specification",
+            "Particular that requires a general",
+            "Klal Shehu Tzarich Lifrat",
+            "Kelal Shehu Tzarich L'frat",
+            "Klal Shehu Tzarich L'frat",
+            "MiKelal Shehu Tzarich LiFerat",
+            "Miklal Shehu Tzarich Lifrat",
+            "Perat Shehu Tzarich LiChelal",
+            "Prat Shehu Tzarich Lichlal",
+            "Klal Shehu Tzarich Lifrat Ufrat Shehu Tzarich Lichlal",
+            "Kelal Shehu Tzarikh LiFerat"
           ]
         },
         {
-          "text": "Rabbi Avraham bar Chiyya",
-          "tier": "uncommon",
-          "aliases": [
-            "אברהם בר חייא",
-            "רבי אברהם בר חייא",
-            "רבי אברהם בר חייא הנשיא",
-            "Avraham bar Chiyya",
-            "Abraham bar Hiyya",
-            "Avraham bar Chiya",
-            "Savasorda",
-            "Abraham bar Hiyya HaNasi",
-            "Avraham bar Chiyya HaNasi"
-          ]
-        },
-        {
-          "text": "Rabbi Yitzchak Yisraeli",
-          "tier": "uncommon",
-          "aliases": [
-            "יצחק ישראלי",
-            "רבי יצחק ישראלי",
-            "Rabbi Yitzchak Israeli",
-            "Yitzchak Israeli",
-            "Yitzchak Yisraeli",
-            "Isaac Israeli",
-            "Isaac Israeli ben Solomon"
-          ]
-        },
-        {
-          "text": "Rabbi Yosef HaNagid",
+          "text": "Davar Shehayah BiChelal VeYatza Min HaKelal Lelamed",
           "tier": "obscure",
           "aliases": [
-            "יוסף הנגיד",
-            "רבי יוסף הנגיד",
-            "יהוסף הנגיד",
-            "רבי יהוסף הנגיד",
-            "Yosef HaNagid",
-            "Yehosef HaNagid",
-            "Rabbi Yehosef HaNagid",
-            "Joseph HaNagid",
-            "Joseph ibn Naghrillah"
+            "דבר שהיה בכלל ויצא מן הכלל ללמד",
+            "כל דבר שהיה בכלל ויצא מן הכלל ללמד",
+            "דבר שהיה בכלל ויצא מן הכלל ללמד לא ללמד על עצמו יצא אלא ללמד על הכלל כולו יצא",
+            "יצא מן הכלל ללמד",
+            "לא ללמד על עצמו יצא אלא ללמד על הכלל כולו יצא",
+            "ללמד על הכלל כולו יצא",
+            "דבר שהיה בכלל ויצא ללמד",
+            "Singled out from a general category to teach about the whole",
+            "Singled out to teach about the general category",
+            "Davar Shehaya Bichlal Veyatza Min Haklal Lelamed",
+            "Davar Shehayah Bichlal V'yatza Min Haklal Lelamed",
+            "Kol Davar Shehayah BiChelal VeYatza Min HaKelal Lelamed",
+            "Yatza Min HaKelal Lelamed",
+            "Yatza Min Haklal Lelamed",
+            "Lo Lelamed Al Atzmo Yatza",
+            "Lelamed Al HaKelal Kulo Yatza"
           ]
         },
         {
-          "text": "Ha'Efodi",
+          "text": "Davar Shehayah BiChelal VeYatza Lit'on To'an Acher Shehu KeInyano",
           "tier": "obscure",
           "aliases": [
-            "האפודי",
-            "אפודי",
-            "פרופייט דוראן",
-            "יצחק בן משה הלוי",
-            "Efodi",
-            "HaEfodi",
-            "Profiat Duran",
-            "Profeit Duran",
-            "Yitzchak ben Moshe HaLevi",
-            "Isaac ben Moses Halevi"
+            "דבר שהיה בכלל ויצא לטעון טען אחר שהוא כענינו",
+            "כל דבר שהיה בכלל ויצא לטעון טען אחר שהוא כענינו",
+            "דבר שהיה בכלל ויצא לטעון טוען אחר שהוא כעניינו",
+            "כל דבר שהיה בכלל ויצא לטעון טוען אחר שהוא כעניינו",
+            "דבר שהיה בכלל ויצא לטעון טען אחר שהוא כענינו יצא להקל ולא להחמיר",
+            "יצא לטעון טען אחר שהוא כענינו",
+            "יצא לטעון טוען אחר שהוא כעניינו",
+            "טען אחר שהוא כענינו",
+            "טוען אחר שהוא כעניינו",
+            "יצא להקל ולא להחמיר",
+            "להקל ולא להחמיר",
+            "Singled out to state another provision similar to the general category",
+            "Singled out to be lenient and not stringent",
+            "Davar Shehaya Bichlal Veyatza Liton Toan Acher Shehu Keinyano",
+            "Davar Shehayah Bichlal V'yatza Liton Toan Acher Shehu K'inyano",
+            "Kol Davar Shehayah BiChelal VeYatza Lit'on To'an Acher Shehu KeInyano",
+            "Yatza Lit'on To'an Acher Shehu KeInyano",
+            "Yatza Min HaKelal Lit'on To'an Acher Shehu KeInyano",
+            "Yatza Liton Toan Acher Shehu Keinyano",
+            "Toan Acher Shehu Keinyano",
+            "Yatza Lehakel Velo Lehachmir",
+            "Lehakel Velo Lehachmir"
           ]
         },
         {
-          "text": "Rabbi Sheshet Benveniste",
+          "text": "Davar Shehayah BiChelal VeYatza Lit'on To'an Acher Shelo KeInyano",
           "tier": "obscure",
           "aliases": [
-            "רבי ששת בנבנשתי",
-            "ששת בנבנשתי",
-            "Sheshet Benveniste",
-            "Sheshet ben Yitzchak Benveniste"
+            "דבר שהיה בכלל ויצא לטעון טען אחר שלא כענינו",
+            "כל דבר שהיה בכלל ויצא לטעון טען אחר שלא כענינו",
+            "דבר שהיה בכלל ויצא לטעון טוען אחר שלא כעניינו",
+            "כל דבר שהיה בכלל ויצא לטעון טוען אחר שלא כעניינו",
+            "דבר שהיה בכלל ויצא לטעון טען אחר שלא כענינו יצא להקל ולהחמיר",
+            "יצא לטעון טען אחר שלא כענינו",
+            "יצא לטעון טוען אחר שלא כעניינו",
+            "טען אחר שלא כענינו",
+            "טוען אחר שלא כעניינו",
+            "יצא להקל ולהחמיר",
+            "להקל ולהחמיר",
+            "Singled out to state another provision not similar to the general category",
+            "Singled out to be both lenient and stringent",
+            "Davar Shehaya Bichlal Veyatza Liton Toan Acher Shelo Keinyano",
+            "Davar Shehayah Bichlal V'yatza Liton Toan Acher Shelo K'inyano",
+            "Kol Davar Shehayah BiChelal VeYatza Lit'on To'an Acher Shelo KeInyano",
+            "Yatza Lit'on To'an Acher Shelo KeInyano",
+            "Yatza Min HaKelal Lit'on To'an Acher Shelo KeInyano",
+            "Yatza Liton Toan Acher Shelo Keinyano",
+            "Toan Acher Shelo Keinyano",
+            "Yatza Lehakel Ulehachmir",
+            "Lehakel Ulehachmir",
+            "Lehakel VeLehachmir"
           ]
         },
         {
-          "text": "Rabbi Dunash ibn Tamim",
-          "tier": "obscure",
-          "aliases": [
-            "רבי דונש אבן תמים",
-            "דונש אבן תמים",
-            "Dunash ibn Tamim",
-            "Adonim ben Tamim"
-          ]
-        },
-        {
-          "text": "Rabbi Kalonymus ben Kalonymus",
-          "tier": "obscure",
-          "aliases": [
-            "רבי קלונימוס בן קלונימוס",
-            "קלונימוס בן קלונימוס",
-            "Kalonymus ben Kalonymus",
-            "Qalonymus ben Qalonymus"
-          ]
-        },
-        {
-          "text": "Rabbi Ya'akov Anatoli",
+          "text": "Davar Shehayah BiChelal VeYatza Lidon BaDavar HaChadash",
           "tier": "pearl",
+          "note": "The eleventh—and longest in the Baraita—of Rabbi Yishmael's 13 Middot: 'Kol davar shehayah bi-chelal ve-yatza lidon ba-davar ha-chadash, i atah yachol lehachaziro li-chelalo ad she-yachzirenu ha-katuv li-chelalo be-feirush.'",
+          "note_he": "המידה האחת־עשרה — והארוכה ביותר בלשון הברייתא דרבי ישמעאל: ״כל דבר שהיה בכלל ויצא לידון בדבר החדש, אי אתה יכול להחזירו לכללו עד שיחזירנו הכתוב לכללו בפירוש״.",
           "aliases": [
-            "רבי יעקב אנטולי",
-            "יעקב אנטולי",
-            "בעל מלמד התלמידים",
-            "Rabbi Yaakov Anatoli",
-            "Ya'akov Anatoli",
-            "Yaakov Anatoli",
-            "Jacob Anatoli",
-            "Rabbi Jacob Anatoli",
-            "Anatoli",
-            "Ba'al Malmad HaTalmidim"
-          ],
-          "note": "Thirteenth-century Provençal-Italian Rishon and author of the homiletical Torah commentary Malmad HaTalmidim, who served at the court of the Holy Roman Emperor Frederick II in Naples.",
-          "note_he": "חכם מן הראשונים בפרובנס ובאיטליה במאה ה־13 ובעל ספר הדרשות על התורה ״מלמד התלמידים״, ששירת בחצרו של קיסר האימפריה הרומית הקדושה פרידריך השני בנאפולי."
+            "דבר שהיה בכלל ויצא לידון בדבר החדש",
+            "כל דבר שהיה בכלל ויצא לידון בדבר החדש",
+            "דבר שהיה בכלל ויצא לדון בדבר החדש",
+            "כל דבר שהיה בכלל ויצא לדון בדבר החדש",
+            "דבר שהיה בכלל ויצא לידון בדבר החדש אי אתה יכול להחזירו לכללו עד שיחזירנו הכתוב לכללו בפירוש",
+            "כל דבר שהיה בכלל ויצא לידון בדבר החדש אי אתה יכול להחזירו לכללו עד שיחזירנו הכתוב לכללו בפירוש",
+            "יצא לידון בדבר החדש",
+            "יצא לדון בדבר החדש",
+            "לידון בדבר החדש",
+            "לדון בדבר החדש",
+            "דבר החדש",
+            "עד שיחזירנו הכתוב לכללו בפירוש",
+            "אי אתה יכול להחזירו לכללו",
+            "Singled out to be treated as a new case",
+            "Singled out for a new law",
+            "Davar Shehaya Bichlal Veyatza Lidon Badavar Hachadash",
+            "Davar Shehayah Bichlal V'yatza Lidon Badavar Hachadash",
+            "Kol Davar Shehayah BiChelal VeYatza Lidon BaDavar HaChadash",
+            "Yatza Lidon BaDavar HaChadash",
+            "Yatza Lidon Badavar Hachadash",
+            "Yatza Ladon Badavar Hachadash",
+            "Lidon BaDavar HaChadash",
+            "Lidon Badavar Hachadash",
+            "Davar HaChadash",
+            "Davar Hachadash",
+            "Ad SheYachzirenu HaKatuv LiChelalo BeFeirush"
+          ]
         }
       ]
     }
