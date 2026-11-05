@@ -958,7 +958,7 @@
         },
         {
           "text": "HaKeshet",
-          "tier": "surface",
+          "tier": "uncommon",
           "aliases": [
             "הקשת",
             "קשת",
@@ -971,7 +971,7 @@
         },
         {
           "text": "HaMan",
-          "tier": "surface",
+          "tier": "familiar",
           "aliases": [
             "המן",
             "מן",
@@ -1017,7 +1017,7 @@
         },
         {
           "text": "HaMateh",
-          "tier": "familiar",
+          "tier": "uncommon",
           "aliases": [
             "המטה",
             "מטה",
@@ -1058,7 +1058,7 @@
         },
         {
           "text": "HaKetav",
-          "tier": "familiar",
+          "tier": "uncommon",
           "aliases": [
             "הכתב",
             "כתב",
@@ -1077,7 +1077,7 @@
         },
         {
           "text": "Eilo shel Avraham Avinu",
-          "tier": "familiar",
+          "tier": "obscure",
           "aliases": [
             "אילו של אברהם אבינו",
             "אילו של אברהם",
