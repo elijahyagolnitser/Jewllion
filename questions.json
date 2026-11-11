@@ -83,12 +83,12 @@
 ]},
 {"id":"q5","prompt":"Name one of the seven names of the yetzer hara listed in Sukkah 52a.","prompt_he":"ציינו אחד משבעת שמותיו של היצר הרע המנויים בסוכה נב ע״א.","category":"Gemara","question_type":"defined_group","difficulty":"medium","provenance":"ai_draft","answers":[
 {"text":"Ra","tier":"surface","aliases":["רע","הרע","Evil","Bad","Wicked","Hara"]},
-{"text":"Arel","tier":"uncommon","aliases":["ערל","ערלה","Uncircumcised","Uncircumcision","Orlah","Arlah","Areil","Orel","Oreil"]},
+{"text":"Arel","tier":"pearl","aliases":["ערל","ערלה","Uncircumcised","Uncircumcision","Orlah","Arlah","Areil","Orel","Oreil"],"note":"In Sukkah 52a, Moshe calls the yetzer hara arel (uncircumcised), based on Devarim 10:16: circumcise the foreskin of your heart.","note_he":"בסוכה נב ע״א משה קורא ליצר הרע ״ערל״, על סמך דברים י, טז: ״ומלתם את ערלת לבבכם״."},
 {"text":"Tamei","tier":"familiar","aliases":["טמא","טומאה","Impure","Unclean","Impurity","Tame","Tameh","Tomei","Tomeh"]},
 {"text":"Sonei","tier":"familiar","aliases":["שונא","אויב","Enemy","Hater","Foe","Sone","Soneh","Soinai","Sone'a"]},
 {"text":"Mikhshol","tier":"uncommon","aliases":["מכשול","Stumbling block","Stumblingblock","Obstacle","Michshol","Mikshol","Mikshul"]},
 {"text":"Even","tier":"familiar","aliases":["אבן","לב האבן","Stone","Rock","Heart of stone","Stone heart","Eben","Lev HaEven"]},
-{"text":"Tzfoni","tier":"pearl","aliases":["צפוני","הצפוני","צפון","Hidden one","Hidden","Concealed one","Northern one","Northerner","Tzafoni","Tzefoni","Tsephoni","Tzefony","HaTzfoni","HaTzafoni","Hatzefoni"],"note":"Yoel's hatzfoni is interpreted as the yetzer hara hidden in a person's heart; the seventh designation in Sukkah 52a.","note_he":"״הצפוני״ שבספר יואל נדרש על היצר הרע הצפון בלבו של אדם; השם השביעי ברשימה בסוכה נב ע״א."}
+{"text":"Tzfoni","tier":"obscure","aliases":["צפוני","הצפוני","צפון","Hidden one","Hidden","Concealed one","Northern one","Northerner","Tzafoni","Tzefoni","Tsephoni","Tzefony","HaTzfoni","HaTzafoni","Hatzefoni"],"note":"Yoel's hatzfoni is interpreted as the yetzer hara hidden in a person's heart; the seventh designation in Sukkah 52a.","note_he":"״הצפוני״ שבספר יואל נדרש על היצר הרע הצפון בלבו של אדם; השם השביעי ברשימה בסוכה נב ע״א."}
 ]},
 {"id":"q6","prompt":"Name a condition that disqualifies a sukkah under Shulchan Aruch, Orach Chaim 626-632.","prompt_he":"ציינו מצב הפוסל סוכה לפי שולחן ערוך, אורח חיים תרכ״ו–תרל״ב.","category":"Halacha","question_type":"ritual_item_or_practice","difficulty":"easy","provenance":"ai_draft","answers":[
 {"text":"Tachat Ilan SheTzilo Merubeh","tier":"surface","aliases":["תחת אילן שצלו מרובה מחמתו","תחת עץ","תחת אילן","Under a tree","Beneath a tree","Dense tree overhead","Tree shade overhead","Tachat Ilan","Tachas Ilan","Tachat Etz","עץ מעל הסוכה","אילן מעל הסוכה"]},
