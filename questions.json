@@ -233,7 +233,7 @@
       "answers":[
         {"text":"Avraham Yitzchak HaKohen Kook","tier":"surface","aliases":["אברהם יצחק הכהן קוק","הרב קוק","Rav Kook","Rabbi Kook","Kook","Kuk","Avraham Yitzhak Kook","Abraham Isaac Kook","Avrohom Yitzchok Kook","אברהם יצחק קוק","הראי״ה קוק","ראי״ה קוק"]},
         {"text":"Yitzchak HaLevi Herzog","tier":"familiar","aliases":["יצחק אייזיק הלוי הרצוג","יצחק הלוי הרצוג","Yitzhak Herzog","Isaac Herzog","Yitzchak Isaac Herzog","Yitzchok Herzog","Rav Herzog","Rabbi Herzog","הרב הרצוג","הרצוג"]},
-        {"text":"Isser Yehudah Unterman","tier":"uncommon","aliases":["איסר יהודה אונטרמן","Isser Yehuda Unterman","Isser Yehudah Untermann","Unterman","Untermann","אונטרמן","אונטרמאן","הרב אונטרמן"]},
+        {"text":"Isser Yehudah Unterman","tier":"obscure","aliases":["איסר יהודה אונטרמן","Isser Yehuda Unterman","Isser Yehudah Untermann","Unterman","Untermann","אונטרמן","אונטרמאן","הרב אונטרמן"]},
         {"text":"Shlomo Goren","tier":"familiar","aliases":["שלמה גורן","Shlomo Goran","Shlomo Gorenchik","Goren","Rav Goren","Rabbi Goren","גורן","הרב גורן"]},
         {"text":"Avraham Elkanah Kahana Shapira","tier":"familiar","aliases":["אברהם אלקנה כהנא שפירא","אברהם שפירא","Avraham Shapira","Avrohom Shapira","Abraham Shapira","Avraham Elkana Shapira","Rav Avrum Shapira","הרב אברום שפירא","הרב שפירא","שפירא"]},
         {"text":"Yisrael Meir Lau","tier":"familiar","aliases":["ישראל מאיר לאו","Yisroel Meir Lau","Israel Meir Lau","Yisrael Lau","Israel Lau","ישראל לאו","הרב ישראל מאיר לאו"]},
@@ -250,8 +250,8 @@
         {"text":"Yitzchak Yosef","tier":"familiar","aliases":["יצחק יוסף","Yitzhak Yosef","Yitzchok Yosef","Isaac Yosef","Yitzchak Yoseph","הרב יצחק יוסף","ילקוט יוסף","Yalkut Yosef"]},
         {"text":"David Yosef","tier":"familiar","aliases":["דוד יוסף","Dovid Yosef","David Yoseph","הרב דוד יוסף"]},
         {"text":"Mordechai Piron","tier":"pearl","aliases":["מרדכי פירון","Mordekhai Piron","Mordechai Firon","Mordechai Pyron","Piron","Firon","פירון","הרב פירון","הרב מרדכי פירון"],"note":"The IDF's second Chief Military Rabbi, serving from 1971 to 1977, including during the Yom Kippur War. His tenure is documented in the Ministry of Defense's Yom Kippur War historical profile.","note_he":"הרב הצבאי הראשי השני, שכיהן בשנים 1971–1977 ובכללן מלחמת יום הכיפורים. כהונתו מתועדת בפרופיל ההיסטורי של משרד הביטחון על המלחמה."},
-        {"text":"Gad Navon","tier":"uncommon","aliases":["גד נבון","Gad Nabon","Navon","נבון","הרב גד נבון","הרב נבון"]},
-        {"text":"Yisrael Weiss","tier":"uncommon","aliases":["ישראל וייס","ישראל ויס","Israel Weiss","Yisroel Weiss","Israel Weis","Yisrael Weis","Weiss","וייס","הרב ישראל וייס"]},
+        {"text":"Gad Navon","tier":"obscure","aliases":["גד נבון","Gad Nabon","Navon","נבון","הרב גד נבון","הרב נבון"]},
+        {"text":"Yisrael Weiss","tier":"obscure","aliases":["ישראל וייס","ישראל ויס","Israel Weiss","Yisroel Weiss","Israel Weis","Yisrael Weis","Weiss","וייס","הרב ישראל וייס"]},
         {"text":"Avichai Rontzki","tier":"uncommon","aliases":["אביחי רונצקי","Avichai Ronsky","Avichai Rontsky","Avichay Rontzki","Avichai Ronzki","Rontzki","Ronsky","רונצקי","הרב רונצקי"]},
         {"text":"Rafael Peretz","tier":"familiar","aliases":["רפאל פרץ","רפי פרץ","Rafi Peretz","Raphael Peretz","Rafael Perets","Rafi Perets","Peretz","פרץ","הרב רפי פרץ"]},
         {"text":"Eyal Moshe Krim","tier":"uncommon","aliases":["אייל משה קרים","אייל קרים","איל קרים","Eyal Krim","Eyal Karim","Ayal Krim","Krim","Karim","קרים","הרב אייל קרים"]}
