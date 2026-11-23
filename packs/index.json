@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "file": "jewish-trivia-04.json",
+      "title": "Jewish trivia - Pack 04",
+      "description": "",
+      "questions": 7
+    },
+    {
+      "file": "jewish-trivia-03.json",
+      "title": "Jewish trivia - Pack 03",
+      "description": "",
+      "questions": 7
+    },
+    {
+      "file": "jewish-trivia-02.json",
+      "title": "Jewish trivia - Pack 02 - Bilingual",
+      "description": "",
+      "questions": 7
+    }
+  ]
+}

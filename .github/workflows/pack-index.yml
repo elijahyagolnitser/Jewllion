@@ -1,0 +1,39 @@
+name: Update Previous Packs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "packs/**"
+      - "build_pack_index.py"
+      - "test_pack_index.py"
+      - ".github/workflows/pack-index.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: previous-pack-index
+  cancel-in-progress: false
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Test catalog generator
+        run: python3 -B -m unittest test_pack_index
+      - name: Build catalog
+        run: python3 -B build_pack_index.py
+      - name: Commit catalog if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add packs/index.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update previous-pack catalog"
+            git push origin HEAD:main
+          fi
