@@ -1,0 +1,632 @@
+{
+  "title": "Jewish trivia - Pack 02 - Bilingual",
+  "description": "",
+  "seconds": 25,
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Name one of Keturah's six sons listed in Genesis 25:2.",
+      "category": "Tanakh",
+      "provenance": "ai_draft",
+      "answers": [
+        {
+          "text": "Midian",
+          "tier": "surface",
+          "aliases": [
+            "Midyan",
+            "מדין"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Jokshan",
+          "tier": "familiar",
+          "aliases": [
+            "Yokshan",
+            "יקשן"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Zimran",
+          "tier": "uncommon",
+          "aliases": [
+            "זמרן"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Medan",
+          "tier": "obscure",
+          "aliases": [
+            "מדן"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Shuah",
+          "tier": "uncommon",
+          "aliases": [
+            "Shuach",
+            "שוח"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Ishbak",
+          "tier": "pearl",
+          "aliases": [
+            "Yishbak",
+            "ישבק"
+          ],
+          "note": ""
+        }
+      ],
+      "prompt_he": "ציינו אחד מששת בני קטורה המנויים בבראשית כה, ב.",
+      "difficulty": "hard",
+      "question_type": "defined_group"
+    },
+    {
+      "id": "q2",
+      "prompt": "Name one of the ten gates of Jerusalem mentioned by name in Nehemiah 3.",
+      "category": "Tanakh",
+      "provenance": "ai_draft",
+      "answers": [
+        {
+          "text": "Sheep Gate",
+          "tier": "surface",
+          "aliases": [
+            "Shaar Hatzon",
+            "שער הצאן"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Fish Gate",
+          "tier": "familiar",
+          "aliases": [
+            "Shaar Hadagim",
+            "שער הדגים"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Old Gate",
+          "tier": "uncommon",
+          "aliases": [
+            "Gate of Yeshanah",
+            "Yeshanah Gate",
+            "Shaar Hayeshanah",
+            "שער הישנה"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Valley Gate",
+          "tier": "familiar",
+          "aliases": [
+            "Shaar Hagai",
+            "שער הגיא"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Dung Gate",
+          "tier": "surface",
+          "aliases": [
+            "Refuse Gate",
+            "Shaar Haashpot",
+            "שער האשפות"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Fountain Gate",
+          "tier": "uncommon",
+          "aliases": [
+            "Spring Gate",
+            "Shaar Haayin",
+            "שער העין"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Water Gate",
+          "tier": "familiar",
+          "aliases": [
+            "Shaar Hamayim",
+            "שער המים"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Horse Gate",
+          "tier": "uncommon",
+          "aliases": [
+            "Shaar Hasusim",
+            "שער הסוסים"
+          ],
+          "note": ""
+        },
+        {
+          "text": "East Gate",
+          "tier": "uncommon",
+          "aliases": [
+            "Eastern Gate",
+            "Shaar Hamizrach",
+            "שער המזרח"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Inspection Gate",
+          "tier": "pearl",
+          "aliases": [
+            "Miphkad Gate",
+            "Miphqad Gate",
+            "Gate of Miphkad",
+            "Muster Gate",
+            "Shaar Hamifkad",
+            "שער המפקד"
+          ],
+          "note": ""
+        }
+      ],
+      "prompt_he": "ציינו אחד מעשרת שערי ירושלים המוזכרים בשמם בנחמיה פרק ג.",
+      "difficulty": "hard",
+      "question_type": "defined_group"
+    },
+    {
+      "id": "q3",
+      "prompt": "Name one of the twelve stones of the High Priest's breastpiece in Exodus 28:17-20, using its Hebrew name (Hebrew script or transliteration).",
+      "category": "Tanakh",
+      "provenance": "ai_draft",
+      "answers": [
+        {
+          "text": "Odem",
+          "tier": "familiar",
+          "aliases": [
+            "אדם",
+            "אודם"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Pitdah",
+          "tier": "uncommon",
+          "aliases": [
+            "Pitda",
+            "פטדה"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Bareket",
+          "tier": "familiar",
+          "aliases": [
+            "Bareketh",
+            "ברקת"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Nofekh",
+          "tier": "uncommon",
+          "aliases": [
+            "Nofech",
+            "Nofek",
+            "נפך"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Sappir",
+          "tier": "surface",
+          "aliases": [
+            "Sapir",
+            "ספיר"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Yahalom",
+          "tier": "surface",
+          "aliases": [
+            "יהלם",
+            "יהלום"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Leshem",
+          "tier": "uncommon",
+          "aliases": [
+            "לשם"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Shevo",
+          "tier": "pearl",
+          "aliases": [
+            "Shebo",
+            "Shvo",
+            "שבו"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Achlamah",
+          "tier": "obscure",
+          "aliases": [
+            "Ahlamah",
+            "Achlama",
+            "אחלמה"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Tarshish",
+          "tier": "familiar",
+          "aliases": [
+            "תרשיש"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Shoham",
+          "tier": "surface",
+          "aliases": [
+            "שהם",
+            "שוהם"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Yashfeh",
+          "tier": "obscure",
+          "aliases": [
+            "Yashpeh",
+            "Yashfe",
+            "ישפה"
+          ],
+          "note": ""
+        }
+      ],
+      "prompt_he": "ציינו אחת משתים עשרה אבני החושן המנויות בשמות כח, יז-כ, בשמה העברי (באותיות עבריות או בתעתיק).",
+      "difficulty": "medium",
+      "question_type": "defined_group"
+    },
+    {
+      "id": "q4",
+      "prompt": "Name one of the seven liquids that Mishnah Makhshirin 6:4 lists as rendering food susceptible to ritual impurity.",
+      "category": "Mishnah",
+      "provenance": "ai_draft",
+      "answers": [
+        {
+          "text": "Water",
+          "tier": "surface",
+          "aliases": [
+            "Mayim",
+            "מים"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Wine",
+          "tier": "surface",
+          "aliases": [
+            "Yayin",
+            "יין"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Olive oil",
+          "tier": "familiar",
+          "aliases": [
+            "Shemen",
+            "Shemen zayit",
+            "שמן",
+            "שמן זית"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Milk",
+          "tier": "familiar",
+          "aliases": [
+            "Chalav",
+            "Cholov",
+            "חלב"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Blood",
+          "tier": "uncommon",
+          "aliases": [
+            "Dam",
+            "דם"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Dew",
+          "tier": "uncommon",
+          "aliases": [
+            "Tal",
+            "טל"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Bee honey",
+          "tier": "pearl",
+          "aliases": [
+            "Bees' honey",
+            "Dvash devorim",
+            "Devash dvorim",
+            "דבש דבורים"
+          ],
+          "note": ""
+        }
+      ],
+      "prompt_he": "ציינו אחד משבעת המשקים המכשירים אוכל לקבל טומאה, המנויים במשנה מכשירין ו, ד.",
+      "difficulty": "medium",
+      "question_type": "defined_group"
+    },
+    {
+      "id": "q5",
+      "prompt": "Name one of the eight 'princes of men' (nesikhei adam) identified in Sukkah 52b.",
+      "category": "Gemara",
+      "provenance": "ai_draft",
+      "answers": [
+        {
+          "text": "Jesse",
+          "tier": "uncommon",
+          "aliases": [
+            "Yishai",
+            "Yishay",
+            "ישי"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Saul",
+          "tier": "familiar",
+          "aliases": [
+            "Shaul",
+            "שאול"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Samuel",
+          "tier": "familiar",
+          "aliases": [
+            "Shmuel",
+            "Shmuel Hanavi",
+            "שמואל"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Amos",
+          "tier": "obscure",
+          "aliases": [
+            "עמוס"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Zephaniah",
+          "tier": "pearl",
+          "aliases": [
+            "Tzefaniah",
+            "Tzefanyah",
+            "Tsephaniah",
+            "צפניה"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Zedekiah",
+          "tier": "obscure",
+          "aliases": [
+            "Tzidkiyahu",
+            "Tzidkiah",
+            "צדקיה",
+            "צדקיהו"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Messiah",
+          "tier": "surface",
+          "aliases": [
+            "Mashiach",
+            "Moshiach",
+            "משיח"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Elijah",
+          "tier": "familiar",
+          "aliases": [
+            "Eliyahu",
+            "Eliyahu Hanavi",
+            "אליהו"
+          ],
+          "note": ""
+        }
+      ],
+      "prompt_he": "ציינו אחד משמונת נסיכי האדם המנויים בגמרא בסוכה נב ע״ב.",
+      "difficulty": "hard",
+      "question_type": "defined_group"
+    },
+    {
+      "id": "q6",
+      "prompt": "Name one of the five classic disqualifying defects in shechita (kosher slaughter).",
+      "category": "Halacha",
+      "provenance": "ai_draft",
+      "answers": [
+        {
+          "text": "Shehiyah",
+          "tier": "surface",
+          "aliases": [
+            "Shehiya",
+            "Pausing",
+            "שהיה",
+            "שהייה"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Derasah",
+          "tier": "familiar",
+          "aliases": [
+            "Derasa",
+            "Drasah",
+            "Pressing",
+            "דרסה"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Chaladah",
+          "tier": "uncommon",
+          "aliases": [
+            "Chalada",
+            "Haladah",
+            "Concealment",
+            "חלדה"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Hagramah",
+          "tier": "pearl",
+          "aliases": [
+            "Hagrama",
+            "הגרמה"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Ikkur",
+          "tier": "familiar",
+          "aliases": [
+            "Ikur",
+            "Uprooting",
+            "עיקור"
+          ],
+          "note": ""
+        }
+      ],
+      "prompt_he": "ציינו אחד מחמשת הדברים הפוסלים בשחיטה.",
+      "difficulty": "hard",
+      "question_type": "defined_group"
+    },
+    {
+      "id": "q7",
+      "prompt": "Name one of the seven Hebrew 'double letters' (kefulot) listed in Sefer Yetzirah.",
+      "category": "Wildcard",
+      "provenance": "ai_draft",
+      "answers": [
+        {
+          "text": "Bet",
+          "tier": "surface",
+          "aliases": [
+            "Beit",
+            "Beth",
+            "Beis",
+            "Vet",
+            "ב",
+            "בית",
+            "בי\"ת"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Gimel",
+          "tier": "familiar",
+          "aliases": [
+            "Gimmel",
+            "ג",
+            "גימל"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Dalet",
+          "tier": "familiar",
+          "aliases": [
+            "Daleth",
+            "Daled",
+            "ד",
+            "דלת",
+            "דל\"ת"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Kaf",
+          "tier": "familiar",
+          "aliases": [
+            "Kaph",
+            "Chaf",
+            "Khaf",
+            "כ",
+            "כף",
+            "כ\"ף"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Pe",
+          "tier": "familiar",
+          "aliases": [
+            "Peh",
+            "Pey",
+            "Fe",
+            "Feh",
+            "פ",
+            "פא",
+            "פ\"א"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Resh",
+          "tier": "pearl",
+          "aliases": [
+            "Reish",
+            "ר",
+            "ריש",
+            "רי\"ש"
+          ],
+          "note": ""
+        },
+        {
+          "text": "Tav",
+          "tier": "surface",
+          "aliases": [
+            "Taw",
+            "Taf",
+            "Sav",
+            "ת",
+            "תו",
+            "תיו",
+            "תי\"ו"
+          ],
+          "note": ""
+        }
+      ],
+      "prompt_he": "ציינו אחת משבע האותיות הכפולות המנויות בספר יצירה.",
+      "difficulty": "hard",
+      "question_type": "defined_group"
+    }
+  ]
+}
