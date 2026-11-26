@@ -1396,7 +1396,7 @@
         },
         {
           "text": "Machbanai",
-          "tier": "pearl",
+          "tier": "obscure",
           "aliases": [
             "מכבני",
             "Machbannai",
@@ -1494,6 +1494,208 @@
           ],
           "note": "I Divrei HaYamim 12:21-22 names this Manassite among the chiefs of thousands and army officers joining David. The two Yozavads occupy separate positions in the same verse.",
           "note_he": "דברי הימים א יב, כא-כב מונה אותו בראשי האלפים ממנשה ובשרים בצבא המצטרפים לדוד. שני יוזבד רשומים בנפרד באותו פסוק."
+        },
+        {
+          "text": "Aryoch",
+          "tier": "pearl",
+          "aliases": [
+            "אריוך",
+            "Arioch",
+            "Aryokh",
+            "Ariokh",
+            "Aryok",
+            "Ariok",
+            "Arioch the captain of the guard",
+            "Aryoch Rav Tabachaya",
+            "Aryoch Sar HaTabachim",
+            "אריוך שר הטבחים",
+            "אריוך רב טבחיא"
+          ],
+          "note": "Daniel 2:14 explicitly calls Aryoch rav tabachaya, captain of the royal guard, sent to execute Babylon's sages. This is Daniel's Aryoch, not the king of Ellasar in Bereishis.",
+          "note_he": "דניאל ב, יד מכנה את אריוך במפורש רב טבחיא של המלך, היוצא להרוג את חכמי בבל. זהו אריוך שבדניאל, ולא מלך אלסר שבבראשית."
+        },
+        {
+          "text": "Nevuchadnetzar",
+          "tier": "familiar",
+          "aliases": [
+            "נבוכדנאצר",
+            "Nebuchadnezzar",
+            "Nebuchadrezzar",
+            "Nevuchadnezzar",
+            "Nevukhadnetzar",
+            "Nevuchadnetzer",
+            "נבוכדנצר",
+            "נבוכדראצר"
+          ],
+          "note": "Daniel 1:1 describes his siege of Jerusalem; 3:20 explicitly has him command soldiers of his army to bind Chananyah, Mishael, and Azaryah and cast them into the furnace.",
+          "note_he": "דניאל א, א מתאר את המצור שהטיל על ירושלים; ג, כ מציין במפורש שהוא מצווה על גיבורי צבאו לכפות את חנניה, מישאל ועזריה ולהשליכם לכבשן."
+        },
+        {
+          "text": "Rechavam",
+          "tier": "uncommon",
+          "aliases": [
+            "רחבעם",
+            "Rehoboam",
+            "Rechav'am",
+            "Rekhavam",
+            "Rechavam ben Shlomo",
+            "רחבעם בן שלמה"
+          ],
+          "note": "II Divrei HaYamim 11:1-4 has Rechavam muster 180,000 warriors to fight Israel, then stand down at Hashem's command. Actual combat is not required for command of an assembled army.",
+          "note_he": "דברי הימים ב יא, א-ד מתאר את כינוסם של מאה ושמונים אלף לוחמים בידי רחבעם למלחמה בישראל ואת ביטול המסע בציווי ה'. פיקוד על כוח מכונס אינו מחייב קרב בפועל."
+        },
+        {
+          "text": "Shishak",
+          "tier": "uncommon",
+          "aliases": [
+            "שישק",
+            "Shishaq",
+            "Shishak Melekh Mitzrayim",
+            "Shishak king of Egypt",
+            "שישק מלך מצרים"
+          ],
+          "note": "II Divrei HaYamim 12:2-4 describes Shishak advancing with 1,200 chariots, 60,000 horsemen, and innumerable troops, taking Judah's fortified cities and reaching Jerusalem.",
+          "note_he": "דברי הימים ב יב, ב-ד מתאר את שישק העולה עם אלף ומאתיים מרכבות, שישים אלף פרשים ועם רב, לוכד את ערי המצור של יהודה ומגיע לירושלים."
+        },
+        {
+          "text": "Achav",
+          "tier": "uncommon",
+          "aliases": [
+            "אחאב",
+            "Ahab",
+            "Akhav",
+            "Achav ben Omri",
+            "Ahab son of Omri",
+            "אחאב בן עמרי"
+          ],
+          "note": "In II Divrei HaYamim 18:3, Yehoshafat places his troops alongside Achav's for the Ramot Gilad campaign; verses 28-29 describe their march and Achav's battle plan to fight disguised.",
+          "note_he": "בדברי הימים ב יח, ג יהושפט מעמיד את אנשיו לצד אנשי אחאב למסע לרמות גלעד; פסוקים כח-כט מתארים את עלייתם למלחמה ואת תוכנית אחאב להילחם בתחפושת."
+        },
+        {
+          "text": "Yehoram Melekh Yehudah",
+          "tier": "uncommon",
+          "aliases": [
+            "יהורם מלך יהודה",
+            "Yehoram",
+            "Jehoram",
+            "Joram",
+            "Jehoram king of Judah",
+            "Yehoram ben Yehoshafat",
+            "יהורם",
+            "יהורם בן יהושפט",
+            "יורם"
+          ],
+          "note": "II Divrei HaYamim 21:9 has Yehoram advance with his officers and all his chariots and attack the surrounding Edomites by night. This is Yehoram of Judah, not the same-named king of Israel.",
+          "note_he": "דברי הימים ב כא, ט מתאר את יהורם היוצא עם שריו וכל הרכב ומכה בלילה באדומים הסובבים אותו. זהו יהורם מלך יהודה, ולא מלך ישראל בעל אותו השם."
+        },
+        {
+          "text": "Yoash Melekh Yisrael",
+          "tier": "uncommon",
+          "aliases": [
+            "יואש מלך ישראל",
+            "Yoash",
+            "Joash",
+            "Jehoash",
+            "Yehoash",
+            "Joash king of Israel",
+            "Jehoash king of Israel",
+            "Yoash ben Yehoachaz",
+            "יואש",
+            "יהואש",
+            "יואש בן יהואחז"
+          ],
+          "note": "II Divrei HaYamim 25:21-23 describes Yoash leading Israel's campaign against Amatzyahu, routing Judah and capturing its king. This is Yoash of Israel, not Yoash of Judah.",
+          "note_he": "דברי הימים ב כה, כא-כג מתאר את מסע יואש מלך ישראל נגד אמציהו, את תבוסת יהודה ואת תפיסת מלכה. זהו יואש מלך ישראל, ולא יואש מלך יהודה."
+        },
+        {
+          "text": "Uziyahu",
+          "tier": "uncommon",
+          "aliases": [
+            "עזיהו",
+            "Uzziah",
+            "Uziah",
+            "Uziyah",
+            "Uzziahu",
+            "Uziyahu Melekh Yehudah",
+            "Uzziah king of Judah",
+            "עוזיהו",
+            "עזיה",
+            "עוזיה"
+          ],
+          "note": "II Divrei HaYamim 26:6 describes his campaign against Philistine cities; 26:11-14 explicitly describes his organized army, its command structure, and the weapons he provides.",
+          "note_he": "דברי הימים ב כו, ו מתאר את מלחמתו בערי פלשתים; כו, יא-יד מתאר במפורש את צבאו המאורגן, את שרשרת הפיקוד ואת כלי הנשק שהוא מכין ללוחמים."
+        },
+        {
+          "text": "Sancheriv",
+          "tier": "familiar",
+          "aliases": [
+            "סנחריב",
+            "Sennacherib",
+            "Sanheriv",
+            "Sankheriv",
+            "Sancherib",
+            "Sancheriv Melekh Ashur",
+            "Sennacherib king of Assyria",
+            "סנחריב מלך אשור"
+          ],
+          "note": "II Divrei HaYamim 32:1 describes Sancheriv invading Judah and encamping against its fortified cities; 32:9 places him at Lachish with his force while he sends officers to Jerusalem.",
+          "note_he": "דברי הימים ב לב, א מתאר את סנחריב הפולש ליהודה וחונה על ערי המצור; לב, ט מציב אותו בלכיש וכל ממשלתו עמו, בשעה שהוא שולח שליחים לירושלים."
+        },
+        {
+          "text": "Chizkiyahu",
+          "tier": "uncommon",
+          "aliases": [
+            "חזקיהו",
+            "Hezekiah",
+            "Chizkiyah",
+            "Chizkiya",
+            "Chizkiyahu HaMelekh",
+            "Hizkiyahu",
+            "Yechizkiyahu",
+            "Yechezkiyahu",
+            "יחזקיהו",
+            "חזקיה",
+            "חזקיהו המלך"
+          ],
+          "note": "II Divrei HaYamim 32:5-8 describes Chizkiyahu preparing weapons, appointing military commanders, and assembling and addressing the defenders against Assyria, not merely holding royal office.",
+          "note_he": "דברי הימים ב לב, ה-ח מתאר את חזקיהו מכין נשק, ממנה שרי מלחמות ומכנס ומעודד את המגינים מול אשור; הזכאות אינה נובעת מתואר המלך בלבד."
+        },
+        {
+          "text": "Necho",
+          "tier": "uncommon",
+          "aliases": [
+            "נכו",
+            "Neco",
+            "Nekho",
+            "Paroh Necho",
+            "Paro Necho",
+            "Pharaoh Necho",
+            "Pharaoh Neco",
+            "Necho Melekh Mitzrayim",
+            "Necho king of Egypt",
+            "פרעה נכו",
+            "פרעה נכה",
+            "נכה",
+            "נכו מלך מצרים"
+          ],
+          "note": "II Divrei HaYamim 35:20-24 describes Necho's campaign toward Carchemish and his confrontation with Yoshiyahu at Megiddo; his eligibility rests on this military expedition, not kingship alone.",
+          "note_he": "דברי הימים ב לה, כ-כד מתאר את מסע נכו למלחמה בכרכמיש ואת העימות עם יאשיהו במגידו; הזכאות נובעת מהמסע הצבאי ולא ממלוכתו בלבד."
+        },
+        {
+          "text": "Yoshiyahu",
+          "tier": "uncommon",
+          "aliases": [
+            "יאשיהו",
+            "Josiah",
+            "Yoshiyah",
+            "Yoshiyahu HaMelekh",
+            "Yoshiyahu Melekh Yehudah",
+            "Josiah king of Judah",
+            "יאשיה",
+            "יאשיהו המלך"
+          ],
+          "note": "II Divrei HaYamim 35:20-24 describes Yoshiyahu going out against Necho and entering battle at Megiddo, where he is wounded. This military expedition, rather than kingship alone, establishes eligibility.",
+          "note_he": "דברי הימים ב לה, כ-כד מתאר את יאשיהו היוצא נגד נכו ובא להילחם במגידו, שם הוא נפצע. הזכאות מבוססת על המסע הצבאי ולא על מלוכה בלבד."
         }
       ]
     },
